@@ -1,0 +1,4235 @@
+{
+  "EnglishShlok": [{
+    "description": "dhṛitarāśhtra uvācha\ndharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya\n",
+    "lang": "english",
+    "verseNumber": 1,
+    "language_id": 1,
+    "id": 1,
+    "chapter_id": 1
+  }, {
+    "description": "sañjaya uvācha\ndṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā\nāchāryamupasaṅgamya rājā vachanamabravīt\n",
+    "lang": "english",
+    "verseNumber": 2,
+    "language_id": 1,
+    "id": 2,
+    "chapter_id": 1
+  }, {
+    "description": "paśhyaitāṁ pāṇḍu-putrāṇām āchārya mahatīṁ chamūm\nvyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā\n",
+    "lang": "english",
+    "verseNumber": 3,
+    "language_id": 1,
+    "id": 3,
+    "chapter_id": 1
+  }, {
+    "description": "atra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ\n",
+    "lang": "english",
+    "verseNumber": 4,
+    "language_id": 1,
+    "id": 4,
+    "chapter_id": 1
+  }, {
+    "description": "dhṛiṣhṭaketuśhchekitānaḥ kāśhirājaśhcha vīryavān\npurujit kuntibhojaśhcha śhaibyaśhcha nara-puṅgavaḥ\nyudhāmanyuśhcha vikrānta uttamaujāśhcha vīryavān\n",
+    "lang": "english",
+    "verseNumber": 5,
+    "language_id": 1,
+    "id": 5,
+    "chapter_id": 1
+  }, {
+    "description": "saubhadro draupadeyāśhcha sarva eva mahā-rathāḥ\n",
+    "lang": "english",
+    "verseNumber": 6,
+    "language_id": 1,
+    "id": 6,
+    "chapter_id": 1
+  }, {
+    "description": "asmākaṁ tu viśhiṣhṭā ye tānnibodha dwijottama\nnāyakā mama sainyasya sanjñārthaṁ tānbravīmi te\n",
+    "lang": "english",
+    "verseNumber": 7,
+    "language_id": 1,
+    "id": 7,
+    "chapter_id": 1
+  }, {
+    "description": "bhavānbhīṣhmaśhcha karṇaśhcha kṛipaśhcha samitiñjayaḥ\naśhvatthāmā vikarṇaśhcha saumadattis tathaiva cha\n",
+    "lang": "english",
+    "verseNumber": 8,
+    "language_id": 1,
+    "id": 8,
+    "chapter_id": 1
+  }, {
+    "description": "anye cha bahavaḥ śhūrā madarthe tyaktajīvitāḥ\nnānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ\n",
+    "lang": "english",
+    "verseNumber": 9,
+    "language_id": 1,
+    "id": 9,
+    "chapter_id": 1
+  }, {
+    "description": "aparyāptaṁ tadasmākaṁ balaṁ bhīṣhmābhirakṣhitam\nparyāptaṁ tvidameteṣhāṁ balaṁ bhīmābhirakṣhitam\n",
+    "lang": "english",
+    "verseNumber": 10,
+    "language_id": 1,
+    "id": 10,
+    "chapter_id": 1
+  }, {
+    "description": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ\nbhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi\n",
+    "lang": "english",
+    "verseNumber": 11,
+    "language_id": 1,
+    "id": 11,
+    "chapter_id": 1
+  }, {
+    "description": "tasya sañjanayan harṣhaṁ kuru-vṛiddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān\n",
+    "lang": "english",
+    "verseNumber": 12,
+    "language_id": 1,
+    "id": 12,
+    "chapter_id": 1
+  }, {
+    "description": "tataḥ śhaṅkhāśhcha bheryaśhcha paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śhabdastumulo ’bhavat\n",
+    "lang": "english",
+    "verseNumber": 13,
+    "language_id": 1,
+    "id": 13,
+    "chapter_id": 1
+  }, {
+    "description": "tataḥ śhvetairhayairyukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaśhchaiva divyau śhaṅkhau pradadhmatuḥ\n",
+    "lang": "english",
+    "verseNumber": 14,
+    "language_id": 1,
+    "id": 14,
+    "chapter_id": 1
+  }, {
+    "description": "pāñchajanyaṁ hṛiṣhīkeśho devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahā-śhaṅkhaṁ bhīma-karmā vṛikodaraḥ\n",
+    "lang": "english",
+    "verseNumber": 15,
+    "language_id": 1,
+    "id": 15,
+    "chapter_id": 1
+  }, {
+    "description": "anantavijayaṁ rājā kuntī-putro yudhiṣhṭhiraḥ\nnakulaḥ sahadevaśhcha sughoṣha-maṇipuṣhpakau\n",
+    "lang": "english",
+    "verseNumber": 16,
+    "language_id": 1,
+    "id": 16,
+    "chapter_id": 1
+  }, {
+    "description": "kāśhyaśhcha parameṣhvāsaḥ śhikhaṇḍī cha mahā-rathaḥ\ndhṛiṣhṭadyumno virāṭaśhcha sātyakiśh chāparājitaḥ\n",
+    "lang": "english",
+    "verseNumber": 17,
+    "language_id": 1,
+    "id": 17,
+    "chapter_id": 1
+  }, {
+    "description": "drupado draupadeyāśhcha sarvaśhaḥ pṛithivī-pate\nsaubhadraśhcha mahā-bāhuḥ śhaṅkhāndadhmuḥ pṛithak pṛithak\n",
+    "lang": "english",
+    "verseNumber": 18,
+    "language_id": 1,
+    "id": 18,
+    "chapter_id": 1
+  }, {
+    "description": "sa ghoṣho dhārtarāṣhṭrāṇāṁ hṛidayāni vyadārayat\nnabhaśhcha pṛithivīṁ chaiva tumulo nunādayan\n",
+    "lang": "english",
+    "verseNumber": 19,
+    "language_id": 1,
+    "id": 19,
+    "chapter_id": 1
+  }, {
+    "description": "atha vyavasthitān dṛiṣhṭvā dhārtarāṣhṭrān kapi-dhwajaḥ\npravṛitte śhastra-sampāte dhanurudyamya pāṇḍavaḥ\nhṛiṣhīkeśhaṁ tadā vākyam idam āha mahī-pate\n",
+    "lang": "english",
+    "verseNumber": 20,
+    "language_id": 1,
+    "id": 20,
+    "chapter_id": 1
+  }, {
+    "description": "arjuna uvācha\nsenayor ubhayor madhye rathaṁ sthāpaya me ’chyuta\n",
+    "lang": "english",
+    "verseNumber": 21,
+    "language_id": 1,
+    "id": 21,
+    "chapter_id": 1
+  }, {
+    "description": "yāvadetān nirīkṣhe ’haṁ yoddhu-kāmān avasthitān\nkairmayā saha yoddhavyam asmin raṇa-samudyame\n",
+    "lang": "english",
+    "verseNumber": 22,
+    "language_id": 1,
+    "id": 22,
+    "chapter_id": 1
+  }, {
+    "description": "yotsyamānān avekṣhe ’haṁ ya ete ’tra samāgatāḥ\ndhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ\n",
+    "lang": "english",
+    "verseNumber": 23,
+    "language_id": 1,
+    "id": 23,
+    "chapter_id": 1
+  }, {
+    "description": "sañjaya uvācha\nevam ukto hṛiṣhīkeśho guḍākeśhena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam\n",
+    "lang": "english",
+    "verseNumber": 24,
+    "language_id": 1,
+    "id": 24,
+    "chapter_id": 1
+  }, {
+    "description": "bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām\nuvācha pārtha paśhyaitān samavetān kurūn iti\n",
+    "lang": "english",
+    "verseNumber": 25,
+    "language_id": 1,
+    "id": 25,
+    "chapter_id": 1
+  }, {
+    "description": "tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān\nāchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā\nśhvaśhurān suhṛidaśh chaiva senayor ubhayor api\n",
+    "lang": "english",
+    "verseNumber": 26,
+    "language_id": 1,
+    "id": 26,
+    "chapter_id": 1
+  }, {
+    "description": "tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān\nkṛipayā parayāviṣhṭo viṣhīdann idam abravīt\n",
+    "lang": "english",
+    "verseNumber": 27,
+    "language_id": 1,
+    "id": 27
+  }, {
+    "description": "arjuna uvācha\ndṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam\n",
+    "lang": "english",
+    "verseNumber": 28,
+    "language_id": 1,
+    "id": 28
+  }, {
+    "description": "sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati\nvepathuśh cha śharīre me roma-harṣhaśh cha jāyate\n",
+    "lang": "english",
+    "verseNumber": 29,
+    "language_id": 1,
+    "id": 29
+  }, {
+    "description": "gāṇḍīvaṁ sraṁsate hastāt tvak chaiva paridahyate\nna cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ\n",
+    "lang": "english",
+    "verseNumber": 30,
+    "language_id": 1,
+    "id": 30
+  }, {
+    "description": "nimittāni cha paśhyāmi viparītāni keśhava\nna cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave\n",
+    "lang": "english",
+    "verseNumber": 31,
+    "language_id": 1,
+    "id": 31
+  }, {
+    "description": "na kāṅkṣhe vijayaṁ kṛiṣhṇa na cha rājyaṁ sukhāni cha\nkiṁ no rājyena govinda kiṁ bhogair jīvitena vā\n",
+    "lang": "english",
+    "verseNumber": 32,
+    "language_id": 1,
+    "id": 32
+  }, {
+    "description": "yeṣhām arthe kāṅkṣhitaṁ no rājyaṁ bhogāḥ sukhāni cha\nta ime ’vasthitā yuddhe prāṇāṁs tyaktvā dhanāni cha\n",
+    "lang": "english",
+    "verseNumber": 33,
+    "language_id": 1,
+    "id": 33
+  }, {
+    "description": "āchāryāḥ pitaraḥ putrās tathaiva cha pitāmahāḥ\nmātulāḥ śhvaśhurāḥ pautrāḥ śhyālāḥ sambandhinas tathā\n",
+    "lang": "english",
+    "verseNumber": 34,
+    "language_id": 1,
+    "id": 34
+  }, {
+    "description": "etān na hantum ichchhāmi ghnato ’pi madhusūdana\napi trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛite\n",
+    "lang": "english",
+    "verseNumber": 35,
+    "language_id": 1,
+    "id": 35
+  }, {
+    "description": "nihatya dhārtarāṣhṭrān naḥ kā prītiḥ syāj janārdana\npāpam evāśhrayed asmān hatvaitān ātatāyinaḥ\n",
+    "lang": "english",
+    "verseNumber": 36,
+    "language_id": 1,
+    "id": 36
+  }, {
+    "description": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣhṭrān sa-bāndhavān \nsva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava\n",
+    "lang": "english",
+    "verseNumber": 37,
+    "language_id": 1,
+    "id": 37
+  }, {
+    "description": "yady apy ete na paśhyanti lobhopahata-chetasaḥ\nkula-kṣhaya-kṛitaṁ doṣhaṁ mitra-drohe cha pātakam\n",
+    "lang": "english",
+    "verseNumber": 38,
+    "language_id": 1,
+    "id": 38
+  }, {
+    "description": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣhaya-kṛitaṁ doṣhaṁ prapaśhyadbhir janārdana\n",
+    "lang": "english",
+    "verseNumber": 39,
+    "language_id": 1,
+    "id": 39
+  }, {
+    "description": "kula-kṣhaye praṇaśhyanti kula-dharmāḥ sanātanāḥ\ndharme naṣhṭe kulaṁ kṛitsnam adharmo ’bhibhavaty uta\n",
+    "lang": "english",
+    "verseNumber": 40,
+    "language_id": 1,
+    "id": 40
+  }, {
+    "description": "adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ\nstrīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ\n",
+    "lang": "english",
+    "verseNumber": 41,
+    "language_id": 1,
+    "id": 41
+  }, {
+    "description": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya cha\npatanti pitaro hy eṣhāṁ lupta-piṇḍodaka-kriyāḥ\n",
+    "lang": "english",
+    "verseNumber": 42,
+    "language_id": 1,
+    "id": 42
+  }, {
+    "description": "doṣhair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāśh cha śhāśhvatāḥ\n",
+    "lang": "english",
+    "verseNumber": 43,
+    "language_id": 1,
+    "id": 43
+  }, {
+    "description": "utsanna-kula-dharmāṇāṁ manuṣhyāṇāṁ janārdana\nnarake ‘niyataṁ vāso bhavatītyanuśhuśhruma\n",
+    "lang": "english",
+    "verseNumber": 44,
+    "language_id": 1,
+    "id": 44
+  }, {
+    "description": "aho bata mahat pāpaṁ kartuṁ vyavasitā vayam\nyad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ\n",
+    "lang": "english",
+    "verseNumber": 45,
+    "language_id": 1,
+    "id": 45
+  }, {
+    "description": "yadi mām apratīkāram aśhastraṁ śhastra-pāṇayaḥ\ndhārtarāṣhṭrā raṇe hanyus tan me kṣhemataraṁ bhavet\n",
+    "lang": "english",
+    "verseNumber": 46,
+    "language_id": 1,
+    "id": 46
+  }, {
+    "description": "sañjaya uvācha\nevam uktvārjunaḥ saṅkhye rathopastha upāviśhat\nvisṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ\n",
+    "lang": "english",
+    "verseNumber": 47,
+    "language_id": 1,
+    "id": 47
+  }, {
+    "description": "sañjaya uvācha\ntaṁ tathā kṛipayāviṣhṭamaśhru pūrṇākulekṣhaṇam\nviṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ\n",
+    "lang": "english",
+    "verseNumber": 48,
+    "language_id": 1,
+    "id": 48
+  }, {
+    "description": "śhrī bhagavān uvācha\nkutastvā kaśhmalamidaṁ viṣhame samupasthitam\nanārya-juṣhṭamaswargyam akīrti-karam arjuna\n",
+    "lang": "english",
+    "verseNumber": 49,
+    "language_id": 1,
+    "id": 49
+  }, {
+    "description": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate\nkṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa\n",
+    "lang": "english",
+    "verseNumber": 50,
+    "language_id": 1,
+    "id": 50
+  }, {
+    "description": "arjuna uvācha\nkathaṁ bhīṣhmam ahaṁ sankhye droṇaṁ cha madhusūdana\niṣhubhiḥ pratiyotsyāmi pūjārhāvari-sūdana\n",
+    "lang": "english",
+    "verseNumber": 51,
+    "language_id": 1,
+    "id": 51
+  }, {
+    "description": "gurūnahatvā hi mahānubhāvān\nśhreyo bhoktuṁ bhaikṣhyamapīha loke\nhatvārtha-kāmāṁstu gurūnihaiva\nbhuñjīya bhogān rudhira-pradigdhān\n",
+    "lang": "english",
+    "verseNumber": 52,
+    "language_id": 1,
+    "id": 52
+  }, {
+    "description": "na chaitadvidmaḥ kataranno garīyo\nyadvā jayema yadi vā no jayeyuḥ\nyāneva hatvā na jijīviṣhāmas\nte ’vasthitāḥ pramukhe dhārtarāṣhṭrāḥ\n",
+    "lang": "english",
+    "verseNumber": 53,
+    "language_id": 1,
+    "id": 53
+  }, {
+    "description": "kārpaṇya-doṣhopahata-svabhāvaḥ\npṛichchhāmi tvāṁ dharma-sammūḍha-chetāḥ\nyach-chhreyaḥ syānniśhchitaṁ brūhi tanme\nśhiṣhyaste ’haṁ śhādhi māṁ tvāṁ prapannam\n",
+    "lang": "english",
+    "verseNumber": 54,
+    "language_id": 1,
+    "id": 54
+  }, {
+    "description": "na hi prapaśhyāmi mamāpanudyād\nyach-chhokam uchchhoṣhaṇam-indriyāṇām\navāpya bhūmāv-asapatnamṛiddhaṁ\nrājyaṁ surāṇāmapi chādhipatyam\n",
+    "lang": "english",
+    "verseNumber": 55,
+    "language_id": 1,
+    "id": 55
+  }, {
+    "description": "sañjaya uvācha\nevam-uktvā hṛiṣhīkeśhaṁ guḍākeśhaḥ parantapa\nna yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha\n",
+    "lang": "english",
+    "verseNumber": 56,
+    "language_id": 1,
+    "id": 56
+  }, {
+    "description": "tam-uvācha hṛiṣhīkeśhaḥ prahasanniva bhārata\nsenayorubhayor-madhye viṣhīdantam-idaṁ vachaḥ\n",
+    "lang": "english",
+    "verseNumber": 57,
+    "language_id": 1,
+    "id": 57
+  }, {
+    "description": "śhrī bhagavān uvācha\naśhochyān-anvaśhochas-tvaṁ prajñā-vādānśh cha bhāṣhase\ngatāsūn-agatāsūnśh-cha nānuśhochanti paṇḍitāḥ\n",
+    "lang": "english",
+    "verseNumber": 58,
+    "language_id": 1,
+    "id": 58
+  }, {
+    "description": "na tvevāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ\nna chaiva na bhaviṣhyāmaḥ sarve vayamataḥ param\n",
+    "lang": "english",
+    "verseNumber": 59,
+    "language_id": 1,
+    "id": 59
+  }, {
+    "description": "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati\n",
+    "lang": "english",
+    "verseNumber": 60,
+    "language_id": 1,
+    "id": 60
+  }, {
+    "description": "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ\nāgamāpāyino ’nityās tans-titikṣhasva bhārata\n",
+    "lang": "english",
+    "verseNumber": 61,
+    "language_id": 1,
+    "id": 61
+  }, {
+    "description": "yaṁ hi na vyathayantyete puruṣhaṁ puruṣharṣhabha\nsama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate\n",
+    "lang": "english",
+    "verseNumber": 62,
+    "language_id": 1,
+    "id": 62
+  }, {
+    "description": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayorapi dṛiṣhṭo ’nta stvanayos tattva-darśhibhiḥ\n",
+    "lang": "english",
+    "verseNumber": 63,
+    "language_id": 1,
+    "id": 63
+  }, {
+    "description": "avināśhi tu tadviddhi yena sarvam idaṁ tatam\nvināśham avyayasyāsya na kaśhchit kartum arhati\n",
+    "lang": "english",
+    "verseNumber": 64,
+    "language_id": 1,
+    "id": 64
+  }, {
+    "description": "antavanta ime dehā nityasyoktāḥ śharīriṇaḥ\nanāśhino ’prameyasya tasmād yudhyasva bhārata\n",
+    "lang": "english",
+    "verseNumber": 65,
+    "language_id": 1,
+    "id": 65
+  }, {
+    "description": "ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam\nubhau tau na vijānīto nāyaṁ hanti na hanyate\n",
+    "lang": "english",
+    "verseNumber": 66,
+    "language_id": 1,
+    "id": 66
+  }, {
+    "description": "na jāyate mriyate vā kadāchin\nnāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato ’yaṁ purāṇo\nna hanyate hanyamāne śharīre\n",
+    "lang": "english",
+    "verseNumber": 67,
+    "language_id": 1,
+    "id": 67
+  }, {
+    "description": "vedāvināśhinaṁ nityaṁ ya enam ajam avyayam\nkathaṁ sa puruṣhaḥ pārtha kaṁ ghātayati hanti kam\n",
+    "lang": "english",
+    "verseNumber": 68,
+    "language_id": 1,
+    "id": 68
+  }, {
+    "description": "vāsānsi jīrṇāni yathā vihāya\nnavāni gṛihṇāti naro ’parāṇi\ntathā śharīrāṇi vihāya jīrṇānya\nnyāni sanyāti navāni dehī\n",
+    "lang": "english",
+    "verseNumber": 69,
+    "language_id": 1,
+    "id": 69
+  }, {
+    "description": "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ\nna chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ\n",
+    "lang": "english",
+    "verseNumber": 70,
+    "language_id": 1,
+    "id": 70
+  }, {
+    "description": "achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha\nnityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ\n",
+    "lang": "english",
+    "verseNumber": 71,
+    "language_id": 1,
+    "id": 71
+  }, {
+    "description": "avyakto ’yam achintyo ’yam avikāryo ’yam uchyate\ntasmādevaṁ viditvainaṁ nānuśhochitum arhasi\n",
+    "lang": "english",
+    "verseNumber": 72,
+    "language_id": 1,
+    "id": 72
+  }, {
+    "description": "atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛitam\ntathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi\n",
+    "lang": "english",
+    "verseNumber": 73,
+    "language_id": 1,
+    "id": 73
+  }, {
+    "description": "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha\ntasmād aparihārye ’rthe na tvaṁ śhochitum arhasi\n",
+    "lang": "english",
+    "verseNumber": 74,
+    "language_id": 1,
+    "id": 74
+  }, {
+    "description": "avyaktādīni bhūtāni vyakta-madhyāni bhārata\navyakta-nidhanānyeva tatra kā paridevanā\n",
+    "lang": "english",
+    "verseNumber": 75,
+    "language_id": 1,
+    "id": 75
+  }, {
+    "description": "āśhcharya-vat paśhyati kaśhchid enan\nāśhcharya-vad vadati tathaiva chānyaḥ\nāśhcharya-vach chainam anyaḥ śhṛiṇoti\nśhrutvāpyenaṁ veda na chaiva kaśhchit\n",
+    "lang": "english",
+    "verseNumber": 76,
+    "language_id": 1,
+    "id": 76
+  }, {
+    "description": "dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata\ntasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi\n",
+    "lang": "english",
+    "verseNumber": 77,
+    "language_id": 1,
+    "id": 77
+  }, {
+    "description": "swa-dharmam api chāvekṣhya na vikampitum arhasi\ndharmyāddhi yuddhāch chhreyo ’nyat kṣhatriyasya na vidyate\n",
+    "lang": "english",
+    "verseNumber": 78,
+    "language_id": 1,
+    "id": 78
+  }, {
+    "description": "yadṛichchhayā chopapannaṁ swarga-dvāram apāvṛitam\nsukhinaḥ kṣhatriyāḥ pārtha labhante yuddham īdṛiśham\n",
+    "lang": "english",
+    "verseNumber": 79,
+    "language_id": 1,
+    "id": 79
+  }, {
+    "description": "atha chet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣhyasi\ntataḥ sva-dharmaṁ kīrtiṁ cha hitvā pāpam avāpsyasi\n",
+    "lang": "english",
+    "verseNumber": 80,
+    "language_id": 1,
+    "id": 80
+  }, {
+    "description": "akīrtiṁ chāpi bhūtāni\nkathayiṣhyanti te ’vyayām\nsambhāvitasya chākīrtir\nmaraṇād atirichyate\n",
+    "lang": "english",
+    "verseNumber": 81,
+    "language_id": 1,
+    "id": 81
+  }, {
+    "description": "bhayād raṇād uparataṁ mansyante tvāṁ mahā-rathāḥ\nyeṣhāṁ cha tvaṁ bahu-mato bhūtvā yāsyasi lāghavam\n",
+    "lang": "english",
+    "verseNumber": 82,
+    "language_id": 1,
+    "id": 82
+  }, {
+    "description": "avāchya-vādānśh cha bahūn vadiṣhyanti tavāhitāḥ\nnindantastava sāmarthyaṁ tato duḥkhataraṁ nu kim\n",
+    "lang": "english",
+    "verseNumber": 83,
+    "language_id": 1,
+    "id": 83
+  }, {
+    "description": "hato vā prāpsyasi swargaṁ jitvā vā bhokṣhyase mahīm\ntasmād uttiṣhṭha kaunteya yuddhāya kṛita-niśhchayaḥ\n",
+    "lang": "english",
+    "verseNumber": 84,
+    "language_id": 1,
+    "id": 84
+  }, {
+    "description": "sukha-duḥkhe same kṛitvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṁ pāpam avāpsyasi\n",
+    "lang": "english",
+    "verseNumber": 85,
+    "language_id": 1,
+    "id": 85
+  }, {
+    "description": "eṣhā te ’bhihitā sānkhye\nbuddhir yoge tvimāṁ śhṛiṇu\nbuddhyā yukto yayā pārtha\nkarma-bandhaṁ prahāsyasi\n",
+    "lang": "english",
+    "verseNumber": 86,
+    "language_id": 1,
+    "id": 86
+  }, {
+    "description": "nehābhikrama-nāśho ’sti pratyavāyo na vidyate\nsvalpam apyasya dharmasya trāyate mahato bhayāt\n",
+    "lang": "english",
+    "verseNumber": 87,
+    "language_id": 1,
+    "id": 87
+  }, {
+    "description": "vyavasāyātmikā buddhir ekeha kuru-nandana\nbahu-śhākhā hyanantāśh cha buddhayo ’vyavasāyinām\n",
+    "lang": "english",
+    "verseNumber": 88,
+    "language_id": 1,
+    "id": 88
+  }, {
+    "description": "yāmimāṁ puṣhpitāṁ vāchaṁ pravadanty-avipaśhchitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ\n",
+    "lang": "english",
+    "verseNumber": 89,
+    "language_id": 1,
+    "id": 89
+  }, {
+    "description": "kāmātmānaḥ svarga-parā \n\n janma-karma-phala-pradām\n\n kriyā-viśeṣa-bahulāṁ\n\n bhogaiśvarya-gatiṁ prati\n",
+    "lang": "english",
+    "verseNumber": 90,
+    "language_id": 1,
+    "id": 90
+  }, {
+    "description": "bhogaiśwvarya-prasaktānāṁ tayāpahṛita-chetasām\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate\n",
+    "lang": "english",
+    "verseNumber": 91,
+    "language_id": 1,
+    "id": 91
+  }, {
+    "description": "trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna\nnirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān\n",
+    "lang": "english",
+    "verseNumber": 92,
+    "language_id": 1,
+    "id": 92
+  }, {
+    "description": "yāvān artha udapāne sarvataḥ samplutodake\ntāvānsarveṣhu vedeṣhu brāhmaṇasya vijānataḥ\n",
+    "lang": "english",
+    "verseNumber": 93,
+    "language_id": 1,
+    "id": 93
+  }, {
+    "description": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi\n",
+    "lang": "english",
+    "verseNumber": 94,
+    "language_id": 1,
+    "id": 94
+  }, {
+    "description": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya\nsiddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate\n",
+    "lang": "english",
+    "verseNumber": 95,
+    "language_id": 1,
+    "id": 95
+  }, {
+    "description": "dūreṇa hy-avaraṁ karma buddhi-yogād dhanañjaya\nbuddhau śharaṇam anvichchha kṛipaṇāḥ phala-hetavaḥ\n",
+    "lang": "english",
+    "verseNumber": 96,
+    "language_id": 1,
+    "id": 96
+  }, {
+    "description": "buddhi-yukto jahātīha ubhe sukṛita-duṣhkṛite\ntasmād yogāya yujyasva yogaḥ karmasu kauśhalam\n",
+    "lang": "english",
+    "verseNumber": 97,
+    "language_id": 1,
+    "id": 97
+  }, {
+    "description": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣhiṇaḥ\njanma-bandha-vinirmuktāḥ padaṁ gachchhanty-anāmayam\n",
+    "lang": "english",
+    "verseNumber": 98,
+    "language_id": 1,
+    "id": 98
+  }, {
+    "description": "yadā te moha-kalilaṁ buddhir vyatitariṣhyati\ntadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha\n",
+    "lang": "english",
+    "verseNumber": 99,
+    "language_id": 1,
+    "id": 99
+  }, {
+    "description": "śhruti-vipratipannā te yadā sthāsyati niśhchalā\nsamādhāv-achalā buddhis tadā yogam avāpsyasi\n",
+    "lang": "english",
+    "verseNumber": 100,
+    "language_id": 1,
+    "id": 100
+  }, {
+    "description": "arjuna uvācha\nsthita-prajñasya kā bhāṣhā samādhi-sthasya keśhava\nsthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim\n",
+    "lang": "english",
+    "verseNumber": 101,
+    "language_id": 1,
+    "id": 101
+  }, {
+    "description": "śhrī bhagavān uvācha\nprajahāti yadā kāmān sarvān pārtha mano-gatān\nātmany-evātmanā tuṣhṭaḥ sthita-prajñas tadochyate\n",
+    "lang": "english",
+    "verseNumber": 102,
+    "language_id": 1,
+    "id": 102
+  }, {
+    "description": "duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ\nvīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate\n",
+    "lang": "english",
+    "verseNumber": 103,
+    "language_id": 1,
+    "id": 103
+  }, {
+    "description": "yaḥ sarvatrānabhisnehas tat tat prāpya śhubhāśhubham\nnābhinandati na dveṣhṭi tasya prajñā pratiṣhṭhitā\n",
+    "lang": "english",
+    "verseNumber": 104,
+    "language_id": 1,
+    "id": 104
+  }, {
+    "description": "yadā sanharate chāyaṁ kūrmo ’ṅgānīva sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā\n",
+    "lang": "english",
+    "verseNumber": 105,
+    "language_id": 1,
+    "id": 105
+  }, {
+    "description": "viṣhayā vinivartante nirāhārasya dehinaḥ\nrasa-varjaṁ raso ’pyasya paraṁ dṛiṣhṭvā nivartate\n",
+    "lang": "english",
+    "verseNumber": 106,
+    "language_id": 1,
+    "id": 106
+  }, {
+    "description": "yatato hyapi kaunteya puruṣhasya vipaśhchitaḥ\nindriyāṇi pramāthīni haranti prasabhaṁ manaḥ\n",
+    "lang": "english",
+    "verseNumber": 107,
+    "language_id": 1,
+    "id": 107
+  }, {
+    "description": "tāni sarvāṇi sanyamya yukta āsīta mat-paraḥ\nvaśhe hi yasyendriyāṇi tasya prajñā pratiṣhṭhitā\n",
+    "lang": "english",
+    "verseNumber": 108,
+    "language_id": 1,
+    "id": 108
+  }, {
+    "description": "dhyāyato viṣhayān puṁsaḥ saṅgas teṣhūpajāyate\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho ’bhijāyate\n",
+    "lang": "english",
+    "verseNumber": 109,
+    "language_id": 1,
+    "id": 109
+  }, {
+    "description": "krodhād bhavati sammohaḥ sammohāt smṛiti-vibhramaḥ\nsmṛiti-bhranśhād buddhi-nāśho buddhi-nāśhāt praṇaśhyati\n",
+    "lang": "english",
+    "verseNumber": 110,
+    "language_id": 1,
+    "id": 110
+  }, {
+    "description": "rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan\nātma-vaśhyair-vidheyātmā prasādam adhigachchhati\n",
+    "lang": "english",
+    "verseNumber": 111,
+    "language_id": 1,
+    "id": 111
+  }, {
+    "description": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate\nprasanna-chetaso hyāśhu buddhiḥ paryavatiṣhṭhate\n",
+    "lang": "english",
+    "verseNumber": 112,
+    "language_id": 1,
+    "id": 112
+  }, {
+    "description": "nāsti buddhir-ayuktasya na chāyuktasya bhāvanā\nna chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham\n",
+    "lang": "english",
+    "verseNumber": 113,
+    "language_id": 1,
+    "id": 113
+  }, {
+    "description": "indriyāṇāṁ hi charatāṁ yan mano ’nuvidhīyate\ntadasya harati prajñāṁ vāyur nāvam ivāmbhasi\n",
+    "lang": "english",
+    "verseNumber": 114,
+    "language_id": 1,
+    "id": 114
+  }, {
+    "description": "tasmād yasya mahā-bāho nigṛihītāni sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā\n",
+    "lang": "english",
+    "verseNumber": 115,
+    "language_id": 1,
+    "id": 115
+  }, {
+    "description": "yā niśhā sarva-bhūtānāṁ tasyāṁ jāgarti sanyamī\nyasyāṁ jāgrati bhūtāni sā niśhā paśhyato muneḥ\n",
+    "lang": "english",
+    "verseNumber": 116,
+    "language_id": 1,
+    "id": 116
+  }, {
+    "description": "āpūryamāṇam achala-pratiṣhṭhaṁ\nsamudram āpaḥ praviśhanti yadvat\ntadvat kāmā yaṁ praviśhanti sarve\nsa śhāntim āpnoti na kāma-kāmī\n",
+    "lang": "english",
+    "verseNumber": 117,
+    "language_id": 1,
+    "id": 117
+  }, {
+    "description": "vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ\nnirmamo nirahankāraḥ sa śhāntim adhigachchhati\n",
+    "lang": "english",
+    "verseNumber": 118,
+    "language_id": 1,
+    "id": 118
+  }, {
+    "description": "eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati\nsthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati\n",
+    "lang": "english",
+    "verseNumber": 119,
+    "language_id": 1,
+    "id": 119
+  }, {
+    "description": "arjuna uvācha\njyāyasī chet karmaṇas te matā buddhir janārdana\ntat kiṁ karmaṇi ghore māṁ niyojayasi keśhava\n",
+    "lang": "english",
+    "verseNumber": 120,
+    "language_id": 1,
+    "id": 120
+  }, {
+    "description": "vyāmiśhreṇeva vākyena buddhiṁ mohayasīva me\ntad ekaṁ vada niśhchitya yena śhreyo ’ham āpnuyām\n",
+    "lang": "english",
+    "verseNumber": 121,
+    "language_id": 1,
+    "id": 121
+  }, {
+    "description": "śhrī bhagavān uvācha\nloke’smin dvi-vidhā niṣhṭhā purā proktā mayānagha\njñāna-yogena sāṅkhyānāṁ karma-yogena yoginām\n",
+    "lang": "english",
+    "verseNumber": 122,
+    "language_id": 1,
+    "id": 122
+  }, {
+    "description": "na karmaṇām anārambhān naiṣhkarmyaṁ puruṣho ’śhnute\nna cha sannyasanād eva siddhiṁ samadhigachchhati\n",
+    "lang": "english",
+    "verseNumber": 123,
+    "language_id": 1,
+    "id": 123
+  }, {
+    "description": "na hi kaśhchit kṣhaṇam api jātu tiṣhṭhatyakarma-kṛit\nkāryate hyavaśhaḥ karma sarvaḥ prakṛiti-jair guṇaiḥ\n",
+    "lang": "english",
+    "verseNumber": 124,
+    "language_id": 1,
+    "id": 124
+  }, {
+    "description": "karmendriyāṇi sanyamya ya āste manasā smaran\nindriyārthān vimūḍhātmā mithyāchāraḥ sa uchyate\n",
+    "lang": "english",
+    "verseNumber": 125,
+    "language_id": 1,
+    "id": 125
+  }, {
+    "description": "yas tvindriyāṇi manasā niyamyārabhate ’rjuna\nkarmendriyaiḥ karma-yogam asaktaḥ sa viśhiṣhyate\n",
+    "lang": "english",
+    "verseNumber": 126,
+    "language_id": 1,
+    "id": 126
+  }, {
+    "description": "niyataṁ kuru karma tvaṁ karma jyāyo hyakarmaṇaḥ\nśharīra-yātrāpi cha te na prasiddhyed akarmaṇaḥ\n",
+    "lang": "english",
+    "verseNumber": 127,
+    "language_id": 1,
+    "id": 127
+  }, {
+    "description": "yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ\ntad-arthaṁ karma kaunteya mukta-saṅgaḥ samāchara\n",
+    "lang": "english",
+    "verseNumber": 128,
+    "language_id": 1,
+    "id": 128
+  }, {
+    "description": "saha-yajñāḥ prajāḥ sṛiṣhṭvā purovācha prajāpatiḥ\nanena prasaviṣhyadhvam eṣha vo ’stviṣhṭa-kāma-dhuk\n",
+    "lang": "english",
+    "verseNumber": 129,
+    "language_id": 1,
+    "id": 129
+  }, {
+    "description": "devān bhāvayatānena te devā bhāvayantu vaḥ\nparasparaṁ bhāvayantaḥ śhreyaḥ param avāpsyatha\n",
+    "lang": "english",
+    "verseNumber": 130,
+    "language_id": 1,
+    "id": 130
+  }, {
+    "description": "iṣhṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ\ntair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ\n",
+    "lang": "english",
+    "verseNumber": 131,
+    "language_id": 1,
+    "id": 131
+  }, {
+    "description": "yajña-śhiṣhṭāśhinaḥ santo muchyante sarva-kilbiṣhaiḥ\nbhuñjate te tvaghaṁ pāpā ye pachantyātma-kāraṇāt\n",
+    "lang": "english",
+    "verseNumber": 132,
+    "language_id": 1,
+    "id": 132
+  }, {
+    "description": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ\nyajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ\n",
+    "lang": "english",
+    "verseNumber": 133,
+    "language_id": 1,
+    "id": 133
+  }, {
+    "description": "karma brahmodbhavaṁ viddhi brahmākṣhara-samudbhavam\ntasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣhṭhitam\n",
+    "lang": "english",
+    "verseNumber": 134,
+    "language_id": 1,
+    "id": 134
+  }, {
+    "description": "evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ\naghāyur indriyārāmo moghaṁ pārtha sa jīvati\n",
+    "lang": "english",
+    "verseNumber": 135,
+    "language_id": 1,
+    "id": 135
+  }, {
+    "description": "yas tvātma-ratir eva syād ātma-tṛiptaśh cha mānavaḥ\nātmanyeva cha santuṣhṭas tasya kāryaṁ na vidyate\n",
+    "lang": "english",
+    "verseNumber": 136,
+    "language_id": 1,
+    "id": 136
+  }, {
+    "description": "naiva tasya kṛitenārtho nākṛiteneha kaśhchana\nna chāsya sarva-bhūteṣhu kaśhchid artha-vyapāśhrayaḥ\n",
+    "lang": "english",
+    "verseNumber": 137,
+    "language_id": 1,
+    "id": 137
+  }, {
+    "description": "tasmād asaktaḥ satataṁ kāryaṁ karma samāchara\nasakto hyācharan karma param āpnoti pūruṣhaḥ\n",
+    "lang": "english",
+    "verseNumber": 138,
+    "language_id": 1,
+    "id": 138
+  }, {
+    "description": "karmaṇaiva hi sansiddhim āsthitā janakādayaḥ\nloka-saṅgraham evāpi sampaśhyan kartum arhasi\n",
+    "lang": "english",
+    "verseNumber": 139,
+    "language_id": 1,
+    "id": 139
+  }, {
+    "description": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate\n",
+    "lang": "english",
+    "verseNumber": 140,
+    "language_id": 1,
+    "id": 140
+  }, {
+    "description": "na me pārthāsti kartavyaṁ triṣhu lokeṣhu kiñchana\nnānavāptam avāptavyaṁ varta eva cha karmaṇi\n",
+    "lang": "english",
+    "verseNumber": 141,
+    "language_id": 1,
+    "id": 141
+  }, {
+    "description": "yadi hyahaṁ na varteyaṁ jātu karmaṇyatandritaḥ\nmama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ\n",
+    "lang": "english",
+    "verseNumber": 142,
+    "language_id": 1,
+    "id": 142
+  }, {
+    "description": "utsīdeyur ime lokā na kuryāṁ karma ched aham\nsankarasya cha kartā syām upahanyām imāḥ prajāḥ\n",
+    "lang": "english",
+    "verseNumber": 143,
+    "language_id": 1,
+    "id": 143
+  }, {
+    "description": "saktāḥ karmaṇyavidvānso yathā kurvanti bhārata\nkuryād vidvāns tathāsaktaśh chikīrṣhur loka-saṅgraham\n",
+    "lang": "english",
+    "verseNumber": 144,
+    "language_id": 1,
+    "id": 144
+  }, {
+    "description": "na buddhi-bhedaṁ janayed ajñānāṁ karma-saṅginām\njoṣhayet sarva-karmāṇi vidvān yuktaḥ samācharan\n",
+    "lang": "english",
+    "verseNumber": 145,
+    "language_id": 1,
+    "id": 145
+  }, {
+    "description": "prakṛiteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ\nahankāra-vimūḍhātmā kartāham iti manyate\n",
+    "lang": "english",
+    "verseNumber": 146,
+    "language_id": 1,
+    "id": 146
+  }, {
+    "description": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ\nguṇā guṇeṣhu vartanta iti matvā na sajjate\n",
+    "lang": "english",
+    "verseNumber": 147,
+    "language_id": 1,
+    "id": 147
+  }, {
+    "description": "prakṛiter guṇa-sammūḍhāḥ sajjante guṇa-karmasu\ntān akṛitsna-vido mandān kṛitsna-vin na vichālayet\n",
+    "lang": "english",
+    "verseNumber": 148,
+    "language_id": 1,
+    "id": 148
+  }, {
+    "description": "mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā\nnirāśhīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ\n",
+    "lang": "english",
+    "verseNumber": 149,
+    "language_id": 1,
+    "id": 149
+  }, {
+    "description": "ye me matam idaṁ nityam anutiṣhṭhanti mānavāḥ\nśhraddhāvanto ’nasūyanto muchyante te ’pi karmabhiḥ\n",
+    "lang": "english",
+    "verseNumber": 150,
+    "language_id": 1,
+    "id": 150
+  }, {
+    "description": "ye tvetad abhyasūyanto nānutiṣhṭhanti me matam\nsarva-jñāna-vimūḍhāns tān viddhi naṣhṭān achetasaḥ\n",
+    "lang": "english",
+    "verseNumber": 151,
+    "language_id": 1,
+    "id": 151
+  }, {
+    "description": "sadṛiśhaṁ cheṣhṭate svasyāḥ prakṛiter jñānavān api\nprakṛitiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣhyati\n",
+    "lang": "english",
+    "verseNumber": 152,
+    "language_id": 1,
+    "id": 152
+  }, {
+    "description": "indriyasyendriyasyārthe rāga-dveṣhau vyavasthitau\ntayor na vaśham āgachchhet tau hyasya paripanthinau\n",
+    "lang": "english",
+    "verseNumber": 153,
+    "language_id": 1,
+    "id": 153
+  }, {
+    "description": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt\nswa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ\n",
+    "lang": "english",
+    "verseNumber": 154,
+    "language_id": 1,
+    "id": 154
+  }, {
+    "description": "arjuna uvācha\natha kena prayukto ’yaṁ pāpaṁ charati pūruṣhaḥ\nanichchhann api vārṣhṇeya balād iva niyojitaḥ\n",
+    "lang": "english",
+    "verseNumber": 155,
+    "language_id": 1,
+    "id": 155
+  }, {
+    "description": "śhrī bhagavān uvācha\nkāma eṣha krodha eṣha rajo-guṇa-samudbhavaḥ\nmahāśhano mahā-pāpmā viddhyenam iha vairiṇam\n",
+    "lang": "english",
+    "verseNumber": 156,
+    "language_id": 1,
+    "id": 156
+  }, {
+    "description": "dhūmenāvriyate vahnir yathādarśho malena cha\nyatholbenāvṛito garbhas tathā tenedam āvṛitam\n",
+    "lang": "english",
+    "verseNumber": 157,
+    "language_id": 1,
+    "id": 157
+  }, {
+    "description": "āvṛitaṁ jñānam etena jñānino nitya-vairiṇā\nkāma-rūpeṇa kaunteya duṣhpūreṇānalena cha\n",
+    "lang": "english",
+    "verseNumber": 158,
+    "language_id": 1,
+    "id": 158
+  }, {
+    "description": "indriyāṇi mano buddhir asyādhiṣhṭhānam uchyate\netair vimohayatyeṣha jñānam āvṛitya dehinam\n",
+    "lang": "english",
+    "verseNumber": 159,
+    "language_id": 1,
+    "id": 159
+  }, {
+    "description": "tasmāt tvam indriyāṇyādau niyamya bharatarṣhabha\npāpmānaṁ prajahi hyenaṁ jñāna-vijñāna-nāśhanam\n",
+    "lang": "english",
+    "verseNumber": 160,
+    "language_id": 1,
+    "id": 160
+  }, {
+    "description": "indriyāṇi parāṇyāhur indriyebhyaḥ paraṁ manaḥ\nmanasas tu parā buddhir yo buddheḥ paratas tu saḥ\n",
+    "lang": "english",
+    "verseNumber": 161,
+    "language_id": 1,
+    "id": 161
+  }, {
+    "description": "evaṁ buddheḥ paraṁ buddhvā sanstabhyātmānam ātmanā\njahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam\n",
+    "lang": "english",
+    "verseNumber": 162,
+    "language_id": 1,
+    "id": 162
+  }, {
+    "description": "śhrī bhagavān uvācha\nimaṁ vivasvate yogaṁ proktavān aham avyayam\nvivasvān manave prāha manur ikṣhvākave ’bravīt\n",
+    "lang": "english",
+    "verseNumber": 163,
+    "language_id": 1,
+    "id": 163
+  }, {
+    "description": "evaṁ paramparā-prāptam imaṁ rājarṣhayo viduḥ\nsa kāleneha mahatā yogo naṣhṭaḥ parantapa\n\n",
+    "lang": "english",
+    "verseNumber": 164,
+    "language_id": 1,
+    "id": 164
+  }, {
+    "description": "sa evāyaṁ mayā te ’dya yogaḥ proktaḥ purātanaḥ\nbhakto ’si me sakhā cheti rahasyaṁ hyetad uttamam\n\n",
+    "lang": "english",
+    "verseNumber": 165,
+    "language_id": 1,
+    "id": 165
+  }, {
+    "description": "arjuna uvācha\naparaṁ bhavato janma paraṁ janma vivasvataḥ\nkatham etad vijānīyāṁ tvam ādau proktavān iti\n\n",
+    "lang": "english",
+    "verseNumber": 166,
+    "language_id": 1,
+    "id": 166
+  }, {
+    "description": "śhrī bhagavān uvācha\nbahūni me vyatītāni janmāni tava chārjuna\ntānyahaṁ veda sarvāṇi na tvaṁ vettha parantapa\n\n",
+    "lang": "english",
+    "verseNumber": 167,
+    "language_id": 1,
+    "id": 167
+  }, {
+    "description": "ajo ’pi sannavyayātmā bhūtānām īśhvaro ’pi san\nprakṛitiṁ svām adhiṣhṭhāya sambhavāmyātma-māyayā\n\n",
+    "lang": "english",
+    "verseNumber": 168,
+    "language_id": 1,
+    "id": 168
+  }, {
+    "description": "yadā yadā hi dharmasya glānir bhavati bhārata\nabhyutthānam adharmasya tadātmānaṁ sṛijāmyaham\n\n",
+    "lang": "english",
+    "verseNumber": 169,
+    "language_id": 1,
+    "id": 169
+  }, {
+    "description": "paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛitām\ndharma-sansthāpanārthāya sambhavāmi yuge yuge\n\n",
+    "lang": "english",
+    "verseNumber": 170,
+    "language_id": 1,
+    "id": 170
+  }, {
+    "description": "janma karma cha me divyam evaṁ yo vetti tattvataḥ\ntyaktvā dehaṁ punar janma naiti mām eti so ’rjuna\n\n",
+    "lang": "english",
+    "verseNumber": 171,
+    "language_id": 1,
+    "id": 171
+  }, {
+    "description": "vīta-rāga-bhaya-krodhā man-mayā mām upāśhritāḥ\nbahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ\n\n",
+    "lang": "english",
+    "verseNumber": 172,
+    "language_id": 1,
+    "id": 172
+  }, {
+    "description": "ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham\nmama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 173,
+    "language_id": 1,
+    "id": 173
+  }, {
+    "description": "kāṅkṣhantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ\nkṣhipraṁ hi mānuṣhe loke siddhir bhavati karmajā\n\n",
+    "lang": "english",
+    "verseNumber": 174,
+    "language_id": 1,
+    "id": 174
+  }, {
+    "description": "chātur-varṇyaṁ mayā sṛiṣhṭaṁ guṇa-karma-vibhāgaśhaḥ\ntasya kartāram api māṁ viddhyakartāram avyayam\n\n",
+    "lang": "english",
+    "verseNumber": 175,
+    "language_id": 1,
+    "id": 175
+  }, {
+    "description": "na māṁ karmāṇi limpanti na me karma-phale spṛihā\niti māṁ yo ’bhijānāti karmabhir na sa badhyate\n\n",
+    "lang": "english",
+    "verseNumber": 176,
+    "language_id": 1,
+    "id": 176
+  }, {
+    "description": "evaṁ jñātvā kṛitaṁ karma pūrvair api mumukṣhubhiḥ\nkuru karmaiva tasmāttvaṁ pūrvaiḥ pūrvataraṁ kṛitam\n\n",
+    "lang": "english",
+    "verseNumber": 177,
+    "language_id": 1,
+    "id": 177
+  }, {
+    "description": "kiṁ karma kim akarmeti kavayo ’pyatra mohitāḥ\ntat te karma pravakṣhyāmi yaj jñātvā mokṣhyase ’śhubhāt\n\n",
+    "lang": "english",
+    "verseNumber": 178,
+    "language_id": 1,
+    "id": 178
+  }, {
+    "description": "karmaṇo hyapi boddhavyaṁ boddhavyaṁ cha vikarmaṇaḥ\nakarmaṇaśh cha boddhavyaṁ gahanā karmaṇo gatiḥ\n\n",
+    "lang": "english",
+    "verseNumber": 179,
+    "language_id": 1,
+    "id": 179
+  }, {
+    "description": "karmaṇyakarma yaḥ paśhyed akarmaṇi cha karma yaḥ\nsa buddhimān manuṣhyeṣhu sa yuktaḥ kṛitsna-karma-kṛit\n\n",
+    "lang": "english",
+    "verseNumber": 180,
+    "language_id": 1,
+    "id": 180
+  }, {
+    "description": "yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ\njñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ\n\n",
+    "lang": "english",
+    "verseNumber": 181,
+    "language_id": 1,
+    "id": 181
+  }, {
+    "description": "tyaktvā karma-phalāsaṅgaṁ nitya-tṛipto nirāśhrayaḥ\nkarmaṇyabhipravṛitto ’pi naiva kiñchit karoti saḥ\n\n",
+    "lang": "english",
+    "verseNumber": 182,
+    "language_id": 1,
+    "id": 182
+  }, {
+    "description": "nirāśhīr yata-chittātmā tyakta-sarva-parigrahaḥ\nśhārīraṁ kevalaṁ karma kurvan nāpnoti kilbiṣham\n\n",
+    "lang": "english",
+    "verseNumber": 183,
+    "language_id": 1,
+    "id": 183
+  }, {
+    "description": "yadṛichchhā-lābha-santuṣhṭo dvandvātīto vimatsaraḥ\nsamaḥ siddhāvasiddhau cha kṛitvāpi na nibadhyate\n\n",
+    "lang": "english",
+    "verseNumber": 184,
+    "language_id": 1,
+    "id": 184
+  }, {
+    "description": "gata-saṅgasya muktasya jñānāvasthita-chetasaḥ\nyajñāyācharataḥ karma samagraṁ pravilīyate\n\n",
+    "lang": "english",
+    "verseNumber": 185,
+    "language_id": 1,
+    "id": 185
+  }, {
+    "description": "brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam\nbrahmaiva tena gantavyaṁ brahma-karma-samādhinā\n\n",
+    "lang": "english",
+    "verseNumber": 186,
+    "language_id": 1,
+    "id": 186
+  }, {
+    "description": "daivam evāpare yajñaṁ yoginaḥ paryupāsate\nbrahmāgnāvapare yajñaṁ yajñenaivopajuhvati\n\n",
+    "lang": "english",
+    "verseNumber": 187,
+    "language_id": 1,
+    "id": 187
+  }, {
+    "description": "śhrotrādīnīndriyāṇyanye sanyamāgniṣhu juhvati\nśhabdādīn viṣhayānanya indriyāgniṣhu juhvati\n\n",
+    "lang": "english",
+    "verseNumber": 188,
+    "language_id": 1,
+    "id": 188
+  }, {
+    "description": "sarvāṇīndriya-karmāṇi prāṇa-karmāṇi chāpare\nātma-sanyama-yogāgnau juhvati jñāna-dīpite\n\n",
+    "lang": "english",
+    "verseNumber": 189,
+    "language_id": 1,
+    "id": 189
+  }, {
+    "description": "dravya-yajñās tapo-yajñā yoga-yajñās tathāpare\nswādhyāya-jñāna-yajñāśh cha yatayaḥ sanśhita-vratāḥ\n\n",
+    "lang": "english",
+    "verseNumber": 190,
+    "language_id": 1,
+    "id": 190
+  }, {
+    "description": "apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare\nprāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ\n",
+    "lang": "english",
+    "verseNumber": 191,
+    "language_id": 1,
+    "id": 191
+  }, {
+    "description": "apare niyatāhārāḥ prāṇān  prāṇeṣu juhvati\n\nsarve py 'ete yajña - vido yajña - kṣapita - kalmaṣāḥ\n ",
+    "lang": "english",
+    "verseNumber": 192,
+    "language_id": 1,
+    "id": 192
+  }, {
+    "description": "yajña-śhiṣhṭāmṛita-bhujo yānti brahma sanātanam\nnāyaṁ loko ’styayajñasya kuto ’nyaḥ kuru-sattama\n\n",
+    "lang": "english",
+    "verseNumber": 193,
+    "language_id": 1,
+    "id": 193
+  }, {
+    "description": "evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe\nkarma-jān viddhi tān sarvān evaṁ jñātvā vimokṣhyase\n\n",
+    "lang": "english",
+    "verseNumber": 194,
+    "language_id": 1,
+    "id": 194
+  }, {
+    "description": "śhreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa\nsarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate\n\n",
+    "lang": "english",
+    "verseNumber": 195,
+    "language_id": 1,
+    "id": 195
+  }, {
+    "description": "tad viddhi praṇipātena paripraśhnena sevayā\nupadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 196,
+    "language_id": 1,
+    "id": 196
+  }, {
+    "description": "yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava\nyena bhūtānyaśheṣheṇa drakṣhyasyātmanyatho mayi\n\n",
+    "lang": "english",
+    "verseNumber": 197,
+    "language_id": 1,
+    "id": 197
+  }, {
+    "description": "api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛit-tamaḥ\nsarvaṁ jñāna-plavenaiva vṛijinaṁ santariṣhyasi\n\n",
+    "lang": "english",
+    "verseNumber": 198,
+    "language_id": 1,
+    "id": 198
+  }, {
+    "description": "yathaidhānsi samiddho ’gnir bhasma-sāt kurute ’rjuna\njñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā\n\n",
+    "lang": "english",
+    "verseNumber": 199,
+    "language_id": 1,
+    "id": 199
+  }, {
+    "description": "na hi jñānena sadṛiśhaṁ pavitramiha vidyate\ntatsvayaṁ yogasansiddhaḥ kālenātmani vindati\n\n",
+    "lang": "english",
+    "verseNumber": 200,
+    "language_id": 1,
+    "id": 200
+  }, {
+    "description": "śhraddhāvān labhate jñānaṁ tat-paraḥ sanyatendriyaḥ\njñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati\n\n",
+    "lang": "english",
+    "verseNumber": 201,
+    "language_id": 1,
+    "id": 201
+  }, {
+    "description": "ajñaśh chāśhraddadhānaśh cha sanśhayātmā vinaśhyati\nnāyaṁ loko ’sti na paro na sukhaṁ sanśhayātmanaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 202,
+    "language_id": 1,
+    "id": 202
+  }, {
+    "description": "yoga-sannyasta-karmāṇaṁ jñāna-sañchhinna-sanśhayam\nātmavantaṁ na karmāṇi nibadhnanti dhanañjaya\n\n",
+    "lang": "english",
+    "verseNumber": 203,
+    "language_id": 1,
+    "id": 203
+  }, {
+    "description": "tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ\nchhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata\n\n",
+    "lang": "english",
+    "verseNumber": 204,
+    "language_id": 1,
+    "id": 204
+  }, {
+    "description": "arjuna uvācha\nsannyāsaṁ karmaṇāṁ kṛiṣhṇa punar yogaṁ cha śhansasi\nyach chhreya etayor ekaṁ tan me brūhi su-niśhchitam\n\n",
+    "lang": "english",
+    "verseNumber": 205,
+    "language_id": 1,
+    "id": 205
+  }, {
+    "description": "śhrī bhagavān uvācha\nsannyāsaḥ karma-yogaśh cha niḥśhreyasa-karāvubhau\ntayos tu karma-sannyāsāt karma-yogo viśhiṣhyate\n\n",
+    "lang": "english",
+    "verseNumber": 206,
+    "language_id": 1,
+    "id": 206
+  }, {
+    "description": "jñeyaḥ sa nitya-sannyāsī yo na dveṣhṭi na kāṅkṣhati\nnirdvandvo hi mahā-bāho sukhaṁ bandhāt pramuchyate\n\n",
+    "lang": "english",
+    "verseNumber": 207,
+    "language_id": 1,
+    "id": 207
+  }, {
+    "description": "sānkhya-yogau pṛithag bālāḥ pravadanti na paṇḍitāḥ\nekamapyāsthitaḥ samyag ubhayor vindate phalam\n\n",
+    "lang": "english",
+    "verseNumber": 208,
+    "language_id": 1,
+    "id": 208
+  }, {
+    "description": "\nyat sānkhyaiḥ prāpyate sthānaṁ tad yogair api gamyate\nekaṁ sānkhyaṁ cha yogaṁ cha yaḥ paśhyati sa paśhyati\n\n",
+    "lang": "english",
+    "verseNumber": 209,
+    "language_id": 1,
+    "id": 209
+  }, {
+    "description": "sannyāsas tu mahā-bāho duḥkham āptum ayogataḥ\nyoga-yukto munir brahma na chireṇādhigachchhati\n\n",
+    "lang": "english",
+    "verseNumber": 210,
+    "language_id": 1,
+    "id": 210
+  }, {
+    "description": "yoga-yukto viśhuddhātmā vijitātmā jitendriyaḥ\nsarva-bhūtātma-bhūtātmā kurvann api na lipyate\n\n",
+    "lang": "english",
+    "verseNumber": 211,
+    "language_id": 1,
+    "id": 211
+  }, {
+    "description": "naiva kiñchit karomīti yukto manyeta tattva-vit\npaśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan\n",
+    "lang": "english",
+    "verseNumber": 212,
+    "language_id": 1,
+    "id": 212
+  }, {
+    "description": "pralapan visṛjan gṛhṇann unmiṣan nimiṣann api indriyāṇīndriyārtheṣu vartanta iti dhārayan",
+    "lang": "english",
+    "verseNumber": 213,
+    "language_id": 1,
+    "id": 213
+  }, {
+    "description": "brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ\nlipyate na sa pāpena padma-patram ivāmbhasā\n\n",
+    "lang": "english",
+    "verseNumber": 214,
+    "language_id": 1,
+    "id": 214
+  }, {
+    "description": "kāyena manasā buddhyā kevalair indriyair api\nyoginaḥ karma kurvanti saṅgaṁ tyaktvātma-śhuddhaye\n\n",
+    "lang": "english",
+    "verseNumber": 215,
+    "language_id": 1,
+    "id": 215
+  }, {
+    "description": "yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm\nayuktaḥ kāma-kāreṇa phale sakto nibadhyate\n\n",
+    "lang": "english",
+    "verseNumber": 216,
+    "language_id": 1,
+    "id": 216
+  }, {
+    "description": "sarva-karmāṇi manasā sannyasyāste sukhaṁ vaśhī\nnava-dvāre pure dehī naiva kurvan na kārayan\n\n",
+    "lang": "english",
+    "verseNumber": 217,
+    "language_id": 1,
+    "id": 217
+  }, {
+    "description": "na kartṛitvaṁ na karmāṇi lokasya sṛijati prabhuḥ\nna karma-phala-saṅyogaṁ svabhāvas tu pravartate\n\n",
+    "lang": "english",
+    "verseNumber": 218,
+    "language_id": 1,
+    "id": 218
+  }, {
+    "description": "nādatte kasyachit pāpaṁ na chaiva sukṛitaṁ vibhuḥ\najñānenāvṛitaṁ jñānaṁ tena muhyanti jantavaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 219,
+    "language_id": 1,
+    "id": 219
+  }, {
+    "description": "jñānena tu tad ajñānaṁ yeṣhāṁ nāśhitam ātmanaḥ\nteṣhām āditya-vaj jñānaṁ prakāśhayati tat param\n\n",
+    "lang": "english",
+    "verseNumber": 220,
+    "language_id": 1,
+    "id": 220
+  }, {
+    "description": "tad-buddhayas tad-ātmānas tan-niṣhṭhās tat-parāyaṇāḥ\ngachchhantyapunar-āvṛittiṁ jñāna-nirdhūta-kalmaṣhāḥ\n\n",
+    "lang": "english",
+    "verseNumber": 221,
+    "language_id": 1,
+    "id": 221
+  }, {
+    "description": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini\nśhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 222,
+    "language_id": 1,
+    "id": 222
+  }, {
+    "description": "ihaiva tair jitaḥ sargo yeṣhāṁ sāmye sthitaṁ manaḥ\nnirdoṣhaṁ hi samaṁ brahma tasmād brahmaṇi te sthitāḥ\n\n",
+    "lang": "english",
+    "verseNumber": 223,
+    "language_id": 1,
+    "id": 223
+  }, {
+    "description": "na prahṛiṣhyet priyaṁ prāpya nodvijet prāpya chāpriyam\nsthira-buddhir asammūḍho brahma-vid brahmaṇi sthitaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 224,
+    "language_id": 1,
+    "id": 224
+  }, {
+    "description": "bāhya-sparśheṣhvasaktātmā vindatyātmani yat sukham\nsa brahma-yoga-yuktātmā sukham akṣhayam aśhnute\n\n",
+    "lang": "english",
+    "verseNumber": 225,
+    "language_id": 1,
+    "id": 225
+  }, {
+    "description": "ye hi sansparśha-jā bhogā duḥkha-yonaya eva te\nādyantavantaḥ kaunteya na teṣhu ramate budhaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 226,
+    "language_id": 1,
+    "id": 226
+  }, {
+    "description": "śhaknotīhaiva yaḥ soḍhuṁ prāk śharīra-vimokṣhaṇāt\nkāma-krodhodbhavaṁ vegaṁ sa yuktaḥ sa sukhī naraḥ\n\n",
+    "lang": "english",
+    "verseNumber": 227,
+    "language_id": 1,
+    "id": 227
+  }, {
+    "description": "yo 'ntaḥ - sukho 'ntar - ārāmas tathāntar - jyotir eva yaḥ\nsa yogī brahma - nirvāṇaṁ brahma - bhūto 'dhigachchhati\n\n",
+    "lang": "english",
+    "verseNumber": 228,
+    "language_id": 1,
+    "id": 228
+  }, {
+    "description": "labhante brahma-nirvāṇam ṛiṣhayaḥ kṣhīṇa-kalmaṣhāḥ\nchhinna-dvaidhā yatātmānaḥ sarva-bhūta-hite ratāḥ\n\n",
+    "lang": "english",
+    "verseNumber": 229,
+    "language_id": 1,
+    "id": 229
+  }, {
+    "description": "kāma-krodha-viyuktānāṁ yatīnāṁ yata-chetasām\nabhito brahma-nirvāṇaṁ vartate viditātmanām\n\n",
+    "lang": "english",
+    "verseNumber": 230,
+    "language_id": 1,
+    "id": 230
+  }, {
+    "description": "sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ\nprāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau\n",
+    "lang": "english",
+    "verseNumber": 231,
+    "language_id": 1,
+    "id": 231
+  }, {
+    "description": "yatendriya-mano-buddhir  munir   mokṣa-parāyaṇaḥ vigatecchā-bhaya-krodho yaḥ sadā    mukta   eva saḥ",
+    "lang": "english",
+    "verseNumber": 232,
+    "language_id": 1,
+    "id": 232
+  }, {
+    "description": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram\nsuhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati\n\n",
+    "lang": "english",
+    "verseNumber": 233,
+    "language_id": 1,
+    "id": 233
+  }, {
+    "description": "śhrī bhagavān uvācha\nanāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ\nsa sannyāsī cha yogī cha na niragnir na chākriyaḥ\n",
+    "lang": "english",
+    "verseNumber": 234,
+    "language_id": 1,
+    "id": 234
+  }, {
+    "description": "yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava\nna hyasannyasta-saṅkalpo yogī bhavati kaśhchana\n",
+    "lang": "english",
+    "verseNumber": 235,
+    "language_id": 1,
+    "id": 235
+  }, {
+    "description": "ārurukṣhor muner yogaṁ karma kāraṇam uchyate\nyogārūḍhasya tasyaiva śhamaḥ kāraṇam uchyate\n",
+    "lang": "english",
+    "verseNumber": 236,
+    "language_id": 1,
+    "id": 236
+  }, {
+    "description": "yadā hi nendriyārtheṣhu na karmasv-anuṣhajjate\nsarva-saṅkalpa-sannyāsī yogārūḍhas tadochyate\n",
+    "lang": "english",
+    "verseNumber": 237,
+    "language_id": 1,
+    "id": 237
+  }, {
+    "description": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ\n",
+    "lang": "english",
+    "verseNumber": 238,
+    "language_id": 1,
+    "id": 238
+  }, {
+    "description": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ\nanātmanas tu śhatrutve vartetātmaiva śhatru-vat\n",
+    "lang": "english",
+    "verseNumber": 239,
+    "language_id": 1,
+    "id": 239
+  }, {
+    "description": "jitātmanaḥ praśhāntasya paramātmā samāhitaḥ\nśhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ\n",
+    "lang": "english",
+    "verseNumber": 240,
+    "language_id": 1,
+    "id": 240
+  }, {
+    "description": "jñāna-vijñāna-tṛiptātmā kūṭa-stho vijitendriyaḥ\nyukta ityuchyate yogī sama-loṣhṭāśhma-kāñchanaḥ\n",
+    "lang": "english",
+    "verseNumber": 241,
+    "language_id": 1,
+    "id": 241
+  }, {
+    "description": "suhṛin-mitrāryudāsīna-madhyastha-dveṣhya-bandhuṣhu\nsādhuṣhvapi cha pāpeṣhu sama-buddhir viśhiṣhyate\n",
+    "lang": "english",
+    "verseNumber": 242,
+    "language_id": 1,
+    "id": 242
+  }, {
+    "description": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ\nekākī yata-chittātmā nirāśhīr aparigrahaḥ\n",
+    "lang": "english",
+    "verseNumber": 243,
+    "language_id": 1,
+    "id": 243
+  }, {
+    "description": "śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ\nnātyuchchhritaṁ nāti-nīchaṁ chailājina-kuśhottaram\n",
+    "lang": "english",
+    "verseNumber": 244,
+    "language_id": 1,
+    "id": 244
+  }, {
+    "description": "tatraikāgraṁ manaḥ kṛitvā yata-chittendriya-kriyaḥ\nupaviśhyāsane yuñjyād yogam ātma-viśhuddhaye\n",
+    "lang": "english",
+    "verseNumber": 245,
+    "language_id": 1,
+    "id": 245
+  }, {
+    "description": "samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ\nsamprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan\n",
+    "lang": "english",
+    "verseNumber": 246,
+    "language_id": 1,
+    "id": 246
+  }, {
+    "description": "praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ\nmanaḥ sanyamya mach-chitto yukta āsīta mat-paraḥ\n",
+    "lang": "english",
+    "verseNumber": 247,
+    "language_id": 1,
+    "id": 247
+  }, {
+    "description": "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ\nśhantiṁ nirvāṇa-paramāṁ mat-sansthām adhigachchhati\n",
+    "lang": "english",
+    "verseNumber": 248,
+    "language_id": 1,
+    "id": 248
+  }, {
+    "description": "nātyaśhnatastu yogo ’sti na chaikāntam anaśhnataḥ\nna chāti-svapna-śhīlasya jāgrato naiva chārjuna\n",
+    "lang": "english",
+    "verseNumber": 249,
+    "language_id": 1,
+    "id": 249
+  }, {
+    "description": "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu\nyukta-svapnāvabodhasya yogo bhavati duḥkha-hā\n",
+    "lang": "english",
+    "verseNumber": 250,
+    "language_id": 1,
+    "id": 250
+  }, {
+    "description": "yadā viniyataṁ chittam ātmanyevāvatiṣhṭhate\nniḥspṛihaḥ sarva-kāmebhyo yukta ityuchyate tadā\n",
+    "lang": "english",
+    "verseNumber": 251,
+    "language_id": 1,
+    "id": 251
+  }, {
+    "description": "yathā dīpo nivāta-stho neṅgate sopamā smṛitā\nyogino yata-chittasya yuñjato yogam ātmanaḥ\n",
+    "lang": "english",
+    "verseNumber": 252,
+    "language_id": 1,
+    "id": 252
+  }, {
+    "description": "yatroparamate chittaṁ niruddhaṁ yoga-sevayā\nyatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati\n",
+    "lang": "english",
+    "verseNumber": 253,
+    "language_id": 1,
+    "id": 253
+  }, {
+    "description": "sukham ātyantikaṁ yat tad buddhi-grāhyam atīndriyam\nvetti yatra na chaivāyaṁ sthitaśh chalati tattvataḥ\n",
+    "lang": "english",
+    "verseNumber": 254,
+    "language_id": 1,
+    "id": 254
+  }, {
+    "description": "yaṁ labdhvā chāparaṁ lābhaṁ manyate nādhikaṁ tataḥ\nyasmin sthito na duḥkhena guruṇāpi vichālyate\n",
+    "lang": "english",
+    "verseNumber": 255,
+    "language_id": 1,
+    "id": 255
+  }, {
+    "description": "taṁ vidyād duḥkha-sanyoga-viyogaṁ yogasaṅjñitam\nsa niśhchayena yoktavyo yogo ’nirviṇṇa-chetasā\n",
+    "lang": "english",
+    "verseNumber": 256,
+    "language_id": 1,
+    "id": 256
+  }, {
+    "description": "saṅkalpa-prabhavān kāmāns tyaktvā sarvān aśheṣhataḥ\nmanasaivendriya-grāmaṁ viniyamya samantataḥ\n",
+    "lang": "english",
+    "verseNumber": 257,
+    "language_id": 1,
+    "id": 257
+  }, {
+    "description": "śhanaiḥ śhanair uparamed buddhyā dhṛiti-gṛihītayā\nātma-sansthaṁ manaḥ kṛitvā na kiñchid api chintayet\n",
+    "lang": "english",
+    "verseNumber": 258,
+    "language_id": 1,
+    "id": 258
+  }, {
+    "description": "yato yato niśhcharati manaśh chañchalam asthiram\ntatas tato niyamyaitad ātmanyeva vaśhaṁ nayet\n",
+    "lang": "english",
+    "verseNumber": 259,
+    "language_id": 1,
+    "id": 259
+  }, {
+    "description": "praśhānta-manasaṁ hyenaṁ yoginaṁ sukham uttamam\nupaiti śhānta-rajasaṁ brahma-bhūtam akalmaṣham\n",
+    "lang": "english",
+    "verseNumber": 260,
+    "language_id": 1,
+    "id": 260
+  }, {
+    "description": "yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣhaḥ\nsukhena brahma-sansparśham atyantaṁ sukham aśhnute\n",
+    "lang": "english",
+    "verseNumber": 261,
+    "language_id": 1,
+    "id": 261
+  }, {
+    "description": "sarva-bhūta-stham ātmānaṁ sarva-bhūtāni chātmani\nīkṣhate yoga-yuktātmā sarvatra sama-darśhanaḥ\n",
+    "lang": "english",
+    "verseNumber": 262,
+    "language_id": 1,
+    "id": 262
+  }, {
+    "description": "yo māṁ paśhyati sarvatra sarvaṁ cha mayi paśhyati\ntasyāhaṁ na praṇaśhyāmi sa cha me na praṇaśhyati\n",
+    "lang": "english",
+    "verseNumber": 263,
+    "language_id": 1,
+    "id": 263
+  }, {
+    "description": "sarva-bhūta-sthitaṁ yo māṁ bhajatyekatvam āsthitaḥ\nsarvathā vartamāno ’pi sa yogī mayi vartate\n",
+    "lang": "english",
+    "verseNumber": 264,
+    "language_id": 1,
+    "id": 264
+  }, {
+    "description": "ātmaupamyena sarvatra samaṁ paśhyati yo ’rjuna\nsukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ\n",
+    "lang": "english",
+    "verseNumber": 265,
+    "language_id": 1,
+    "id": 265
+  }, {
+    "description": "arjuna uvācha\nyo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana\netasyāhaṁ na paśhyāmi chañchalatvāt sthitiṁ sthirām\n",
+    "lang": "english",
+    "verseNumber": 266,
+    "language_id": 1,
+    "id": 266
+  }, {
+    "description": "chañchalaṁ hi manaḥ kṛiṣhṇa pramāthi balavad dṛiḍham\ntasyāhaṁ nigrahaṁ manye vāyor iva su-duṣhkaram\n",
+    "lang": "english",
+    "verseNumber": 267,
+    "language_id": 1,
+    "id": 267
+  }, {
+    "description": "śhrī bhagavān uvācha\nasanśhayaṁ mahā-bāho mano durnigrahaṁ chalam\nabhyāsena tu kaunteya vairāgyeṇa cha gṛihyate\n",
+    "lang": "english",
+    "verseNumber": 268,
+    "language_id": 1,
+    "id": 268
+  }, {
+    "description": "asaṅyatātmanā yogo duṣhprāpa iti me matiḥ\nvaśhyātmanā tu yatatā śhakyo ’vāptum upāyataḥ\n",
+    "lang": "english",
+    "verseNumber": 269,
+    "language_id": 1,
+    "id": 269
+  }, {
+    "description": "arjuna uvācha\nayatiḥ śhraddhayopeto yogāch chalita-mānasaḥ\naprāpya yoga-sansiddhiṁ kāṅ gatiṁ kṛiṣhṇa gachchhati\n",
+    "lang": "english",
+    "verseNumber": 270,
+    "language_id": 1,
+    "id": 270
+  }, {
+    "description": "kachchin nobhaya-vibhraṣhṭaśh chhinnābhram iva naśhyati\napratiṣhṭho mahā-bāho vimūḍho brahmaṇaḥ pathi\n",
+    "lang": "english",
+    "verseNumber": 271,
+    "language_id": 1,
+    "id": 271
+  }, {
+    "description": "etan me sanśhayaṁ kṛiṣhṇa chhettum arhasyaśheṣhataḥ\ntvad-anyaḥ sanśhayasyāsya chhettā na hyupapadyate\n",
+    "lang": "english",
+    "verseNumber": 272,
+    "language_id": 1,
+    "id": 272
+  }, {
+    "description": "śhrī bhagavān uvācha\npārtha naiveha nāmutra vināśhas tasya vidyate\nna hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati\n",
+    "lang": "english",
+    "verseNumber": 273,
+    "language_id": 1,
+    "id": 273
+  }, {
+    "description": "prāpya puṇya-kṛitāṁ lokān uṣhitvā śhāśhvatīḥ samāḥ\nśhuchīnāṁ śhrīmatāṁ gehe yoga-bhraṣhṭo’bhijāyate\n",
+    "lang": "english",
+    "verseNumber": 274,
+    "language_id": 1,
+    "id": 274
+  }, {
+    "description": "atha vā yoginām eva kule bhavati dhīmatām\netad dhi durlabhataraṁ loke janma yad īdṛiśham\n",
+    "lang": "english",
+    "verseNumber": 275,
+    "language_id": 1,
+    "id": 275
+  }, {
+    "description": "tatra taṁ buddhi-sanyogaṁ labhate paurva-dehikam\nyatate cha tato bhūyaḥ sansiddhau kuru-nandana\n",
+    "lang": "english",
+    "verseNumber": 276,
+    "language_id": 1,
+    "id": 276
+  }, {
+    "description": "pūrvābhyāsena tenaiva hriyate hyavaśho ’pi saḥ\njijñāsur api yogasya śhabda-brahmātivartate\n",
+    "lang": "english",
+    "verseNumber": 277,
+    "language_id": 1,
+    "id": 277
+  }, {
+    "description": "prayatnād yatamānas tu yogī sanśhuddha-kilbiṣhaḥ\naneka-janma-sansiddhas tato yāti parāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 278,
+    "language_id": 1,
+    "id": 278
+  }, {
+    "description": "tapasvibhyo ’dhiko yogī\njñānibhyo ’pi mato ’dhikaḥ\nkarmibhyaśh chādhiko yogī\ntasmād yogī bhavārjuna\n",
+    "lang": "english",
+    "verseNumber": 279,
+    "language_id": 1,
+    "id": 279
+  }, {
+    "description": "yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā\nśhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ\n",
+    "lang": "english",
+    "verseNumber": 280,
+    "language_id": 1,
+    "id": 280
+  }, {
+    "description": "śhrī bhagavān uvācha\nmayyāsakta-manāḥ pārtha yogaṁ yuñjan mad-āśhrayaḥ\nasanśhayaṁ samagraṁ māṁ yathā jñāsyasi tach chhṛiṇu\n",
+    "lang": "english",
+    "verseNumber": 281,
+    "language_id": 1,
+    "id": 281
+  }, {
+    "description": "jñānaṁ te ’haṁ sa-vijñānam idaṁ vakṣhyāmyaśheṣhataḥ\nyaj jñātvā neha bhūyo ’nyaj jñātavyam-avaśhiṣhyate\n",
+    "lang": "english",
+    "verseNumber": 282,
+    "language_id": 1,
+    "id": 282
+  }, {
+    "description": "manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye\nyatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ\n",
+    "lang": "english",
+    "verseNumber": 283,
+    "language_id": 1,
+    "id": 283
+  }, {
+    "description": "bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha\nahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā\n",
+    "lang": "english",
+    "verseNumber": 284,
+    "language_id": 1,
+    "id": 284
+  }, {
+    "description": "apareyam itas tvanyāṁ prakṛitiṁ viddhi me parām\njīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat\n",
+    "lang": "english",
+    "verseNumber": 285,
+    "language_id": 1,
+    "id": 285
+  }, {
+    "description": "etad-yonīni bhūtāni sarvāṇītyupadhāraya\nahaṁ kṛitsnasya jagataḥ prabhavaḥ pralayas tathā\n",
+    "lang": "english",
+    "verseNumber": 286,
+    "language_id": 1,
+    "id": 286
+  }, {
+    "description": "mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya\nmayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva\n",
+    "lang": "english",
+    "verseNumber": 287,
+    "language_id": 1,
+    "id": 287
+  }, {
+    "description": "raso ’ham apsu kaunteya prabhāsmi śhaśhi-sūryayoḥ\npraṇavaḥ sarva-vedeṣhu śhabdaḥ khe pauruṣhaṁ nṛiṣhu\n",
+    "lang": "english",
+    "verseNumber": 288,
+    "language_id": 1,
+    "id": 288
+  }, {
+    "description": "puṇyo gandhaḥ pṛithivyāṁ cha tejaśh chāsmi vibhāvasau\njīvanaṁ sarva-bhūteṣhu tapaśh chāsmi tapasviṣhu\n",
+    "lang": "english",
+    "verseNumber": 289,
+    "language_id": 1,
+    "id": 289
+  }, {
+    "description": "bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam\nbuddhir buddhimatām asmi tejas tejasvinām aham\n",
+    "lang": "english",
+    "verseNumber": 290,
+    "language_id": 1,
+    "id": 290
+  }, {
+    "description": "balaṁ balavatāṁ chāhaṁ kāma-rāga-vivarjitam\ndharmāviruddho bhūteṣhu kāmo ’smi bharatarṣhabha\n",
+    "lang": "english",
+    "verseNumber": 291,
+    "language_id": 1,
+    "id": 291
+  }, {
+    "description": "ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye\nmatta eveti tān viddhi na tvahaṁ teṣhu te mayi\n",
+    "lang": "english",
+    "verseNumber": 292,
+    "language_id": 1,
+    "id": 292
+  }, {
+    "description": "tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat\nmohitaṁ nābhijānāti māmebhyaḥ param avyayam\n",
+    "lang": "english",
+    "verseNumber": 293,
+    "language_id": 1,
+    "id": 293
+  }, {
+    "description": "daivī hyeṣhā guṇa-mayī mama māyā duratyayā\nmām eva ye prapadyante māyām etāṁ taranti te\n",
+    "lang": "english",
+    "verseNumber": 294,
+    "language_id": 1,
+    "id": 294
+  }, {
+    "description": "na māṁ duṣhkṛitino mūḍhāḥ prapadyante narādhamāḥ\nmāyayāpahṛita-jñānā āsuraṁ bhāvam āśhritāḥ\n",
+    "lang": "english",
+    "verseNumber": 295,
+    "language_id": 1,
+    "id": 295
+  }, {
+    "description": "chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna\nārto jijñāsur arthārthī jñānī cha bharatarṣhabha\n",
+    "lang": "english",
+    "verseNumber": 296,
+    "language_id": 1,
+    "id": 296
+  }, {
+    "description": "teṣhāṁ jñānī nitya-yukta eka-bhaktir viśhiṣhyate\npriyo hi jñānino ’tyartham ahaṁ sa cha mama priyaḥ\n",
+    "lang": "english",
+    "verseNumber": 297,
+    "language_id": 1,
+    "id": 297
+  }, {
+    "description": "udārāḥ sarva evaite jñānī tvātmaiva me matam\nāsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 298,
+    "language_id": 1,
+    "id": 298
+  }, {
+    "description": "bahūnāṁ janmanām ante jñānavān māṁ prapadyate\nvāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ\n",
+    "lang": "english",
+    "verseNumber": 299,
+    "language_id": 1,
+    "id": 299
+  }, {
+    "description": "kāmais tais tair hṛita-jñānāḥ prapadyante ’nya-devatāḥ\ntaṁ taṁ niyamam āsthāya prakṛityā niyatāḥ svayā\n",
+    "lang": "english",
+    "verseNumber": 300,
+    "language_id": 1,
+    "id": 300
+  }, {
+    "description": "yo yo yāṁ yāṁ tanuṁ bhaktaḥ śhraddhayārchitum ichchhati\ntasya tasyāchalāṁ śhraddhāṁ tām eva vidadhāmyaham\n",
+    "lang": "english",
+    "verseNumber": 301,
+    "language_id": 1,
+    "id": 301
+  }, {
+    "description": "sa tayā śhraddhayā yuktas tasyārādhanam īhate\nlabhate cha tataḥ kāmān mayaiva vihitān hi tān\n",
+    "lang": "english",
+    "verseNumber": 302,
+    "language_id": 1,
+    "id": 302
+  }, {
+    "description": "antavat tu phalaṁ teṣhāṁ tad bhavatyalpa-medhasām\ndevān deva-yajo yānti mad-bhaktā yānti mām api\n",
+    "lang": "english",
+    "verseNumber": 303,
+    "language_id": 1,
+    "id": 303
+  }, {
+    "description": "avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ\nparaṁ bhāvam ajānanto mamāvyayam anuttamam\n",
+    "lang": "english",
+    "verseNumber": 304,
+    "language_id": 1,
+    "id": 304
+  }, {
+    "description": "nāhaṁ prakāśhaḥ sarvasya yoga-māyā-samāvṛitaḥ\nmūḍho ’yaṁ nābhijānāti loko mām ajam avyayam\n",
+    "lang": "english",
+    "verseNumber": 305,
+    "language_id": 1,
+    "id": 305
+  }, {
+    "description": "vedāhaṁ samatītāni vartamānāni chārjuna\nbhaviṣhyāṇi cha bhūtāni māṁ tu veda na kaśhchana\n",
+    "lang": "english",
+    "verseNumber": 306,
+    "language_id": 1,
+    "id": 306
+  }, {
+    "description": "ichchhā-dveṣha-samutthena dvandva-mohena bhārata\nsarva-bhūtāni sammohaṁ sarge yānti parantapa\n",
+    "lang": "english",
+    "verseNumber": 307,
+    "language_id": 1,
+    "id": 307
+  }, {
+    "description": "yeṣhāṁ tvanta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām\nte dvandva-moha-nirmuktā bhajante māṁ dṛiḍha-vratāḥ\n",
+    "lang": "english",
+    "verseNumber": 308,
+    "language_id": 1,
+    "id": 308
+  }, {
+    "description": "jarā-maraṇa-mokṣhāya mām āśhritya yatanti ye\nte brahma tadviduḥ kṛitsnam adhyātmaṁ karma chākhilam\n",
+    "lang": "english",
+    "verseNumber": 309,
+    "language_id": 1,
+    "id": 309
+  }, {
+    "description": "sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ cha ye viduḥ\nprayāṇa-kāle ’pi cha māṁ te vidur yukta-chetasaḥ\n",
+    "lang": "english",
+    "verseNumber": 310,
+    "language_id": 1,
+    "id": 310
+  }, {
+    "description": "arjuna uvācha\nkiṁ tad brahma kim adhyātmaṁ kiṁ karma puruṣhottama\nadhibhūtaṁ cha kiṁ proktam adhidaivaṁ kim uchyate\n",
+    "lang": "english",
+    "verseNumber": 311,
+    "language_id": 1,
+    "id": 311
+  }, {
+    "description": "adhiyajñaḥ kathaṁ ko ’tra dehe ’smin madhusūdana\nprayāṇa-kāle cha kathaṁ jñeyo ’si niyatātmabhiḥ\n",
+    "lang": "english",
+    "verseNumber": 312,
+    "language_id": 1,
+    "id": 312
+  }, {
+    "description": "śhrī bhagavān uvācha\nakṣharaṁ brahma paramaṁ svabhāvo ’dhyātmam uchyate\nbhūta-bhāvodbhava-karo visargaḥ karma-sanjñitaḥ\n",
+    "lang": "english",
+    "verseNumber": 313,
+    "language_id": 1,
+    "id": 313
+  }, {
+    "description": "adhibhūtaṁ kṣharo bhāvaḥ puruṣhaśh chādhidaivatam\nadhiyajño ’ham evātra dehe deha-bhṛitāṁ vara\n",
+    "lang": "english",
+    "verseNumber": 314,
+    "language_id": 1,
+    "id": 314
+  }, {
+    "description": "anta-kāle cha mām eva smaran muktvā kalevaram\nyaḥ prayāti sa mad-bhāvaṁ yāti nāstyatra sanśhayaḥ\n",
+    "lang": "english",
+    "verseNumber": 315,
+    "language_id": 1,
+    "id": 315
+  }, {
+    "description": "yaṁ yaṁ vāpi smaran bhāvaṁ tyajatyante kalevaram\ntaṁ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ\n",
+    "lang": "english",
+    "verseNumber": 316,
+    "language_id": 1,
+    "id": 316
+  }, {
+    "description": "tasmāt sarveṣhu kāleṣhu mām anusmara yudhya cha\nmayyarpita-mano-buddhir mām evaiṣhyasyasanśhayam\n",
+    "lang": "english",
+    "verseNumber": 317,
+    "language_id": 1,
+    "id": 317
+  }, {
+    "description": "abhyāsa-yoga-yuktena chetasā nānya-gāminā\nparamaṁ puruṣhaṁ divyaṁ yāti pārthānuchintayan\n",
+    "lang": "english",
+    "verseNumber": 318,
+    "language_id": 1,
+    "id": 318
+  }, {
+    "description": "kaviṁ purāṇam anuśhāsitāram\naṇor aṇīyānsam anusmared yaḥ\nsarvasya dhātāram achintya-rūpam\nāditya-varṇaṁ tamasaḥ parastāt\n",
+    "lang": "english",
+    "verseNumber": 319,
+    "language_id": 1,
+    "id": 319
+  }, {
+    "description": "prayāṇa-kāle manasāchalena\nbhaktyā yukto yoga-balena chaiva\nbhruvor madhye prāṇam āveśhya samyak\nsa taṁ paraṁ puruṣham upaiti divyam\n",
+    "lang": "english",
+    "verseNumber": 320,
+    "language_id": 1,
+    "id": 320
+  }, {
+    "description": "yad akṣharaṁ veda-vido vadanti\nviśhanti yad yatayo vīta-rāgāḥ\nyad ichchhanto brahmacharyaṁ charanti\ntat te padaṁ saṅgraheṇa pravakṣhye\n",
+    "lang": "english",
+    "verseNumber": 321,
+    "language_id": 1,
+    "id": 321
+  }, {
+    "description": "sarva-dvārāṇi sanyamya mano hṛidi nirudhya cha\nmūrdhnyādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām\n",
+    "lang": "english",
+    "verseNumber": 322,
+    "language_id": 1,
+    "id": 322
+  }, {
+    "description": "oṁ ityekākṣharaṁ brahma vyāharan mām anusmaran\nyaḥ prayāti tyajan dehaṁ sa yāti paramāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 323,
+    "language_id": 1,
+    "id": 323
+  }, {
+    "description": "ananya-chetāḥ satataṁ yo māṁ smarati nityaśhaḥ\ntasyāhaṁ sulabhaḥ pārtha nitya-yuktasya yoginaḥ\n",
+    "lang": "english",
+    "verseNumber": 324,
+    "language_id": 1,
+    "id": 324
+  }, {
+    "description": "mām upetya punar janma duḥkhālayam aśhāśhvatam\nnāpnuvanti mahātmānaḥ sansiddhiṁ paramāṁ gatāḥ\n",
+    "lang": "english",
+    "verseNumber": 325,
+    "language_id": 1,
+    "id": 325
+  }, {
+    "description": "ā-brahma-bhuvanāl lokāḥ punar āvartino ’rjuna\nmām upetya tu kaunteya punar janma na vidyate\n",
+    "lang": "english",
+    "verseNumber": 326,
+    "language_id": 1,
+    "id": 326
+  }, {
+    "description": "sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ\nrātriṁ yuga-sahasrāntāṁ te ’ho-rātra-vido janāḥ\n",
+    "lang": "english",
+    "verseNumber": 327,
+    "language_id": 1,
+    "id": 327
+  }, {
+    "description": "avyaktād vyaktayaḥ sarvāḥ prabhavantyahar-āgame\nrātryāgame pralīyante tatraivāvyakta-sanjñake\n",
+    "lang": "english",
+    "verseNumber": 328,
+    "language_id": 1,
+    "id": 328
+  }, {
+    "description": "bhūta-grāmaḥ sa evāyaṁ bhūtvā bhūtvā pralīyate\nrātryāgame ’vaśhaḥ pārtha prabhavatyahar-āgame\n",
+    "lang": "english",
+    "verseNumber": 329,
+    "language_id": 1,
+    "id": 329
+  }, {
+    "description": "paras tasmāt tu bhāvo ’nyo ’vyakto ’vyaktāt sanātanaḥ\nyaḥ sa sarveṣhu bhūteṣhu naśhyatsu na vinaśhyati\n",
+    "lang": "english",
+    "verseNumber": 330,
+    "language_id": 1,
+    "id": 330
+  }, {
+    "description": "avyakto ’kṣhara ityuktas tam āhuḥ paramāṁ gatim\nyaṁ prāpya na nivartante tad dhāma paramaṁ mama\n",
+    "lang": "english",
+    "verseNumber": 331,
+    "language_id": 1,
+    "id": 331
+  }, {
+    "description": "puruṣhaḥ sa paraḥ pārtha bhaktyā labhyas tvananyayā\nyasyāntaḥ-sthāni bhūtāni yena sarvam idaṁ tatam\n",
+    "lang": "english",
+    "verseNumber": 332,
+    "language_id": 1,
+    "id": 332
+  }, {
+    "description": "yatra kāle tvanāvṛittim āvṛittiṁ chaiva yoginaḥ\nprayātā yānti taṁ kālaṁ vakṣhyāmi bharatarṣhabha\n",
+    "lang": "english",
+    "verseNumber": 333,
+    "language_id": 1,
+    "id": 333
+  }, {
+    "description": "agnir jyotir ahaḥ śhuklaḥ ṣhaṇ-māsā uttarāyaṇam\ntatra prayātā gachchhanti brahma brahma-vido janāḥ\n",
+    "lang": "english",
+    "verseNumber": 334,
+    "language_id": 1,
+    "id": 334
+  }, {
+    "description": "dhūmo rātris tathā kṛiṣhṇaḥ ṣhaṇ-māsā dakṣhiṇāyanam\ntatra chāndramasaṁ jyotir yogī prāpya nivartate\n",
+    "lang": "english",
+    "verseNumber": 335,
+    "language_id": 1,
+    "id": 335
+  }, {
+    "description": "śhukla-kṛiṣhṇe gatī hyete jagataḥ śhāśhvate mate\nekayā yātyanāvṛittim anyayāvartate punaḥ\n",
+    "lang": "english",
+    "verseNumber": 336,
+    "language_id": 1,
+    "id": 336
+  }, {
+    "description": "naite sṛitī pārtha jānan yogī muhyati kaśhchana\ntasmāt sarveṣhu kāleṣhu yoga-yukto bhavārjuna\n",
+    "lang": "english",
+    "verseNumber": 337,
+    "language_id": 1,
+    "id": 337
+  }, {
+    "description": "vedeṣhu yajñeṣhu tapaḥsu chaiva\ndāneṣhu yat puṇya-phalaṁ pradiṣhṭam\natyeti tat sarvam idaṁ viditvā\nyogī paraṁ sthānam upaiti chādyam\n",
+    "lang": "english",
+    "verseNumber": 338,
+    "language_id": 1,
+    "id": 338
+  }, {
+    "description": "śhrī bhagavān uvācha\nidaṁ tu te guhyatamaṁ pravakṣhyāmyanasūyave\njñānaṁ vijñāna-sahitaṁ yaj jñātvā mokṣhyase ’śhubhāt\n",
+    "lang": "english",
+    "verseNumber": 339,
+    "language_id": 1,
+    "id": 339
+  }, {
+    "description": "rāja-vidyā rāja-guhyaṁ pavitram idam uttamam\npratyakṣhāvagamaṁ dharmyaṁ su-sukhaṁ kartum avyayam\n",
+    "lang": "english",
+    "verseNumber": 340,
+    "language_id": 1,
+    "id": 340
+  }, {
+    "description": "aśhraddadhānāḥ puruṣhā dharmasyāsya parantapa\naprāpya māṁ nivartante mṛityu-samsāra-vartmani\n",
+    "lang": "english",
+    "verseNumber": 341,
+    "language_id": 1,
+    "id": 341
+  }, {
+    "description": "mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā\nmat-sthāni sarva-bhūtāni na chāhaṁ teṣhvavasthitaḥ\n",
+    "lang": "english",
+    "verseNumber": 342,
+    "language_id": 1,
+    "id": 342
+  }, {
+    "description": "na cha mat-sthāni bhūtāni paśhya me yogam aiśhwaram\nbhūta-bhṛin na cha bhūta-stho mamātmā bhūta-bhāvanaḥ\n",
+    "lang": "english",
+    "verseNumber": 343,
+    "language_id": 1,
+    "id": 343
+  }, {
+    "description": "yathākāśha-sthito nityaṁ vāyuḥ sarvatra-go mahān\ntathā sarvāṇi bhūtāni mat-sthānītyupadhāraya\n",
+    "lang": "english",
+    "verseNumber": 344,
+    "language_id": 1,
+    "id": 344
+  }, {
+    "description": "sarva-bhūtāni kaunteya prakṛitiṁ yānti māmikām\nkalpa-kṣhaye punas tāni kalpādau visṛijāmyaham\n",
+    "lang": "english",
+    "verseNumber": 345,
+    "language_id": 1,
+    "id": 345
+  }, {
+    "description": "prakṛitiṁ svām avaṣhṭabhya visṛijāmi punaḥ punaḥ\nbhūta-grāmam imaṁ kṛitsnam avaśhaṁ prakṛiter vaśhāt\n",
+    "lang": "english",
+    "verseNumber": 346,
+    "language_id": 1,
+    "id": 346
+  }, {
+    "description": "na cha māṁ tāni karmāṇi nibadhnanti dhanañjaya\nudāsīna-vad āsīnam asaktaṁ teṣhu karmasu\n",
+    "lang": "english",
+    "verseNumber": 347,
+    "language_id": 1,
+    "id": 347
+  }, {
+    "description": "mayādhyakṣheṇa prakṛitiḥ sūyate sa-charācharam\nhetunānena kaunteya jagad viparivartate\n",
+    "lang": "english",
+    "verseNumber": 348,
+    "language_id": 1,
+    "id": 348
+  }, {
+    "description": "avajānanti māṁ mūḍhā mānuṣhīṁ tanum āśhritam\nparaṁ bhāvam ajānanto mama bhūta-maheśhvaram\n",
+    "lang": "english",
+    "verseNumber": 349,
+    "language_id": 1,
+    "id": 349
+  }, {
+    "description": "moghāśhā mogha-karmāṇo mogha-jñānā vichetasaḥ\nrākṣhasīm āsurīṁ chaiva prakṛitiṁ mohinīṁ śhritāḥ\n",
+    "lang": "english",
+    "verseNumber": 350,
+    "language_id": 1,
+    "id": 350
+  }, {
+    "description": "mahātmānas tu māṁ pārtha daivīṁ prakṛitim āśhritāḥ\nbhajantyananya-manaso jñātvā bhūtādim avyayam\n",
+    "lang": "english",
+    "verseNumber": 351,
+    "language_id": 1,
+    "id": 351
+  }, {
+    "description": "satataṁ kīrtayanto māṁ yatantaśh cha dṛiḍha-vratāḥ\nnamasyantaśh cha māṁ bhaktyā nitya-yuktā upāsate\n",
+    "lang": "english",
+    "verseNumber": 352,
+    "language_id": 1,
+    "id": 352
+  }, {
+    "description": "jñāna-yajñena chāpyanye yajanto mām upāsate\nekatvena pṛithaktvena bahudhā viśhvato-mukham\n",
+    "lang": "english",
+    "verseNumber": 353,
+    "language_id": 1,
+    "id": 353
+  }, {
+    "description": "ahaṁ kratur ahaṁ yajñaḥ svadhāham aham auṣhadham\nmantro ’ham aham evājyam aham agnir ahaṁ hutam\n",
+    "lang": "english",
+    "verseNumber": 354,
+    "language_id": 1,
+    "id": 354
+  }, {
+    "description": "pitāham asya jagato mātā dhātā pitāmahaḥ\nvedyaṁ pavitram oṁkāra ṛik sāma yajur eva cha\n",
+    "lang": "english",
+    "verseNumber": 355,
+    "language_id": 1,
+    "id": 355
+  }, {
+    "description": "gatir bhartā prabhuḥ sākṣhī nivāsaḥ śharaṇaṁ suhṛit\nprabhavaḥ pralayaḥ sthānaṁ nidhānaṁ bījam avyayam\n",
+    "lang": "english",
+    "verseNumber": 356,
+    "language_id": 1,
+    "id": 356
+  }, {
+    "description": "tapāmyaham ahaṁ varṣhaṁ nigṛihṇāmyutsṛijāmi cha\namṛitaṁ chaiva mṛityuśh cha sad asach chāham arjuna\n",
+    "lang": "english",
+    "verseNumber": 357,
+    "language_id": 1,
+    "id": 357
+  }, {
+    "description": "trai-vidyā māṁ soma-pāḥ pūta-pāpā\nyajñair iṣhṭvā svar-gatiṁ prārthayante\nte puṇyam āsādya surendra-lokam\naśhnanti divyān divi deva-bhogān\n",
+    "lang": "english",
+    "verseNumber": 358,
+    "language_id": 1,
+    "id": 358
+  }, {
+    "description": "te taṁ bhuktvā swarga-lokaṁ viśhālaṁ\nkṣhīṇe puṇye martya-lokaṁ viśhanti\nevaṁ trayī-dharmam anuprapannā\ngatāgataṁ kāma-kāmā labhante\n",
+    "lang": "english",
+    "verseNumber": 359,
+    "language_id": 1,
+    "id": 359
+  }, {
+    "description": "ananyāśh chintayanto māṁ ye janāḥ paryupāsate\nteṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham\n",
+    "lang": "english",
+    "verseNumber": 360,
+    "language_id": 1,
+    "id": 360
+  }, {
+    "description": "ye ’pyanya-devatā-bhaktā yajante śhraddhayānvitāḥ\nte ’pi mām eva kaunteya yajantyavidhi-pūrvakam\n",
+    "lang": "english",
+    "verseNumber": 361,
+    "language_id": 1,
+    "id": 361
+  }, {
+    "description": "ahaṁ hi sarva-yajñānāṁ bhoktā cha prabhureva cha\nna tu mām abhijānanti tattvenātaśh chyavanti te\n",
+    "lang": "english",
+    "verseNumber": 362,
+    "language_id": 1,
+    "id": 362
+  }, {
+    "description": "yānti deva-vratā devān pitṝīn yānti pitṛi-vratāḥ\nbhūtāni yānti bhūtejyā yānti mad-yājino ’pi mām\n",
+    "lang": "english",
+    "verseNumber": 363,
+    "language_id": 1,
+    "id": 363
+  }, {
+    "description": "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati\ntadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ\n",
+    "lang": "english",
+    "verseNumber": 364,
+    "language_id": 1,
+    "id": 364
+  }, {
+    "description": "yat karoṣhi yad aśhnāsi yaj juhoṣhi dadāsi yat\nyat tapasyasi kaunteya tat kuruṣhva mad-arpaṇam\n",
+    "lang": "english",
+    "verseNumber": 365,
+    "language_id": 1,
+    "id": 365
+  }, {
+    "description": "śhubhāśhubha-phalair evaṁ mokṣhyase karma-bandhanaiḥ\nsannyāsa-yoga-yuktātmā vimukto mām upaiṣhyasi\n",
+    "lang": "english",
+    "verseNumber": 366,
+    "language_id": 1,
+    "id": 366
+  }, {
+    "description": "samo ’haṁ sarva-bhūteṣhu na me dveṣhyo ’sti na priyaḥ\nye bhajanti tu māṁ bhaktyā mayi te teṣhu chāpyaham\n",
+    "lang": "english",
+    "verseNumber": 367,
+    "language_id": 1,
+    "id": 367
+  }, {
+    "description": "api chet su-durāchāro bhajate mām ananya-bhāk\nsādhur eva sa mantavyaḥ samyag vyavasito hi saḥ\n",
+    "lang": "english",
+    "verseNumber": 368,
+    "language_id": 1,
+    "id": 368
+  }, {
+    "description": "kṣhipraṁ bhavati dharmātmā śhaśhvach-chhāntiṁ nigachchhati\nkaunteya pratijānīhi na me bhaktaḥ praṇaśhyati\n",
+    "lang": "english",
+    "verseNumber": 369,
+    "language_id": 1,
+    "id": 369
+  }, {
+    "description": "māṁ hi pārtha vyapāśhritya ye ’pi syuḥ pāpa-yonayaḥ\nstriyo vaiśhyās tathā śhūdrās te ’pi yānti parāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 370,
+    "language_id": 1,
+    "id": 370
+  }, {
+    "description": "kiṁ punar brāhmaṇāḥ puṇyā bhaktā rājarṣhayas tathā\nanityam asukhaṁ lokam imaṁ prāpya bhajasva mām\n",
+    "lang": "english",
+    "verseNumber": 371,
+    "language_id": 1,
+    "id": 371
+  }, {
+    "description": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ\n",
+    "lang": "english",
+    "verseNumber": 372,
+    "language_id": 1,
+    "id": 372
+  }, {
+    "description": "śhrī bhagavān uvācha\nbhūya eva mahā-bāho śhṛiṇu me paramaṁ vachaḥ\nyatte ’haṁ prīyamāṇāya vakṣhyāmi hita-kāmyayā\n",
+    "lang": "english",
+    "verseNumber": 373,
+    "language_id": 1,
+    "id": 373
+  }, {
+    "description": "na me viduḥ sura-gaṇāḥ prabhavaṁ na maharṣhayaḥ\naham ādir hi devānāṁ maharṣhīṇāṁ cha sarvaśhaḥ\n",
+    "lang": "english",
+    "verseNumber": 374,
+    "language_id": 1,
+    "id": 374
+  }, {
+    "description": "yo māmajam anādiṁ cha vetti loka-maheśhvaram\nasammūḍhaḥ sa martyeṣhu sarva-pāpaiḥ pramuchyate\n",
+    "lang": "english",
+    "verseNumber": 375,
+    "language_id": 1,
+    "id": 375
+  }, {
+    "description": "buddhir jñānam asammohaḥ kṣhamā satyaṁ damaḥ śhamaḥ\nsukhaṁ duḥkhaṁ bhavo ’bhāvo bhayaṁ chābhayameva cha\n",
+    "lang": "english",
+    "verseNumber": 376,
+    "language_id": 1,
+    "id": 376
+  }, {
+    "description": "ahiṁsā   samatā  tuṣṭis tapo dānaṁ   yaśo    'yaśaḥ bhavanti bhāvā bhūtānāṁ matta eva pṛthag - vidhāḥ ",
+    "lang": "english",
+    "verseNumber": 377,
+    "language_id": 1,
+    "id": 377
+  }, {
+    "description": "maharṣhayaḥ sapta pūrve chatvāro manavas tathā\nmad-bhāvā mānasā jātā yeṣhāṁ loka imāḥ prajāḥ\n",
+    "lang": "english",
+    "verseNumber": 378,
+    "language_id": 1,
+    "id": 378
+  }, {
+    "description": "etāṁ vibhūtiṁ yogaṁ cha mama yo vetti tattvataḥ\nso ’vikampena yogena yujyate nātra sanśhayaḥ\n",
+    "lang": "english",
+    "verseNumber": 379,
+    "language_id": 1,
+    "id": 379
+  }, {
+    "description": "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate\niti matvā bhajante māṁ budhā bhāva-samanvitāḥ\n",
+    "lang": "english",
+    "verseNumber": 380,
+    "language_id": 1,
+    "id": 380
+  }, {
+    "description": "mach-chittā mad-gata-prāṇā bodhayantaḥ parasparam\nkathayantaśh cha māṁ nityaṁ tuṣhyanti cha ramanti cha\n",
+    "lang": "english",
+    "verseNumber": 381,
+    "language_id": 1,
+    "id": 381
+  }, {
+    "description": "teṣhāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam\ndadāmi buddhi-yogaṁ taṁ yena mām upayānti te\n",
+    "lang": "english",
+    "verseNumber": 382,
+    "language_id": 1,
+    "id": 382
+  }, {
+    "description": "teṣhām evānukampārtham aham ajñāna-jaṁ tamaḥ\nnāśhayāmyātma-bhāva-stho jñāna-dīpena bhāsvatā\n",
+    "lang": "english",
+    "verseNumber": 383,
+    "language_id": 1,
+    "id": 383
+  }, {
+    "description": "arjuna uvācha\nparaṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān\npuruṣhaṁ śhāśhvataṁ divyam ādi-devam ajaṁ vibhum\n",
+    "lang": "english",
+    "verseNumber": 384,
+    "language_id": 1,
+    "id": 384
+  }, {
+    "description": "āhus tvām ṛiṣhayaḥ sarve devarṣhir nāradas tathā\nasito devalo vyāsaḥ svayaṁ chaiva bravīṣhi me\n",
+    "lang": "english",
+    "verseNumber": 385,
+    "language_id": 1,
+    "id": 385
+  }, {
+    "description": "sarvam etad ṛitaṁ manye yan māṁ vadasi keśhava\nna hi te bhagavan vyaktiṁ vidur devā na dānavāḥ\n",
+    "lang": "english",
+    "verseNumber": 386,
+    "language_id": 1,
+    "id": 386
+  }, {
+    "description": "swayam evātmanātmānaṁ vettha tvaṁ puruṣhottama\nbhūta-bhāvana bhūteśha deva-deva jagat-pate\n",
+    "lang": "english",
+    "verseNumber": 387,
+    "language_id": 1,
+    "id": 387
+  }, {
+    "description": "vaktum arhasyaśheṣheṇa divyā hyātma-vibhūtayaḥ\nyābhir vibhūtibhir lokān imāṁs tvaṁ vyāpya tiṣhṭhasi\n",
+    "lang": "english",
+    "verseNumber": 388,
+    "language_id": 1,
+    "id": 388
+  }, {
+    "description": "kathaṁ vidyām ahaṁ yogins tvāṁ sadā parichintayan\nkeṣhu keṣhu cha bhāveṣhu chintyo ’si bhagavan mayā\n",
+    "lang": "english",
+    "verseNumber": 389,
+    "language_id": 1,
+    "id": 389
+  }, {
+    "description": "vistareṇātmano yogaṁ vibhūtiṁ cha janārdana\nbhūyaḥ kathaya tṛiptir hi śhṛiṇvato nāsti me ’mṛitam\n",
+    "lang": "english",
+    "verseNumber": 390,
+    "language_id": 1,
+    "id": 390
+  }, {
+    "description": "śhrī bhagavān uvācha\nhanta te kathayiṣhyāmi divyā hyātma-vibhūtayaḥ\nprādhānyataḥ kuru-śhreṣhṭha nāstyanto vistarasya me\n",
+    "lang": "english",
+    "verseNumber": 391,
+    "language_id": 1,
+    "id": 391
+  }, {
+    "description": "aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ\naham ādiśh cha madhyaṁ cha bhūtānām anta eva cha\n",
+    "lang": "english",
+    "verseNumber": 392,
+    "language_id": 1,
+    "id": 392
+  }, {
+    "description": "ādityānām ahaṁ viṣhṇur jyotiṣhāṁ ravir anśhumān\nmarīchir marutām asmi nakṣhatrāṇām ahaṁ śhaśhī\n",
+    "lang": "english",
+    "verseNumber": 393,
+    "language_id": 1,
+    "id": 393
+  }, {
+    "description": "vedānāṁ sāma-vedo ’smi devānām asmi vāsavaḥ\nindriyāṇāṁ manaśh chāsmi bhūtānām asmi chetanā\n",
+    "lang": "english",
+    "verseNumber": 394,
+    "language_id": 1,
+    "id": 394
+  }, {
+    "description": "rudrāṇāṁ śhaṅkaraśh chāsmi vitteśho yakṣha-rakṣhasām\nvasūnāṁ pāvakaśh chāsmi meruḥ śhikhariṇām aham\n",
+    "lang": "english",
+    "verseNumber": 395,
+    "language_id": 1,
+    "id": 395
+  }, {
+    "description": "purodhasāṁ cha mukhyaṁ māṁ viddhi pārtha bṛihaspatim\nsenānīnām ahaṁ skandaḥ sarasām asmi sāgaraḥ\n",
+    "lang": "english",
+    "verseNumber": 396,
+    "language_id": 1,
+    "id": 396
+  }, {
+    "description": "maharṣhīṇāṁ bhṛigur ahaṁ girām asmyekam akṣharam\nyajñānāṁ japa-yajño ’smi sthāvarāṇāṁ himālayaḥ\n",
+    "lang": "english",
+    "verseNumber": 397,
+    "language_id": 1,
+    "id": 397
+  }, {
+    "description": "aśhvatthaḥ sarva-vṛikṣhāṇāṁ devarṣhīṇāṁ cha nāradaḥ\ngandharvāṇāṁ chitrarathaḥ siddhānāṁ kapilo muniḥ\n",
+    "lang": "english",
+    "verseNumber": 398,
+    "language_id": 1,
+    "id": 398
+  }, {
+    "description": "uchchaiḥśhravasam aśhvānāṁ viddhi mām amṛitodbhavam\nairāvataṁ gajendrāṇāṁ narāṇāṁ cha narādhipam\n",
+    "lang": "english",
+    "verseNumber": 399,
+    "language_id": 1,
+    "id": 399
+  }, {
+    "description": "āyudhānām ahaṁ vajraṁ dhenūnām asmi kāmadhuk\nprajanaśh chāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ\n",
+    "lang": "english",
+    "verseNumber": 400,
+    "language_id": 1,
+    "id": 400
+  }, {
+    "description": "anantaśh chāsmi nāgānāṁ varuṇo yādasām aham\npitṝīṇām aryamā chāsmi yamaḥ sanyamatām aham\n",
+    "lang": "english",
+    "verseNumber": 401,
+    "language_id": 1,
+    "id": 401
+  }, {
+    "description": "prahlādaśh chāsmi daityānāṁ kālaḥ kalayatām aham\nmṛigāṇāṁ cha mṛigendro ’haṁ vainateyaśh cha pakṣhiṇām\n",
+    "lang": "english",
+    "verseNumber": 402,
+    "language_id": 1,
+    "id": 402
+  }, {
+    "description": "pavanaḥ pavatām asmi rāmaḥ śhastra-bhṛitām aham\njhaṣhāṇāṁ makaraśh chāsmi srotasām asmi jāhnavī\n",
+    "lang": "english",
+    "verseNumber": 403,
+    "language_id": 1,
+    "id": 403
+  }, {
+    "description": "sargāṇām ādir antaśh cha madhyaṁ chaivāham arjuna\nadhyātma-vidyā vidyānāṁ vādaḥ pravadatām aham\n",
+    "lang": "english",
+    "verseNumber": 404,
+    "language_id": 1,
+    "id": 404
+  }, {
+    "description": "अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||\n\nakṣharāṇām a-kāro ’smi dvandvaḥ sāmāsikasya cha\naham evākṣhayaḥ kālo dhātāhaṁ viśhvato-mukhaḥ\n",
+    "lang": "english",
+    "verseNumber": 405,
+    "language_id": 1,
+    "id": 405
+  }, {
+    "description": "mṛityuḥ sarva-haraśh chāham udbhavaśh cha bhaviṣhyatām\nkīrtiḥ śhrīr vāk cha nārīṇāṁ smṛitir medhā dhṛitiḥ kṣhamā\n",
+    "lang": "english",
+    "verseNumber": 406,
+    "language_id": 1,
+    "id": 406
+  }, {
+    "description": "bṛihat-sāma tathā sāmnāṁ gāyatrī chhandasām aham\nmāsānāṁ mārga-śhīrṣho ’ham ṛitūnāṁ kusumākaraḥ\n",
+    "lang": "english",
+    "verseNumber": 407,
+    "language_id": 1,
+    "id": 407
+  }, {
+    "description": "dyūtaṁ chhalayatām asmi tejas tejasvinām aham\njayo ’smi vyavasāyo ’smi sattvaṁ sattvavatām aham\n",
+    "lang": "english",
+    "verseNumber": 408,
+    "language_id": 1,
+    "id": 408
+  }, {
+    "description": "vṛiṣhṇīnāṁ vāsudevo ’smi pāṇḍavānāṁ dhanañjayaḥ\nmunīnām apyahaṁ vyāsaḥ kavīnām uśhanā kaviḥ\n",
+    "lang": "english",
+    "verseNumber": 409,
+    "language_id": 1,
+    "id": 409
+  }, {
+    "description": "daṇḍo damayatām asmi nītir asmi jigīṣhatām\nmaunaṁ chaivāsmi guhyānāṁ jñānaṁ jñānavatām aham\n",
+    "lang": "english",
+    "verseNumber": 410,
+    "language_id": 1,
+    "id": 410
+  }, {
+    "description": "yach chāpi sarva-bhūtānāṁ bījaṁ tad aham arjuna\nna tad asti vinā yat syān mayā bhūtaṁ charācharam\n",
+    "lang": "english",
+    "verseNumber": 411,
+    "language_id": 1,
+    "id": 411
+  }, {
+    "description": "nānto ’sti mama divyānāṁ vibhūtīnāṁ parantapa\neṣha tūddeśhataḥ prokto vibhūter vistaro mayā\n",
+    "lang": "english",
+    "verseNumber": 412,
+    "language_id": 1,
+    "id": 412
+  }, {
+    "description": "yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā\ntat tad evāvagachchha tvaṁ mama tejo ’nśha-sambhavam\n",
+    "lang": "english",
+    "verseNumber": 413,
+    "language_id": 1,
+    "id": 413
+  }, {
+    "description": "atha vā bahunaitena kiṁ jñātena tavārjuna\nviṣhṭabhyāham idaṁ kṛitsnam ekānśhena sthito jagat\n",
+    "lang": "english",
+    "verseNumber": 414,
+    "language_id": 1,
+    "id": 414
+  }, {
+    "description": "arjuna uvācha\nmad-anugrahāya paramaṁ guhyam adhyātma-sanjñitam\nyat tvayoktaṁ vachas tena moho ’yaṁ vigato mama\n",
+    "lang": "english",
+    "verseNumber": 415,
+    "language_id": 1,
+    "id": 415
+  }, {
+    "description": "bhavāpyayau hi bhūtānāṁ śhrutau vistaraśho mayā\ntvattaḥ kamala-patrākṣha māhātmyam api chāvyayam\n",
+    "lang": "english",
+    "verseNumber": 416,
+    "language_id": 1,
+    "id": 416
+  }, {
+    "description": "evam etad yathāttha tvam ātmānaṁ parameśhvara\ndraṣhṭum ichchhāmi te rūpam aiśhwaraṁ puruṣhottama\n",
+    "lang": "english",
+    "verseNumber": 417,
+    "language_id": 1,
+    "id": 417
+  }, {
+    "description": "manyase yadi tach chhakyaṁ mayā draṣhṭum iti prabho\nyogeśhvara tato me tvaṁ darśhayātmānam avyayam\n",
+    "lang": "english",
+    "verseNumber": 418,
+    "language_id": 1,
+    "id": 418
+  }, {
+    "description": "śhrī-bhagavān uvācha\npaśhya me pārtha rūpāṇi śhataśho ’tha sahasraśhaḥ\nnānā-vidhāni divyāni nānā-varṇākṛitīni cha\n",
+    "lang": "english",
+    "verseNumber": 419,
+    "language_id": 1,
+    "id": 419
+  }, {
+    "description": "paśhyādityān vasūn rudrān aśhvinau marutas tathā\nbahūny adṛiṣhṭa-pūrvāṇi paśhyāśhcharyāṇi bhārata\n",
+    "lang": "english",
+    "verseNumber": 420,
+    "language_id": 1,
+    "id": 420
+  }, {
+    "description": "ihaika-sthaṁ jagat kṛitsnaṁ paśhyādya sa-charācharam\nmama dehe guḍākeśha yach chānyad draṣhṭum ichchhasi\n",
+    "lang": "english",
+    "verseNumber": 421,
+    "language_id": 1,
+    "id": 421
+  }, {
+    "description": "na tu māṁ śhakyase draṣhṭum anenaiva sva-chakṣhuṣhā\ndivyaṁ dadāmi te chakṣhuḥ paśhya me yogam aiśhwaram\n",
+    "lang": "english",
+    "verseNumber": 422,
+    "language_id": 1,
+    "id": 422
+  }, {
+    "description": "sañjaya uvācha\nevam uktvā tato rājan mahā-yogeśhvaro hariḥ\ndarśhayām āsa pārthāya paramaṁ rūpam aiśhwaram\n",
+    "lang": "english",
+    "verseNumber": 423,
+    "language_id": 1,
+    "id": 423
+  }, {
+    "description": "aneka-vaktra-nayanam anekādbhuta-darśhanam\naneka-divyābharaṇaṁ divyānekodyatāyudham\n",
+    "lang": "english",
+    "verseNumber": 424,
+    "language_id": 1,
+    "id": 424
+  }, {
+    "description": "divya-mālyāmbara-dharaṁ divya-gandhānulepanam\nsarvāśhcharya-mayaṁ devam anantaṁ viśhvato-mukham\n",
+    "lang": "english",
+    "verseNumber": 425,
+    "language_id": 1,
+    "id": 425
+  }, {
+    "description": "divi sūrya-sahasrasya bhaved yugapad utthitā\nyadi bhāḥ sadṛiśhī sā syād bhāsas tasya mahātmanaḥ\n",
+    "lang": "english",
+    "verseNumber": 426,
+    "language_id": 1,
+    "id": 426
+  }, {
+    "description": "tatraika-sthaṁ jagat kṛitsnaṁ pravibhaktam anekadhā\napaśhyad deva-devasya śharīre pāṇḍavas tadā\n",
+    "lang": "english",
+    "verseNumber": 427,
+    "language_id": 1,
+    "id": 427
+  }, {
+    "description": "tataḥ sa vismayāviṣhṭo hṛiṣhṭa-romā dhanañjayaḥ\npraṇamya śhirasā devaṁ kṛitāñjalir abhāṣhata\n",
+    "lang": "english",
+    "verseNumber": 428,
+    "language_id": 1,
+    "id": 428
+  }, {
+    "description": "arjuna uvācha\npaśhyāmi devāns tava deva dehe\nsarvāns tathā bhūta-viśheṣha-saṅghān\nbrahmāṇam īśhaṁ kamalāsana-stham\nṛiṣhīnśh cha sarvān uragānśh cha divyān\n",
+    "lang": "english",
+    "verseNumber": 429,
+    "language_id": 1,
+    "id": 429
+  }, {
+    "description": "aneka-bāhūdara-vaktra-netraṁ\npaśhyāmi tvāṁ sarvato ’nanta-rūpam\nnāntaṁ na madhyaṁ na punas tavādiṁ\npaśhyāmi viśhveśhvara viśhva-rūpa\n",
+    "lang": "english",
+    "verseNumber": 430,
+    "language_id": 1,
+    "id": 430
+  }, {
+    "description": "kirīṭinaṁ gadinaṁ chakriṇaṁ cha\ntejo-rāśhiṁ sarvato dīptimantam\npaśhyāmi tvāṁ durnirīkṣhyaṁ samantād\ndīptānalārka-dyutim aprameyam\n",
+    "lang": "english",
+    "verseNumber": 431,
+    "language_id": 1,
+    "id": 431
+  }, {
+    "description": "tvam akṣharaṁ paramaṁ veditavyaṁ\ntvam asya viśhvasya paraṁ nidhānam\ntvam avyayaḥ śhāśhvata-dharma-goptā\nsanātanas tvaṁ puruṣho mato me\n",
+    "lang": "english",
+    "verseNumber": 432,
+    "language_id": 1,
+    "id": 432
+  }, {
+    "description": "anādimadhyāntamanantavīrya-manantabāhuṅ śaśisūryanētram. paśyāmi tvāṅ dīptahutāśavaktram  svatējasā viśvamidaṅ tapantam\n",
+    "lang": "english",
+    "verseNumber": 433,
+    "language_id": 1,
+    "id": 433
+  }, {
+    "description": "dyāv ā-pṛithivyor idam antaraṁ hi\nvyāptaṁ tvayaikena diśhaśh cha sarvāḥ\ndṛiṣhṭvādbhutaṁ rūpam ugraṁ tavedaṁ\nloka-trayaṁ pravyathitaṁ mahātman\n",
+    "lang": "english",
+    "verseNumber": 434,
+    "language_id": 1,
+    "id": 434
+  }, {
+    "description": "amī hi tvāṁ sura-saṅghā viśhanti\nkechid bhītāḥ prāñjalayo gṛiṇanti\nsvastīty uktvā maharṣhi-siddha-saṅghāḥ\nstuvanti tvāṁ stutibhiḥ puṣhkalābhiḥ\n",
+    "lang": "english",
+    "verseNumber": 435,
+    "language_id": 1,
+    "id": 435
+  }, {
+    "description": "rudrādityā vasavo ye cha sādhyā\nviśhve ’śhvinau marutaśh choṣhmapāśh cha\ngandharva-yakṣhāsura-siddha-saṅghā\nvīkṣhante tvāṁ vismitāśh chaiva sarve\n",
+    "lang": "english",
+    "verseNumber": 436,
+    "language_id": 1,
+    "id": 436
+  }, {
+    "description": "rūpaṁ mahat te bahu-vaktra-netraṁ\nmahā-bāho bahu-bāhūru-pādam\nbahūdaraṁ bahu-danṣhṭrā-karālaṁ\ndṛiṣhṭvā lokāḥ pravyathitās tathāham\n",
+    "lang": "english",
+    "verseNumber": 437,
+    "language_id": 1,
+    "id": 437
+  }, {
+    "description": "nabhaḥ-spṛiśhaṁ dīptam aneka-varṇaṁ\nvyāttānanaṁ dīpta-viśhāla-netram\ndṛiṣhṭvā hi tvāṁ pravyathitāntar-ātmā\ndhṛitiṁ na vindāmi śhamaṁ cha viṣhṇo\n",
+    "lang": "english",
+    "verseNumber": 438,
+    "language_id": 1,
+    "id": 438
+  }, {
+    "description": "danṣhṭrā-karālāni cha te mukhāni\ndṛiṣhṭvaiva kālānala-sannibhāni\ndiśho na jāne na labhe cha śharma\nprasīda deveśha jagan-nivāsa\n",
+    "lang": "english",
+    "verseNumber": 439,
+    "language_id": 1,
+    "id": 439
+  }, {
+    "description": "amī cha tvāṁ dhṛitarāśhtrasya putrāḥ\nsarve sahaivāvani-pāla-saṅghaiḥ\nbhīṣhmo droṇaḥ sūta-putras tathāsau\nsahāsmadīyair api yodha-mukhyaiḥ",
+    "lang": "english",
+    "verseNumber": 440,
+    "language_id": 1,
+    "id": 440
+  }, {
+    "description": "vaktrāṇi te  tvaramāṇā   viśanti daṁṣṭrā-karālāni    bhayānakāni kecid   vilagnā daśanāntareṣu   sandṛśyante cūrṇitair   uttamāṅgaiḥ",
+    "lang": "english",
+    "verseNumber": 441,
+    "language_id": 1,
+    "id": 441
+  }, {
+    "description": "yathā nadīnāṁ bahavo ’mbu-vegāḥ\nsamudram evābhimukhā dravanti\ntathā tavāmī nara-loka-vīrā\nviśhanti vaktrāṇy abhivijvalanti\n",
+    "lang": "english",
+    "verseNumber": 442,
+    "language_id": 1,
+    "id": 442
+  }, {
+    "description": "yathā pradīptaṁ jvalanaṁ pataṅgā\nviśhanti nāśhāya samṛiddha-vegāḥ\ntathaiva nāśhāya viśhanti lokās\ntavāpi vaktrāṇi samṛiddha-vegāḥ\n",
+    "lang": "english",
+    "verseNumber": 443,
+    "language_id": 1,
+    "id": 443
+  }, {
+    "description": "lelihyase grasamānaḥ samantāl\nlokān samagrān vadanair jvaladbhiḥ\ntejobhir āpūrya jagat samagraṁ\nbhāsas tavogrāḥ pratapanti viṣhṇo\n",
+    "lang": "english",
+    "verseNumber": 444,
+    "language_id": 1,
+    "id": 444
+  }, {
+    "description": "ākhyāhi me ko bhavān ugra-rūpo\nnamo ’stu te deva-vara prasīda\nvijñātum ichchhāmi bhavantam ādyaṁ\nna hi prajānāmi tava pravṛittim\n",
+    "lang": "english",
+    "verseNumber": 445,
+    "language_id": 1,
+    "id": 445
+  }, {
+    "description": "śhrī-bhagavān uvācha\nkālo ’smi loka-kṣhaya-kṛit pravṛiddho\nlokān samāhartum iha pravṛittaḥ\nṛite ’pi tvāṁ na bhaviṣhyanti sarve\nye ’vasthitāḥ pratyanīkeṣhu yodhāḥ\n",
+    "lang": "english",
+    "verseNumber": 446,
+    "language_id": 1,
+    "id": 446
+  }, {
+    "description": "tasmāt tvam uttiṣhṭha yaśho labhasva\njitvā śhatrūn bhuṅkṣhva rājyaṁ samṛiddham\nmayaivaite nihatāḥ pūrvam eva\nnimitta-mātraṁ bhava savya-sāchin\n",
+    "lang": "english",
+    "verseNumber": 447,
+    "language_id": 1,
+    "id": 447
+  }, {
+    "description": "droṇaṁ cha bhīṣhmaṁ cha jayadrathaṁ cha\nkarṇaṁ tathānyān api yodha-vīrān\nmayā hatāṁs tvaṁ jahi mā vyathiṣhṭhā\nyudhyasva jetāsi raṇe sapatnān\n",
+    "lang": "english",
+    "verseNumber": 448,
+    "language_id": 1,
+    "id": 448
+  }, {
+    "description": "sañjaya uvācha\netach chhrutvā vachanaṁ keśhavasya\nkṛitāñjalir vepamānaḥ kirīṭī\nnamaskṛitvā bhūya evāha kṛiṣhṇaṁ\nsa-gadgadaṁ bhīta-bhītaḥ praṇamya\n",
+    "lang": "english",
+    "verseNumber": 449,
+    "language_id": 1,
+    "id": 449
+  }, {
+    "description": "arjuna uvācha\nsthāne hṛiṣhīkeśha tava prakīrtyā\njagat prahṛiṣhyaty anurajyate cha\nrakṣhānsi bhītāni diśho dravanti\nsarve namasyanti cha siddha-saṅghāḥ\n",
+    "lang": "english",
+    "verseNumber": 450,
+    "language_id": 1,
+    "id": 450
+  }, {
+    "description": "kasmāch cha te na nameran mahātman\ngarīyase brahmaṇo ’py ādi-kartre\nananta deveśha jagan-nivāsa\ntvam akṣharaṁ sad-asat tat paraṁ yat\n",
+    "lang": "english",
+    "verseNumber": 451,
+    "language_id": 1,
+    "id": 451
+  }, {
+    "description": "tvam ādi-devaḥ puruṣhaḥ purāṇas\ntvam asya viśhvasya paraṁ nidhānam\nvettāsi vedyaṁ cha paraṁ cha dhāma\ntvayā tataṁ viśhvam ananta-rūpa\n",
+    "lang": "english",
+    "verseNumber": 452,
+    "language_id": 1,
+    "id": 452
+  }, {
+    "description": "vāyur yamo ’gnir varuṇaḥ śhaśhāṅkaḥ\nprajāpatis tvaṁ prapitāmahaśh cha\nnamo namas te ’stu sahasra-kṛitvaḥ\npunaśh cha bhūyo ’pi namo namas te\n",
+    "lang": "english",
+    "verseNumber": 453,
+    "language_id": 1,
+    "id": 453
+  }, {
+    "description": "namaḥ purastād atha pṛiṣhṭhatas te\nnamo ’stu te sarvata eva sarva\nananta-vīryāmita-vikramas tvaṁ\nsarvaṁ samāpnoṣhi tato ’si sarvaḥ\n",
+    "lang": "english",
+    "verseNumber": 454,
+    "language_id": 1,
+    "id": 454
+  }, {
+    "description": "sakheti matvā prasabhaṁ yad uktaṁ\nhe kṛiṣhṇa he yādava he sakheti\najānatā mahimānaṁ tavedaṁ\nmayā pramādāt praṇayena vāpi\n",
+    "lang": "english",
+    "verseNumber": 455,
+    "language_id": 1,
+    "id": 455
+  }, {
+    "description": "yach chāvahāsārtham asat-kṛito ’si\nvihāra-śhayyāsana-bhojaneṣhu\neko ’tha vāpy achyuta tat-samakṣhaṁ\ntat kṣhāmaye tvām aham aprameyam\n",
+    "lang": "english",
+    "verseNumber": 456,
+    "language_id": 1,
+    "id": 456
+  }, {
+    "description": "pitāsi lokasya charācharasya\ntvam asya pūjyaśh cha gurur garīyān\nna tvat-samo ’sty abhyadhikaḥ kuto ’nyo\nloka-traye ’py apratima-prabhāva\n",
+    "lang": "english",
+    "verseNumber": 457,
+    "language_id": 1,
+    "id": 457
+  }, {
+    "description": "tasmāt praṇamya praṇidhāya kāyaṁ\nprasādaye tvām aham īśham īḍyam\npiteva putrasya sakheva sakhyuḥ\npriyaḥ priyāyārhasi deva soḍhum\n",
+    "lang": "english",
+    "verseNumber": 458,
+    "language_id": 1,
+    "id": 458
+  }, {
+    "description": "adṛiṣhṭa-pūrvaṁ hṛiṣhito ’smi dṛiṣhṭvā\nbhayena cha pravyathitaṁ mano me\ntad eva me darśhaya deva rūpaṁ\nprasīda deveśha jagan-nivāsa\n",
+    "lang": "english",
+    "verseNumber": 459,
+    "language_id": 1,
+    "id": 459
+  }, {
+    "description": "kirīṭinaṁ gadinaṁ chakra-hastam\nichchhāmi tvāṁ draṣhṭum ahaṁ tathaiva\ntenaiva rūpeṇa chatur-bhujena\nsahasra-bāho bhava viśhva-mūrte\n",
+    "lang": "english",
+    "verseNumber": 460,
+    "language_id": 1,
+    "id": 460
+  }, {
+    "description": "śhrī-bhagavān uvācha\nmayā prasannena tavārjunedaṁ\nrūpaṁ paraṁ darśhitam ātma-yogāt\ntejo-mayaṁ viśhvam anantam ādyaṁ\nyan me tvad anyena na dṛiṣhṭa-pūrvam\n",
+    "lang": "english",
+    "verseNumber": 461,
+    "language_id": 1,
+    "id": 461
+  }, {
+    "description": "na veda-yajñādhyayanair na dānair\nna cha kriyābhir na tapobhir ugraiḥ\nevaṁ-rūpaḥ śhakya ahaṁ nṛi-loke\ndraṣhṭuṁ tvad anyena kuru-pravīra\n",
+    "lang": "english",
+    "verseNumber": 462,
+    "language_id": 1,
+    "id": 462
+  }, {
+    "description": "mā te vyathā mā cha vimūḍha-bhāvo\ndṛiṣhṭvā rūpaṁ ghoram īdṛiṅ mamedam\nvyapeta-bhīḥ prīta-manāḥ punas tvaṁ\ntad eva me rūpam idaṁ prapaśhya\n",
+    "lang": "english",
+    "verseNumber": 463,
+    "language_id": 1,
+    "id": 463
+  }, {
+    "description": "sañjaya uvācha\nity arjunaṁ vāsudevas tathoktvā\nsvakaṁ rūpaṁ darśhayām āsa bhūyaḥ\nāśhvāsayām āsa cha bhītam enaṁ\nbhūtvā punaḥ saumya-vapur mahātmā\n",
+    "lang": "english",
+    "verseNumber": 464,
+    "language_id": 1,
+    "id": 464
+  }, {
+    "description": "arjuna uvācha\ndṛiṣhṭvedaṁ mānuṣhaṁ rūpaṁ tava saumyaṁ janārdana\nidānīm asmi saṁvṛittaḥ sa-chetāḥ prakṛitiṁ gataḥ\n",
+    "lang": "english",
+    "verseNumber": 465,
+    "language_id": 1,
+    "id": 465
+  }, {
+    "description": "śhrī-bhagavān uvācha\nsu-durdarśham idaṁ rūpaṁ dṛiṣhṭavān asi yan mama\ndevā apy asya rūpasya nityaṁ darśhana-kāṅkṣhiṇaḥ\n",
+    "lang": "english",
+    "verseNumber": 466,
+    "language_id": 1,
+    "id": 466
+  }, {
+    "description": "nāhaṁ vedair na tapasā na dānena na chejyayā\nśhakya evaṁ-vidho draṣhṭuṁ dṛiṣhṭavān asi māṁ yathā\n",
+    "lang": "english",
+    "verseNumber": 467,
+    "language_id": 1,
+    "id": 467
+  }, {
+    "description": "bhaktyā tv ananyayā śhakya aham evaṁ-vidho ’rjuna\njñātuṁ draṣhṭuṁ cha tattvena praveṣhṭuṁ cha parantapa\n",
+    "lang": "english",
+    "verseNumber": 468,
+    "language_id": 1,
+    "id": 468
+  }, {
+    "description": "mat-karma-kṛin mat-paramo mad-bhaktaḥ saṅga-varjitaḥ\nnirvairaḥ sarva-bhūteṣhu yaḥ sa mām eti pāṇḍava\n",
+    "lang": "english",
+    "verseNumber": 469,
+    "language_id": 1,
+    "id": 469
+  }, {
+    "description": "arjuna uvācha\nevaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate\nye chāpy akṣharam avyaktaṁ teṣhāṁ ke yoga-vittamāḥ\n",
+    "lang": "english",
+    "verseNumber": 470,
+    "language_id": 1,
+    "id": 470
+  }, {
+    "description": "śhrī-bhagavān uvācha\nmayy āveśhya mano ye māṁ nitya-yuktā upāsate\nśhraddhayā parayopetās te me yuktatamā matāḥ\n",
+    "lang": "english",
+    "verseNumber": 471,
+    "language_id": 1,
+    "id": 471
+  }, {
+    "description": "ye tv akṣharam anirdeśhyam avyaktaṁ paryupāsate\nsarvatra-gam achintyañcha kūṭa-stham achalandhruvam\n",
+    "lang": "english",
+    "verseNumber": 472,
+    "language_id": 1,
+    "id": 472
+  }, {
+    "description": "sanniyamyendriya-grāmaṁ  sarvatra    sama-buddhayaḥ  te  prāpnuvanti mām eva sarva-bhūta-hite    ratāḥ",
+    "lang": "english",
+    "verseNumber": 473,
+    "language_id": 1,
+    "id": 473
+  }, {
+    "description": "kleśho ’dhikataras teṣhām avyaktāsakta-chetasām\navyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate\n",
+    "lang": "english",
+    "verseNumber": 474,
+    "language_id": 1,
+    "id": 474
+  }, {
+    "description": "ye tu sarvāṇi karmāṇi mayi sannyasya mat-paraḥ\nananyenaiva yogena māṁ dhyāyanta upāsate\n",
+    "lang": "english",
+    "verseNumber": 475,
+    "language_id": 1,
+    "id": 475
+  }, {
+    "description": "teṣhām ahaṁ samuddhartā mṛityu-saṁsāra-sāgarāt\nbhavāmi na chirāt pārtha mayy āveśhita-chetasām\n",
+    "lang": "english",
+    "verseNumber": 476,
+    "language_id": 1,
+    "id": 476
+  }, {
+    "description": "mayy eva mana ādhatsva mayi buddhiṁ niveśhaya\nnivasiṣhyasi mayy eva ata ūrdhvaṁ na sanśhayaḥ\n",
+    "lang": "english",
+    "verseNumber": 477,
+    "language_id": 1,
+    "id": 477
+  }, {
+    "description": "atha chittaṁ samādhātuṁ na śhaknoṣhi mayi sthiram\nabhyāsa-yogena tato mām ichchhāptuṁ dhanañjaya\n",
+    "lang": "english",
+    "verseNumber": 478,
+    "language_id": 1,
+    "id": 478
+  }, {
+    "description": "abhyāse ’py asamartho ’si mat-karma-paramo bhava\nmad-artham api karmāṇi kurvan siddhim avāpsyasi\n",
+    "lang": "english",
+    "verseNumber": 479,
+    "language_id": 1,
+    "id": 479
+  }, {
+    "description": "athaitad apy aśhakto ’si kartuṁ mad-yogam āśhritaḥ\nsarva-karma-phala-tyāgaṁ tataḥ kuru yatātmavān\n",
+    "lang": "english",
+    "verseNumber": 480,
+    "language_id": 1,
+    "id": 480
+  }, {
+    "description": "śhreyo hi jñānam abhyāsāj jñānād dhyānaṁ viśhiṣhyate\ndhyānāt karma-phala-tyāgas tyāgāch chhāntir anantaram\n",
+    "lang": "english",
+    "verseNumber": 481,
+    "language_id": 1,
+    "id": 481
+  }, {
+    "description": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha\nnirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī\n",
+    "lang": "english",
+    "verseNumber": 482,
+    "language_id": 1,
+    "id": 482
+  }, {
+    "description": "santuṣhṭaḥ satataṁ yogī yatātmā dṛiḍha-niśhchayaḥ\nmayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ\n",
+    "lang": "english",
+    "verseNumber": 483,
+    "language_id": 1,
+    "id": 483
+  }, {
+    "description": "yasmān nodvijate loko lokān nodvijate cha yaḥ\nharṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ\n",
+    "lang": "english",
+    "verseNumber": 484,
+    "language_id": 1,
+    "id": 484
+  }, {
+    "description": "anapekṣhaḥ śhuchir dakṣha udāsīno gata-vyathaḥ\nsarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ\n",
+    "lang": "english",
+    "verseNumber": 485,
+    "language_id": 1,
+    "id": 485
+  }, {
+    "description": "yo na hṛiṣhyati na dveṣhṭi na śhochati na kāṅkṣhati\nśhubhāśhubha-parityāgī bhaktimān yaḥ sa me priyaḥ\n",
+    "lang": "english",
+    "verseNumber": 486,
+    "language_id": 1,
+    "id": 486
+  }, {
+    "description": "samaḥ śhatrau cha mitre cha tathā mānāpamānayoḥ\nśhītoṣhṇa-sukha-duḥkheṣhu samaḥ saṅga-vivarjitaḥ\n",
+    "lang": "english",
+    "verseNumber": 487,
+    "language_id": 1,
+    "id": 487
+  }, {
+    "description": "tulya-nindā-stutir maunī santuṣhṭo yena kenachit\naniketaḥ sthira-matir bhaktimān me priyo naraḥ\n",
+    "lang": "english",
+    "verseNumber": 488,
+    "language_id": 1,
+    "id": 488
+  }, {
+    "description": "ye tu dharmyāmṛitam idaṁ yathoktaṁ paryupāsate\nśhraddadhānā mat-paramā bhaktās te ’tīva me priyāḥ\n",
+    "lang": "english",
+    "verseNumber": 489,
+    "language_id": 1,
+    "id": 489
+  }, {
+    "description": "arjuna uvācha\nprakṛitiṁ puruṣhaṁ chaiva kṣhetraṁ kṣhetra-jñam eva cha\netad veditum ichchhāmi jñānaṁ jñeyaṁ cha keśhava\n",
+    "lang": "english",
+    "verseNumber": 490,
+    "language_id": 1,
+    "id": 490
+  }, {
+    "description": "śhrī-bhagavān uvācha\nidaṁ śharīraṁ kaunteya kṣhetram ity abhidhīyate\netad yo vetti taṁ prāhuḥ kṣhetra-jña iti tad-vidaḥ\n",
+    "lang": "english",
+    "verseNumber": 491,
+    "language_id": 1,
+    "id": 491
+  }, {
+    "description": "kṣhetra-jñaṁ chāpi māṁ viddhi sarva-kṣhetreṣhu bhārata\nkṣhetra-kṣhetrajñayor jñānaṁ yat taj jñānaṁ mataṁ mama\n",
+    "lang": "english",
+    "verseNumber": 492,
+    "language_id": 1,
+    "id": 492
+  }, {
+    "description": "tat kṣhetraṁ yach cha yādṛik cha yad-vikāri yataśh cha yat\nsa cha yo yat-prabhāvaśh cha tat samāsena me śhṛiṇu\n",
+    "lang": "english",
+    "verseNumber": 493,
+    "language_id": 1,
+    "id": 493
+  }, {
+    "description": "ṛiṣhibhir bahudhā gītaṁ chhandobhir vividhaiḥ pṛithak\nbrahma-sūtra-padaiśh chaiva hetumadbhir viniśhchitaiḥ\n",
+    "lang": "english",
+    "verseNumber": 494,
+    "language_id": 1,
+    "id": 494
+  }, {
+    "description": "mahā-bhūtāny ahankāro buddhir avyaktam eva cha\nindriyāṇi daśhaikaṁ cha pañcha chendriya-gocharāḥ\n",
+    "lang": "english",
+    "verseNumber": 495,
+    "language_id": 1,
+    "id": 495
+  }, {
+    "description": "ichchhā dveṣhaḥ sukhaṁ duḥkhaṁ saṅghātaśh chetanā dhṛitiḥ\netat kṣhetraṁ samāsena sa-vikāram udāhṛitam\n",
+    "lang": "english",
+    "verseNumber": 496,
+    "language_id": 1,
+    "id": 496
+  }, {
+    "description": "amānitvam adambhitvam ahinsā kṣhāntir ārjavam\nāchāryopāsanaṁ śhauchaṁ sthairyam ātma-vinigrahaḥ\n",
+    "lang": "english",
+    "verseNumber": 497,
+    "language_id": 1,
+    "id": 497
+  }, {
+    "description": "indriyārtheṣhu vairāgyam anahankāra eva cha\njanma-mṛityu-jarā-vyādhi-duḥkha-doṣhānudarśhanam\n",
+    "lang": "english",
+    "verseNumber": 498,
+    "language_id": 1,
+    "id": 498
+  }, {
+    "description": "asaktir anabhiṣhvaṅgaḥ putra-dāra-gṛihādiṣhu\nnityaṁ cha sama-chittatvam iṣhṭāniṣhṭopapattiṣhu\n",
+    "lang": "english",
+    "verseNumber": 499,
+    "language_id": 1,
+    "id": 499
+  }, {
+    "description": "mayi chānanya-yogena bhaktir avyabhichāriṇī\nvivikta-deśha-sevitvam aratir jana-sansadi\n",
+    "lang": "english",
+    "verseNumber": 500,
+    "language_id": 1,
+    "id": 500
+  }, {
+    "description": "adhyātma-jñāna-nityatvaṁ tattva-jñānārtha-darśhanam\netaj jñānam iti proktam ajñānaṁ yad ato ’nyathā\n",
+    "lang": "english",
+    "verseNumber": 501,
+    "language_id": 1,
+    "id": 501
+  }, {
+    "description": "jñeyaṁ yat tat pravakṣhyāmi yaj jñātvāmṛitam aśhnute\nanādi mat-paraṁ brahma na sat tan nāsad uchyate\n",
+    "lang": "english",
+    "verseNumber": 502,
+    "language_id": 1,
+    "id": 502
+  }, {
+    "description": "sarvataḥ pāṇi-pādaṁ tat sarvato ’kṣhi-śhiro-mukham\nsarvataḥ śhrutimal loke sarvam āvṛitya tiṣhṭhati\n",
+    "lang": "english",
+    "verseNumber": 503,
+    "language_id": 1,
+    "id": 503
+  }, {
+    "description": "sarvendriya-guṇābhāsaṁ sarvendriya-vivarjitam\nasaktaṁ sarva-bhṛich chaiva nirguṇaṁ guṇa-bhoktṛi cha\n",
+    "lang": "english",
+    "verseNumber": 504,
+    "language_id": 1,
+    "id": 504
+  }, {
+    "description": "bahir antaśh cha bhūtānām acharaṁ charam eva cha\nsūkṣhmatvāt tad avijñeyaṁ dūra-sthaṁ chāntike cha tat\n",
+    "lang": "english",
+    "verseNumber": 505,
+    "language_id": 1,
+    "id": 505
+  }, {
+    "description": "avibhaktaṁ cha bhūteṣhu vibhaktam iva cha sthitam\nbhūta-bhartṛi cha taj jñeyaṁ grasiṣhṇu prabhaviṣhṇu cha\n",
+    "lang": "english",
+    "verseNumber": 506,
+    "language_id": 1,
+    "id": 506
+  }, {
+    "description": "jyotiṣhām api taj jyotis tamasaḥ param uchyate\njñānaṁ jñeyaṁ jñāna-gamyaṁ hṛidi sarvasya viṣhṭhitam\n",
+    "lang": "english",
+    "verseNumber": 507,
+    "language_id": 1,
+    "id": 507
+  }, {
+    "description": "iti kṣhetraṁ tathā jñānaṁ jñeyaṁ choktaṁ samāsataḥ\nmad-bhakta etad vijñāya mad-bhāvāyopapadyate\n",
+    "lang": "english",
+    "verseNumber": 508,
+    "language_id": 1,
+    "id": 508
+  }, {
+    "description": "prakṛitiṁ puruṣhaṁ chaiva viddhy anādī ubhāv api\nvikārānśh cha guṇānśh chaiva viddhi prakṛiti-sambhavān\n",
+    "lang": "english",
+    "verseNumber": 509,
+    "language_id": 1,
+    "id": 509
+  }, {
+    "description": "kārya-kāraṇa-kartṛitve hetuḥ prakṛitir uchyate\npuruṣhaḥ sukha-duḥkhānāṁ bhoktṛitve hetur uchyate\n",
+    "lang": "english",
+    "verseNumber": 510,
+    "language_id": 1,
+    "id": 510
+  }, {
+    "description": "puruṣhaḥ prakṛiti-stho hi bhuṅkte prakṛiti-jān guṇān\nkāraṇaṁ guṇa-saṅgo ’sya sad-asad-yoni-janmasu\n",
+    "lang": "english",
+    "verseNumber": 511,
+    "language_id": 1,
+    "id": 511
+  }, {
+    "description": "upadraṣhṭānumantā cha bhartā bhoktā maheśhvaraḥ\nparamātmeti chāpy ukto dehe ’smin puruṣhaḥ paraḥ\n",
+    "lang": "english",
+    "verseNumber": 512,
+    "language_id": 1,
+    "id": 512
+  }, {
+    "description": "ya evaṁ vetti puruṣhaṁ prakṛitiṁ cha guṇaiḥ saha\nsarvathā vartamāno ’pi na sa bhūyo ’bhijāyate\n",
+    "lang": "english",
+    "verseNumber": 513,
+    "language_id": 1,
+    "id": 513
+  }, {
+    "description": "dhyānenātmani paśhyanti kechid ātmānam ātmanā\nanye sānkhyena yogena karma-yogena chāpare\n",
+    "lang": "english",
+    "verseNumber": 514,
+    "language_id": 1,
+    "id": 514
+  }, {
+    "description": "anye tv evam ajānantaḥ śhrutvānyebhya upāsate\nte ’pi chātitaranty eva mṛityuṁ śhruti-parāyaṇāḥ\n",
+    "lang": "english",
+    "verseNumber": 515,
+    "language_id": 1,
+    "id": 515
+  }, {
+    "description": "yāvat sañjāyate kiñchit sattvaṁ sthāvara-jaṅgamam\nkṣhetra-kṣhetrajña-sanyogāt tad viddhi bharatarṣhabha\n",
+    "lang": "english",
+    "verseNumber": 516,
+    "language_id": 1,
+    "id": 516
+  }, {
+    "description": "samaṁ sarveṣhu bhūteṣhu tiṣhṭhantaṁ parameśhvaram\nvinaśhyatsv avinaśhyantaṁ yaḥ paśhyati sa paśhyati\n",
+    "lang": "english",
+    "verseNumber": 517,
+    "language_id": 1,
+    "id": 517
+  }, {
+    "description": "samaṁ paśhyan hi sarvatra samavasthitam īśhvaram\nna hinasty ātmanātmānaṁ tato yāti parāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 518,
+    "language_id": 1,
+    "id": 518
+  }, {
+    "description": "prakṛityaiva cha karmāṇi kriyamāṇāni sarvaśhaḥ\nyaḥ paśhyati tathātmānam akartāraṁ sa paśhyati\n",
+    "lang": "english",
+    "verseNumber": 519,
+    "language_id": 1,
+    "id": 519
+  }, {
+    "description": "yadā bhūta-pṛithag-bhāvam eka-stham anupaśhyati\ntata eva cha vistāraṁ brahma sampadyate tadā\n",
+    "lang": "english",
+    "verseNumber": 520,
+    "language_id": 1,
+    "id": 520
+  }, {
+    "description": "anāditvān nirguṇatvāt paramātmāyam avyayaḥ\nśharīra-stho ’pi kaunteya na karoti na lipyate\n",
+    "lang": "english",
+    "verseNumber": 521,
+    "language_id": 1,
+    "id": 521
+  }, {
+    "description": "yathā sarva-gataṁ saukṣhmyād ākāśhaṁ nopalipyate\nsarvatrāvasthito dehe tathātmā nopalipyate\n",
+    "lang": "english",
+    "verseNumber": 522,
+    "language_id": 1,
+    "id": 522
+  }, {
+    "description": "yathā prakāśhayaty ekaḥ kṛitsnaṁ lokam imaṁ raviḥ\nkṣhetraṁ kṣhetrī tathā kṛitsnaṁ prakāśhayati bhārata\n",
+    "lang": "english",
+    "verseNumber": 523,
+    "language_id": 1,
+    "id": 523
+  }, {
+    "description": "kṣhetra-kṣhetrajñayor evam antaraṁ jñāna-chakṣhuṣhā\nbhūta-prakṛiti-mokṣhaṁ cha ye vidur yānti te param\n",
+    "lang": "english",
+    "verseNumber": 524,
+    "language_id": 1,
+    "id": 524
+  }, {
+    "description": "śhrī-bhagavān uvācha\nparaṁ bhūyaḥ pravakṣhyāmi jñānānāṁ jñānam uttamam\nyaj jñātvā munayaḥ sarve parāṁ siddhim ito gatāḥ\n",
+    "lang": "english",
+    "verseNumber": 525,
+    "language_id": 1,
+    "id": 525
+  }, {
+    "description": "idaṁ jñānam upāśhritya mama sādharmyam āgatāḥ\nsarge ’pi nopajāyante pralaye na vyathanti cha\n",
+    "lang": "english",
+    "verseNumber": 526,
+    "language_id": 1,
+    "id": 526
+  }, {
+    "description": "mama yonir mahad brahma tasmin garbhaṁ dadhāmy aham\nsambhavaḥ sarva-bhūtānāṁ tato bhavati bhārata\n",
+    "lang": "english",
+    "verseNumber": 527,
+    "language_id": 1,
+    "id": 527
+  }, {
+    "description": "sarva-yoniṣhu kaunteya mūrtayaḥ sambhavanti yāḥ\ntāsāṁ brahma mahad yonir ahaṁ bīja-pradaḥ pitā\n",
+    "lang": "english",
+    "verseNumber": 528,
+    "language_id": 1,
+    "id": 528
+  }, {
+    "description": "sattvaṁ rajas tama iti guṇāḥ prakṛiti-sambhavāḥ\nnibadhnanti mahā-bāho dehe dehinam avyayam\n",
+    "lang": "english",
+    "verseNumber": 529,
+    "language_id": 1,
+    "id": 529
+  }, {
+    "description": "tatra sattvaṁ nirmalatvāt prakāśhakam anāmayam\nsukha-saṅgena badhnāti jñāna-saṅgena chānagha\n",
+    "lang": "english",
+    "verseNumber": 530,
+    "language_id": 1,
+    "id": 530
+  }, {
+    "description": "rajo rāgātmakaṁ viddhi tṛiṣhṇā-saṅga-samudbhavam\ntan nibadhnāti kaunteya karma-saṅgena dehinam\n",
+    "lang": "english",
+    "verseNumber": 531,
+    "language_id": 1,
+    "id": 531
+  }, {
+    "description": "tamas tv ajñāna-jaṁ viddhi mohanaṁ sarva-dehinām\npramādālasya-nidrābhis tan nibadhnāti bhārata\n",
+    "lang": "english",
+    "verseNumber": 532,
+    "language_id": 1,
+    "id": 532
+  }, {
+    "description": "sattvaṁ sukhe sañjayati rajaḥ karmaṇi bhārata\njñānam āvṛitya tu tamaḥ pramāde sañjayaty uta\n",
+    "lang": "english",
+    "verseNumber": 533,
+    "language_id": 1,
+    "id": 533
+  }, {
+    "description": "rajas tamaśh chābhibhūya sattvaṁ bhavati bhārata\nrajaḥ sattvaṁ tamaśh chaiva tamaḥ sattvaṁ rajas tathā\n",
+    "lang": "english",
+    "verseNumber": 534,
+    "language_id": 1,
+    "id": 534
+  }, {
+    "description": "sarva-dvāreṣhu dehe ’smin prakāśha upajāyate\njñānaṁ yadā tadā vidyād vivṛiddhaṁ sattvam ity uta\n",
+    "lang": "english",
+    "verseNumber": 535,
+    "language_id": 1,
+    "id": 535
+  }, {
+    "description": "lobhaḥ pravṛittir ārambhaḥ karmaṇām aśhamaḥ spṛihā\nrajasy etāni jāyante vivṛiddhe bharatarṣhabha\n\n",
+    "lang": "english",
+    "verseNumber": 536,
+    "language_id": 1,
+    "id": 536
+  }, {
+    "description": "aprakāśho ’pravṛittiśh cha pramādo moha eva cha\ntamasy etāni jāyante vivṛiddhe kuru-nandana\n\n",
+    "lang": "english",
+    "verseNumber": 537,
+    "language_id": 1,
+    "id": 537
+  }, {
+    "description": "yadā sattve pravṛiddhe tu pralayaṁ yāti deha-bhṛit\ntadottama-vidāṁ lokān amalān pratipadyate\n",
+    "lang": "english",
+    "verseNumber": 538,
+    "language_id": 1,
+    "id": 538
+  }, {
+    "description": "rajasi pralayaṁ gatvā karma-saṅgiṣhu jāyate\ntathā pralīnas tamasi mūḍha-yoniṣhu jāyate\n",
+    "lang": "english",
+    "verseNumber": 539,
+    "language_id": 1,
+    "id": 539
+  }, {
+    "description": "karmaṇaḥ sukṛitasyāhuḥ sāttvikaṁ nirmalaṁ phalam\nrajasas tu phalaṁ duḥkham ajñānaṁ tamasaḥ phalam\n\n",
+    "lang": "english",
+    "verseNumber": 540,
+    "language_id": 1,
+    "id": 540
+  }, {
+    "description": "sattvāt sañjāyate jñānaṁ rajaso lobha eva cha\npramāda-mohau tamaso bhavato ’jñānam eva cha\n",
+    "lang": "english",
+    "verseNumber": 541,
+    "language_id": 1,
+    "id": 541
+  }, {
+    "description": "ūrdhvaṁ gachchhanti sattva-sthā madhye tiṣhṭhanti rājasāḥ\njaghanya-guṇa-vṛitti-sthā adho gachchhanti tāmasāḥ\n",
+    "lang": "english",
+    "verseNumber": 542,
+    "language_id": 1,
+    "id": 542
+  }, {
+    "description": "nānyaṁ guṇebhyaḥ kartāraṁ yadā draṣhṭānupaśhyati\nguṇebhyaśh cha paraṁ vetti mad-bhāvaṁ so ’dhigachchhati\n",
+    "lang": "english",
+    "verseNumber": 543,
+    "language_id": 1,
+    "id": 543
+  }, {
+    "description": "guṇān etān atītya trīn dehī deha-samudbhavān\njanma-mṛityu-jarā-duḥkhair vimukto ’mṛitam aśhnute\n",
+    "lang": "english",
+    "verseNumber": 544,
+    "language_id": 1,
+    "id": 544
+  }, {
+    "description": "arjuna uvācha\nkair liṅgais trīn guṇān etān atīto bhavati prabho\nkim āchāraḥ kathaṁ chaitāns trīn guṇān ativartate\n",
+    "lang": "english",
+    "verseNumber": 545,
+    "language_id": 1,
+    "id": 545
+  }, {
+    "description": "śhrī-bhagavān uvācha\nprakāśhaṁ cha pravṛittiṁ cha moham eva cha pāṇḍava\nna dveṣhṭi sampravṛittāni na nivṛittāni kāṅkṣhati\n\n",
+    "lang": "english",
+    "verseNumber": 546,
+    "language_id": 1,
+    "id": 546
+  }, {
+    "description": "udāsīna-vad āsīno guṇair yo na vichālyate\nguṇā vartanta ity evaṁ yo ’vatiṣhṭhati neṅgate\n",
+    "lang": "english",
+    "verseNumber": 547,
+    "language_id": 1,
+    "id": 547
+  }, {
+    "description": "sama-duḥkha-sukhaḥ sva-sthaḥ sama-loṣhṭāśhma-kāñchanaḥ\ntulya-priyāpriyo dhīras tulya-nindātma-sanstutiḥ\n",
+    "lang": "english",
+    "verseNumber": 548,
+    "language_id": 1,
+    "id": 548
+  }, {
+    "description": "mānāpamānayos tulyas tulyo mitrāri-pakṣhayoḥ\nsarvārambha-parityāgī guṇātītaḥ sa uchyate\n",
+    "lang": "english",
+    "verseNumber": 549,
+    "language_id": 1,
+    "id": 549
+  }, {
+    "description": "māṁ cha yo ’vyabhichāreṇa bhakti-yogena sevate\nsa guṇān samatītyaitān brahma-bhūyāya kalpate\n\n",
+    "lang": "english",
+    "verseNumber": 550,
+    "language_id": 1,
+    "id": 550
+  }, {
+    "description": "brahmaṇo hi pratiṣhṭhāham amṛitasyāvyayasya cha\nśhāśhvatasya cha dharmasya sukhasyaikāntikasya cha\n",
+    "lang": "english",
+    "verseNumber": 551,
+    "language_id": 1,
+    "id": 551
+  }, {
+    "description": "śhrī-bhagavān uvācha\nūrdhva-mūlam adhaḥ-śhākham aśhvatthaṁ prāhur avyayam\nchhandānsi yasya parṇāni yas taṁ veda sa veda-vit\n",
+    "lang": "english",
+    "verseNumber": 552,
+    "language_id": 1,
+    "id": 552
+  }, {
+    "description": "adhaśh chordhvaṁ prasṛitās tasya śhākhā\nguṇa-pravṛiddhā viṣhaya-pravālāḥ\nadhaśh cha mūlāny anusantatāni\nkarmānubandhīni manuṣhya-loke\n",
+    "lang": "english",
+    "verseNumber": 553,
+    "language_id": 1,
+    "id": 553
+  }, {
+    "description": "na rūpam asyeha tathopalabhyate\nnānto na chādir na cha sampratiṣhṭhā\naśhvattham enaṁ su-virūḍha-mūlam\nasaṅga-śhastreṇa dṛiḍhena chhittvā\n\n",
+    "lang": "english",
+    "verseNumber": 554,
+    "language_id": 1,
+    "id": 554
+  }, {
+    "description": "tataḥ padaṁ tat parimārgitavyaṁ\nyasmin gatā na nivartanti bhūyaḥ\ntam eva chādyaṁ puruṣhaṁ prapadye\nyataḥ pravṛittiḥ prasṛitā purāṇī\n",
+    "lang": "english",
+    "verseNumber": 555,
+    "language_id": 1,
+    "id": 555
+  }, {
+    "description": "nirmāna-mohā jita-saṅga-doṣhā\nadhyātma-nityā vinivṛitta-kāmāḥ\ndvandvair vimuktāḥ sukha-duḥkha-sanjñair\ngachchhanty amūḍhāḥ padam avyayaṁ tat\n",
+    "lang": "english",
+    "verseNumber": 556,
+    "language_id": 1,
+    "id": 556
+  }, {
+    "description": "na tad bhāsayate sūryo na śhaśhāṅko na pāvakaḥ\nyad gatvā na nivartante tad dhāma paramaṁ mama\n\n",
+    "lang": "english",
+    "verseNumber": 557,
+    "language_id": 1,
+    "id": 557
+  }, {
+    "description": "mamaivānśho jīva-loke jīva-bhūtaḥ sanātanaḥ\nmanaḥ-ṣhaṣhṭhānīndriyāṇi prakṛiti-sthāni karṣhati\n",
+    "lang": "english",
+    "verseNumber": 558,
+    "language_id": 1,
+    "id": 558
+  }, {
+    "description": "śharīraṁ yad avāpnoti yach chāpy utkrāmatīśhvaraḥ\ngṛihītvaitāni sanyāti vāyur gandhān ivāśhayāt\n",
+    "lang": "english",
+    "verseNumber": 559,
+    "language_id": 1,
+    "id": 559
+  }, {
+    "description": "śhrotraṁ chakṣhuḥ sparśhanaṁ cha rasanaṁ ghrāṇam eva cha\nadhiṣhṭhāya manaśh chāyaṁ viṣhayān upasevate\n",
+    "lang": "english",
+    "verseNumber": 560,
+    "language_id": 1,
+    "id": 560
+  }, {
+    "description": "utkrāmantaṁ sthitaṁ vāpi bhuñjānaṁ vā guṇānvitam\nvimūḍhā nānupaśhyanti paśhyanti jñāna-chakṣhuṣhaḥ\n",
+    "lang": "english",
+    "verseNumber": 561,
+    "language_id": 1,
+    "id": 561
+  }, {
+    "description": "yatanto yoginaśh chainaṁ paśhyanty ātmany avasthitam\nyatanto ‘py akṛitātmāno nainaṁ paśhyanty achetasaḥ\n",
+    "lang": "english",
+    "verseNumber": 562,
+    "language_id": 1,
+    "id": 562
+  }, {
+    "description": "yad āditya-gataṁ tejo jagad bhāsayate ’khilam\nyach chandramasi yach chāgnau tat tejo viddhi māmakam\n",
+    "lang": "english",
+    "verseNumber": 563,
+    "language_id": 1,
+    "id": 563
+  }, {
+    "description": "gām āviśhya cha bhūtāni dhārayāmy aham ojasā\npuṣhṇāmi chauṣhadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 564,
+    "language_id": 1,
+    "id": 564
+  }, {
+    "description": "ahaṁ vaiśhvānaro bhūtvā prāṇināṁ deham āśhritaḥ\nprāṇāpāna-samāyuktaḥ pachāmy annaṁ chatur-vidham\n\n",
+    "lang": "english",
+    "verseNumber": 565,
+    "language_id": 1,
+    "id": 565
+  }, {
+    "description": "sarvasya chāhaṁ hṛidi sanniviṣhṭo\nmattaḥ smṛitir jñānam apohanaṁ cha\nvedaiśh cha sarvair aham eva vedyo\nvedānta-kṛid veda-vid eva chāham\n\n",
+    "lang": "english",
+    "verseNumber": 566,
+    "language_id": 1,
+    "id": 566
+  }, {
+    "description": "dvāv imau puruṣhau loke kṣharaśh chākṣhara eva cha\nkṣharaḥ sarvāṇi bhūtāni kūṭa-stho ’kṣhara uchyate\n",
+    "lang": "english",
+    "verseNumber": 567,
+    "language_id": 1,
+    "id": 567
+  }, {
+    "description": "uttamaḥ puruṣhas tv anyaḥ paramātmety udāhṛitaḥ\nyo loka-trayam āviśhya bibharty avyaya īśhvaraḥ\n\n",
+    "lang": "english",
+    "verseNumber": 568,
+    "language_id": 1,
+    "id": 568
+  }, {
+    "description": "yasmāt kṣharam atīto ’ham akṣharād api chottamaḥ\nato ’smi loke vede cha prathitaḥ puruṣhottamaḥ\n\n",
+    "lang": "english",
+    "verseNumber": 569,
+    "language_id": 1,
+    "id": 569
+  }, {
+    "description": "yo mām evam asammūḍho jānāti puruṣhottamam\nsa sarva-vid bhajati māṁ sarva-bhāvena bhārata\n\n",
+    "lang": "english",
+    "verseNumber": 570,
+    "language_id": 1,
+    "id": 570
+  }, {
+    "description": "iti guhyatamaṁ śhāstram idam uktaṁ mayānagha\netad buddhvā buddhimān syāt kṛita-kṛityaśh cha bhārata\n",
+    "lang": "english",
+    "verseNumber": 571,
+    "language_id": 1,
+    "id": 571
+  }, {
+    "description": "śhrī-bhagavān uvācha\nabhayaṁ sattva-sanśhuddhir jñāna-yoga-vyavasthitiḥ\ndānaṁ damaśh cha yajñaśh cha svādhyāyas tapa ārjavam\n",
+    "lang": "english",
+    "verseNumber": 572,
+    "language_id": 1,
+    "id": 572
+  }, {
+    "description": "ahinsā satyam akrodhas tyāgaḥ śhāntir apaiśhunam\ndayā bhūteṣhv aloluptvaṁ mārdavaṁ hrīr achāpalam\n",
+    "lang": "english",
+    "verseNumber": 573,
+    "language_id": 1,
+    "id": 573
+  }, {
+    "description": "tejaḥ kṣhamā dhṛitiḥ śhaucham adroho nāti-mānitā\nbhavanti sampadaṁ daivīm abhijātasya bhārata\n",
+    "lang": "english",
+    "verseNumber": 574,
+    "language_id": 1,
+    "id": 574
+  }, {
+    "description": "dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha\najñānaṁ chābhijātasya pārtha sampadam āsurīm\n",
+    "lang": "english",
+    "verseNumber": 575,
+    "language_id": 1,
+    "id": 575
+  }, {
+    "description": "daivī sampad vimokṣhāya nibandhāyāsurī matā\nmā śhuchaḥ sampadaṁ daivīm abhijāto ’si pāṇḍava\n",
+    "lang": "english",
+    "verseNumber": 576,
+    "language_id": 1,
+    "id": 576
+  }, {
+    "description": "dvau bhūta-sargau loke ’smin daiva āsura eva cha\ndaivo vistaraśhaḥ prokta āsuraṁ pārtha me śhṛiṇu\n",
+    "lang": "english",
+    "verseNumber": 577,
+    "language_id": 1,
+    "id": 577
+  }, {
+    "description": "pravṛittiṁ cha nivṛittiṁ cha janā na vidur āsurāḥ\nna śhauchaṁ nāpi chāchāro na satyaṁ teṣhu vidyate\n",
+    "lang": "english",
+    "verseNumber": 578,
+    "language_id": 1,
+    "id": 578
+  }, {
+    "description": "asatyam apratiṣhṭhaṁ te jagad āhur anīśhvaram\naparaspara-sambhūtaṁ kim anyat kāma-haitukam\n",
+    "lang": "english",
+    "verseNumber": 579,
+    "language_id": 1,
+    "id": 579
+  }, {
+    "description": "etāṁ dṛiṣhṭim avaṣhṭabhya naṣhṭātmāno ’lpa-buddhayaḥ\nprabhavanty ugra-karmāṇaḥ kṣhayāya jagato ’hitāḥ\n",
+    "lang": "english",
+    "verseNumber": 580,
+    "language_id": 1,
+    "id": 580
+  }, {
+    "description": "kāmam āśhritya duṣhpūraṁ dambha-māna-madānvitāḥ\nmohād gṛihītvāsad-grāhān pravartante ’śhuchi-vratāḥ\n",
+    "lang": "english",
+    "verseNumber": 581,
+    "language_id": 1,
+    "id": 581
+  }, {
+    "description": "chintām aparimeyāṁ cha pralayāntām upāśhritāḥ\nkāmopabhoga-paramā etāvad iti niśhchitāḥ\n",
+    "lang": "english",
+    "verseNumber": 582,
+    "language_id": 1,
+    "id": 582
+  }, {
+    "description": "āśhā-pāśha-śhatair baddhāḥ kāma-krodha-parāyaṇāḥ\nīhante kāma-bhogārtham anyāyenārtha-sañchayān\n",
+    "lang": "english",
+    "verseNumber": 583,
+    "language_id": 1,
+    "id": 583
+  }, {
+    "description": "idam adya mayā labdham imaṁ prāpsye manoratham\nidam astīdam api me bhaviṣhyati punar dhanam\n",
+    "lang": "english",
+    "verseNumber": 584,
+    "language_id": 1,
+    "id": 584
+  }, {
+    "description": "asau mayā hataḥ śhatrur haniṣhye chāparān api\nīśhvaro ’ham ahaṁ bhogī siddho ’haṁ balavān sukhī\n",
+    "lang": "english",
+    "verseNumber": 585,
+    "language_id": 1,
+    "id": 585
+  }, {
+    "description": "āḍhyo ’bhijanavān asmi ko ’nyo ’sti sadṛiśho mayā\nyakṣhye dāsyāmi modiṣhya ity ajñāna-vimohitāḥ\n",
+    "lang": "english",
+    "verseNumber": 586,
+    "language_id": 1,
+    "id": 586
+  }, {
+    "description": "aneka-citta-vibhrāntā    moha-jāla-samāvṛtāḥ prasaktāḥ   kāma-bhogeṣu    patanti narake  'śucau ",
+    "lang": "english",
+    "verseNumber": 587,
+    "language_id": 1,
+    "id": 587
+  }, {
+    "description": "ātma-sambhāvitāḥ stabdhā dhana-māna-madānvitāḥ\nyajante nāma-yajñais te dambhenāvidhi-pūrvakam\n",
+    "lang": "english",
+    "verseNumber": 588,
+    "language_id": 1,
+    "id": 588
+  }, {
+    "description": "ahankāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ cha sanśhritāḥ\nmām ātma-para-deheṣhu pradviṣhanto ’bhyasūyakāḥ\n",
+    "lang": "english",
+    "verseNumber": 589,
+    "language_id": 1,
+    "id": 589
+  }, {
+    "description": "tān ahaṁ dviṣhataḥ krūrān sansāreṣhu narādhamān\nkṣhipāmy ajasram aśhubhān āsurīṣhv eva yoniṣhu\n",
+    "lang": "english",
+    "verseNumber": 590,
+    "language_id": 1,
+    "id": 590
+  }, {
+    "description": "āsurīṁ yonim āpannā mūḍhā janmani janmani\nmām aprāpyaiva kaunteya tato yānty adhamāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 591,
+    "language_id": 1,
+    "id": 591
+  }, {
+    "description": "tri-vidhaṁ narakasyedaṁ dvāraṁ nāśhanam ātmanaḥ\nkāmaḥ krodhas tathā lobhas tasmād etat trayaṁ tyajet\n",
+    "lang": "english",
+    "verseNumber": 592,
+    "language_id": 1,
+    "id": 592
+  }, {
+    "description": "etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ\nācharaty ātmanaḥ śhreyas tato yāti parāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 593,
+    "language_id": 1,
+    "id": 593
+  }, {
+    "description": "yaḥ śhāstra-vidhim utsṛijya vartate kāma-kārataḥ\nna sa siddhim avāpnoti na sukhaṁ na parāṁ gatim\n",
+    "lang": "english",
+    "verseNumber": 594,
+    "language_id": 1,
+    "id": 594
+  }, {
+    "description": "tasmāch chhāstraṁ pramāṇaṁ te kāryākārya-vyavasthitau\njñātvā śhāstra-vidhānoktaṁ karma kartum ihārhasi\n",
+    "lang": "english",
+    "verseNumber": 595,
+    "language_id": 1,
+    "id": 595
+  }, {
+    "description": "arjuna uvācha\nye śhāstra-vidhim utsṛijya yajante śhraddhayānvitāḥ\nteṣhāṁ niṣhṭhā tu kā kṛiṣhṇa sattvam āho rajas tamaḥ\n",
+    "lang": "english",
+    "verseNumber": 596,
+    "language_id": 1,
+    "id": 596
+  }, {
+    "description": "śhrī-bhagavān uvācha\ntri-vidhā bhavati śhraddhā dehināṁ sā svabhāva-jā\nsāttvikī rājasī chaiva tāmasī cheti tāṁ śhṛiṇu\n",
+    "lang": "english",
+    "verseNumber": 597,
+    "language_id": 1,
+    "id": 597
+  }, {
+    "description": "sattvānurūpā sarvasya śhraddhā bhavati bhārata\nśhraddhā-mayo ‘yaṁ puruṣho yo yach-chhraddhaḥ sa eva saḥ\n",
+    "lang": "english",
+    "verseNumber": 598,
+    "language_id": 1,
+    "id": 598
+  }, {
+    "description": "yajante sāttvikā devān yakṣha-rakṣhānsi rājasāḥ\npretān bhūta-gaṇānśh chānye yajante tāmasā janāḥ\n",
+    "lang": "english",
+    "verseNumber": 599,
+    "language_id": 1,
+    "id": 599
+  }, {
+    "description": "aśhāstra-vihitaṁ ghoraṁ tapyante ye tapo janāḥ\ndambhāhankāra-sanyuktāḥ kāma-rāga-balānvitāḥ\n",
+    "lang": "english",
+    "verseNumber": 600,
+    "language_id": 1,
+    "id": 600
+  }, {
+    "description": "karṣhayantaḥ śharīra-sthaṁ bhūta-grāmam achetasaḥ\nmāṁ chaivāntaḥ śharīra-sthaṁ tān viddhy āsura-niśhchayān\n",
+    "lang": "english",
+    "verseNumber": 601,
+    "language_id": 1,
+    "id": 601
+  }, {
+    "description": "āhāras tv api sarvasya tri-vidho bhavati priyaḥ\nyajñas tapas tathā dānaṁ teṣhāṁ bhedam imaṁ śhṛiṇu\n",
+    "lang": "english",
+    "verseNumber": 602,
+    "language_id": 1,
+    "id": 602
+  }, {
+    "description": "āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ\nrasyāḥ snigdhāḥ sthirā hṛidyā āhārāḥ sāttvika-priyāḥ\n",
+    "lang": "english",
+    "verseNumber": 603,
+    "language_id": 1,
+    "id": 603
+  }, {
+    "description": "kaṭv-amla-lavaṇāty-uṣhṇa- tīkṣhṇa-rūkṣha-vidāhinaḥ\nāhārā rājasasyeṣhṭā duḥkha-śhokāmaya-pradāḥ\n",
+    "lang": "english",
+    "verseNumber": 604,
+    "language_id": 1,
+    "id": 604
+  }, {
+    "description": "yāta-yāmaṁ gata-rasaṁ pūti paryuṣhitaṁ cha yat\nuchchhiṣhṭam api chāmedhyaṁ bhojanaṁ tāmasa-priyam\n",
+    "lang": "english",
+    "verseNumber": 605,
+    "language_id": 1,
+    "id": 605
+  }, {
+    "description": "aphalākāṅkṣhibhir yajño vidhi-driṣhṭo ya ijyate\nyaṣhṭavyam eveti manaḥ samādhāya sa sāttvikaḥ\n",
+    "lang": "english",
+    "verseNumber": 606,
+    "language_id": 1,
+    "id": 606
+  }, {
+    "description": "abhisandhāya tu phalaṁ dambhārtham api chaiva yat\nijyate bharata-śhreṣhṭha taṁ yajñaṁ viddhi rājasam\n",
+    "lang": "english",
+    "verseNumber": 607,
+    "language_id": 1,
+    "id": 607
+  }, {
+    "description": "vidhi-hīnam asṛiṣhṭānnaṁ mantra-hīnam adakṣhiṇam\nśhraddhā-virahitaṁ yajñaṁ tāmasaṁ parichakṣhate\n",
+    "lang": "english",
+    "verseNumber": 608,
+    "language_id": 1,
+    "id": 608
+  }, {
+    "description": "deva-dwija-guru-prājña- pūjanaṁ śhaucham ārjavam\nbrahmacharyam ahinsā cha śhārīraṁ tapa uchyate\n",
+    "lang": "english",
+    "verseNumber": 609,
+    "language_id": 1,
+    "id": 609
+  }, {
+    "description": "anudvega-karaṁ vākyaṁ satyaṁ priya-hitaṁ cha yat\nsvādhyāyābhyasanaṁ chaiva vāṅ-mayaṁ tapa uchyate\n",
+    "lang": "english",
+    "verseNumber": 610,
+    "language_id": 1,
+    "id": 610
+  }, {
+    "description": "manaḥ-prasādaḥ saumyatvaṁ maunam ātma-vinigrahaḥ\nbhāva-sanśhuddhir ity etat tapo mānasam uchyate\n",
+    "lang": "english",
+    "verseNumber": 611,
+    "language_id": 1,
+    "id": 611
+  }, {
+    "description": "śhraddhayā parayā taptaṁ tapas tat tri-vidhaṁ naraiḥ\naphalākāṅkṣhibhir yuktaiḥ sāttvikaṁ parichakṣhate\n",
+    "lang": "english",
+    "verseNumber": 612,
+    "language_id": 1,
+    "id": 612
+  }, {
+    "description": "satkāra-māna-pūjārthaṁ tapo dambhena chaiva yat\nkriyate tad iha proktaṁ rājasaṁ chalam adhruvam\n",
+    "lang": "english",
+    "verseNumber": 613,
+    "language_id": 1,
+    "id": 613
+  }, {
+    "description": "mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ\nparasyotsādanārthaṁ vā tat tāmasam udāhṛitam\n",
+    "lang": "english",
+    "verseNumber": 614,
+    "language_id": 1,
+    "id": 614
+  }, {
+    "description": "dātavyam iti yad dānaṁ dīyate ‘nupakāriṇe\ndeśhe kāle cha pātre cha tad dānaṁ sāttvikaṁ smṛitam\n",
+    "lang": "english",
+    "verseNumber": 615,
+    "language_id": 1,
+    "id": 615
+  }, {
+    "description": "yat tu pratyupakārārthaṁ phalam uddiśhya vā punaḥ\ndīyate cha parikliṣhṭaṁ tad dānaṁ rājasaṁ smṛitam\n",
+    "lang": "english",
+    "verseNumber": 616,
+    "language_id": 1,
+    "id": 616
+  }, {
+    "description": "adeśha-kāle yad dānam apātrebhyaśh cha dīyate\nasat-kṛitam avajñātaṁ tat tāmasam udāhṛitam\n",
+    "lang": "english",
+    "verseNumber": 617,
+    "language_id": 1,
+    "id": 617
+  }, {
+    "description": "oṁ tat sad iti nirdeśho brahmaṇas tri-vidhaḥ smṛitaḥ\nbrāhmaṇās tena vedāśh cha yajñāśh cha vihitāḥ purā\n",
+    "lang": "english",
+    "verseNumber": 618,
+    "language_id": 1,
+    "id": 618
+  }, {
+    "description": "tasmād oṁ ity udāhṛitya yajña-dāna-tapaḥ-kriyāḥ\npravartante vidhānoktāḥ satataṁ brahma-vādinām\n",
+    "lang": "english",
+    "verseNumber": 619,
+    "language_id": 1,
+    "id": 619
+  }, {
+    "description": "tad ity anabhisandhāya phalaṁ yajña-tapaḥ-kriyāḥ\ndāna-kriyāśh cha vividhāḥ kriyante mokṣha-kāṅkṣhibhiḥ\n",
+    "lang": "english",
+    "verseNumber": 620,
+    "language_id": 1,
+    "id": 620
+  }, {
+    "description": "sad-bhāve sādhu-bhāve cha sad ity etat prayujyate\npraśhaste karmaṇi tathā sach-chhabdaḥ pārtha yujyate\n",
+    "lang": "english",
+    "verseNumber": 621,
+    "language_id": 1,
+    "id": 621
+  }, {
+    "description": "yajñe tapasi dāne cha sthitiḥ sad iti chochyate\nkarma chaiva tad-arthīyaṁ sad ity evābhidhīyate\n",
+    "lang": "english",
+    "verseNumber": 622,
+    "language_id": 1,
+    "id": 622
+  }, {
+    "description": "aśhraddhayā hutaṁ dattaṁ tapas taptaṁ kṛitaṁ cha yat\nasad ity uchyate pārtha na cha tat pretya no iha\n",
+    "lang": "english",
+    "verseNumber": 623,
+    "language_id": 1,
+    "id": 623
+  }, {
+    "description": "arjuna uvācha\nsannyāsasya mahā-bāho tattvam ichchhāmi veditum\ntyāgasya cha hṛiṣhīkeśha pṛithak keśhi-niṣhūdana\n",
+    "lang": "english",
+    "verseNumber": 624,
+    "language_id": 1,
+    "id": 624
+  }, {
+    "description": "śhrī-bhagavān uvācha\nkāmyānāṁ karmaṇāṁ nyāsaṁ sannyāsaṁ kavayo viduḥ\nsarva-karma-phala-tyāgaṁ prāhus tyāgaṁ vichakṣhaṇāḥ\n",
+    "lang": "english",
+    "verseNumber": 625,
+    "language_id": 1,
+    "id": 625
+  }, {
+    "description": "tyājyaṁ doṣha-vad ity eke karma prāhur manīṣhiṇaḥ\nyajña-dāna-tapaḥ-karma na tyājyam iti chāpare\n",
+    "lang": "english",
+    "verseNumber": 626,
+    "language_id": 1,
+    "id": 626
+  }, {
+    "description": "niśhchayaṁ śhṛiṇu me tatra tyāge bharata-sattama\ntyāgo hi puruṣha-vyāghra tri-vidhaḥ samprakīrtitaḥ\n",
+    "lang": "english",
+    "verseNumber": 627,
+    "language_id": 1,
+    "id": 627
+  }, {
+    "description": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat\nyajño dānaṁ tapaśh chaiva pāvanāni manīṣhiṇām\n",
+    "lang": "english",
+    "verseNumber": 628,
+    "language_id": 1,
+    "id": 628
+  }, {
+    "description": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni cha\nkartavyānīti me pārtha niśhchitaṁ matam uttamam\n",
+    "lang": "english",
+    "verseNumber": 629,
+    "language_id": 1,
+    "id": 629
+  }, {
+    "description": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ\n",
+    "lang": "english",
+    "verseNumber": 630,
+    "language_id": 1,
+    "id": 630
+  }, {
+    "description": "duḥkham ity eva yat karma kāya-kleśha-bhayāt tyajet\nsa kṛitvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet\n",
+    "lang": "english",
+    "verseNumber": 631,
+    "language_id": 1,
+    "id": 631
+  }, {
+    "description": "kāryam ity eva yat karma niyataṁ kriyate ‘rjuna\nsaṅgaṁ tyaktvā phalaṁ chaiva sa tyāgaḥ sāttviko mataḥ\n",
+    "lang": "english",
+    "verseNumber": 632,
+    "language_id": 1,
+    "id": 632
+  }, {
+    "description": "na dveṣhṭy akuśhalaṁ karma kuśhale nānuṣhajjate\ntyāgī sattva-samāviṣhṭo medhāvī chhinna-sanśhayaḥ\n",
+    "lang": "english",
+    "verseNumber": 633,
+    "language_id": 1,
+    "id": 633
+  }, {
+    "description": "na hi deha-bhṛitā śhakyaṁ tyaktuṁ karmāṇy aśheṣhataḥ\nyas tu karma-phala-tyāgī sa tyāgīty abhidhīyate\n",
+    "lang": "english",
+    "verseNumber": 634,
+    "language_id": 1,
+    "id": 634
+  }, {
+    "description": "aniṣhṭam iṣhṭaṁ miśhraṁ cha tri-vidhaṁ karmaṇaḥ phalam\nbhavaty atyāgināṁ pretya na tu sannyāsināṁ kvachit\n",
+    "lang": "english",
+    "verseNumber": 635,
+    "language_id": 1,
+    "id": 635
+  }, {
+    "description": "pañchaitāni mahā-bāho kāraṇāni nibodha me\nsānkhye kṛitānte proktāni siddhaye sarva-karmaṇām\n",
+    "lang": "english",
+    "verseNumber": 636,
+    "language_id": 1,
+    "id": 636
+  }, {
+    "description": "adhiṣhṭhānaṁ tathā kartā karaṇaṁ cha pṛithag-vidham\nvividhāśh cha pṛithak cheṣhṭā daivaṁ chaivātra pañchamam\n",
+    "lang": "english",
+    "verseNumber": 637,
+    "language_id": 1,
+    "id": 637
+  }, {
+    "description": "śharīra-vāṅ-manobhir yat karma prārabhate naraḥ\nnyāyyaṁ vā viparītaṁ vā pañchaite tasya hetavaḥ\n",
+    "lang": "english",
+    "verseNumber": 638,
+    "language_id": 1,
+    "id": 638
+  }, {
+    "description": "tatraivaṁ sati kartāram ātmānaṁ kevalaṁ tu yaḥ\npaśhyaty akṛita-buddhitvān na sa paśhyati durmatiḥ\n",
+    "lang": "english",
+    "verseNumber": 639,
+    "language_id": 1,
+    "id": 639
+  }, {
+    "description": "yasya nāhankṛito bhāvo buddhir yasya na lipyate\nhatvā ‘pi sa imāl lokān na hanti na nibadhyate\n",
+    "lang": "english",
+    "verseNumber": 640,
+    "language_id": 1,
+    "id": 640
+  }, {
+    "description": "jñānaṁ jñeyaṁ parijñātā tri-vidhā karma-chodanā\nkaraṇaṁ karma karteti tri-vidhaḥ karma-saṅgrahaḥ\n",
+    "lang": "english",
+    "verseNumber": 641,
+    "language_id": 1,
+    "id": 641
+  }, {
+    "description": "jñānaṁ karma cha kartā cha tridhaiva guṇa-bhedataḥ\nprochyate guṇa-saṅkhyāne yathāvach chhṛiṇu tāny api\n",
+    "lang": "english",
+    "verseNumber": 642,
+    "language_id": 1,
+    "id": 642
+  }, {
+    "description": "sarva-bhūteṣhu yenaikaṁ bhāvam avyayam īkṣhate\navibhaktaṁ vibhakteṣhu taj jñānaṁ viddhi sāttvikam\n",
+    "lang": "english",
+    "verseNumber": 643,
+    "language_id": 1,
+    "id": 643
+  }, {
+    "description": "pṛithaktvena tu yaj jñānaṁ nānā-bhāvān pṛithag-vidhān\nvetti sarveṣhu bhūteṣhu taj jñānaṁ viddhi rājasam\n",
+    "lang": "english",
+    "verseNumber": 644,
+    "language_id": 1,
+    "id": 644
+  }, {
+    "description": "yat tu kṛitsna-vad ekasmin kārye saktam ahaitukam\natattvārtha-vad alpaṁ cha tat tāmasam udāhṛitam\n",
+    "lang": "english",
+    "verseNumber": 645,
+    "language_id": 1,
+    "id": 645
+  }, {
+    "description": "niyataṁ saṅga-rahitam arāga-dveṣhataḥ kṛitam\naphala-prepsunā karma yat tat sāttvikam uchyate\n",
+    "lang": "english",
+    "verseNumber": 646,
+    "language_id": 1,
+    "id": 646
+  }, {
+    "description": "yat tu kāmepsunā karma sāhankāreṇa vā punaḥ\nkriyate bahulāyāsaṁ tad rājasam udāhṛitam\n",
+    "lang": "english",
+    "verseNumber": 647,
+    "language_id": 1,
+    "id": 647
+  }, {
+    "description": "anubandhaṁ kṣhayaṁ hinsām anapekṣhya cha pauruṣham\nmohād ārabhyate karma yat tat tāmasam uchyate\n",
+    "lang": "english",
+    "verseNumber": 648,
+    "language_id": 1,
+    "id": 648
+  }, {
+    "description": "mukta-saṅgo ‘nahaṁ-vādī dhṛity-utsāha-samanvitaḥ\nsiddhy-asiddhyor nirvikāraḥ kartā sāttvika uchyate\n",
+    "lang": "english",
+    "verseNumber": 649,
+    "language_id": 1,
+    "id": 649
+  }, {
+    "description": "rāgī karma-phala-prepsur lubdho hinsātmako ‘śhuchiḥ\nharṣha-śhokānvitaḥ kartā rājasaḥ parikīrtitaḥ\n",
+    "lang": "english",
+    "verseNumber": 650,
+    "language_id": 1,
+    "id": 650
+  }, {
+    "description": "ayuktaḥ prākṛitaḥ stabdhaḥ śhaṭho naiṣhkṛitiko ‘lasaḥ\nviṣhādī dīrgha-sūtrī cha kartā tāmasa uchyate\n",
+    "lang": "english",
+    "verseNumber": 651,
+    "language_id": 1,
+    "id": 651
+  }, {
+    "description": "buddher bhedaṁ dhṛiteśh chaiva guṇatas tri-vidhaṁ śhṛiṇu\nprochyamānam aśheṣheṇa pṛithaktvena dhanañjaya\n",
+    "lang": "english",
+    "verseNumber": 652,
+    "language_id": 1,
+    "id": 652
+  }, {
+    "description": "pravṛittiṁ cha nivṛittiṁ cha kāryākārye bhayābhaye\nbandhaṁ mokṣhaṁ cha yā vetti buddhiḥ sā pārtha sāttvikī\n",
+    "lang": "english",
+    "verseNumber": 653,
+    "language_id": 1,
+    "id": 653
+  }, {
+    "description": "yayā dharmam adharmaṁ cha kāryaṁ chākāryam eva cha\nayathāvat prajānāti buddhiḥ sā pārtha rājasī\n",
+    "lang": "english",
+    "verseNumber": 654,
+    "language_id": 1,
+    "id": 654
+  }, {
+    "description": "adharmaṁ dharmam iti yā manyate tamasāvṛitā\nsarvārthān viparītānśh cha buddhiḥ sā pārtha tāmasī\n",
+    "lang": "english",
+    "verseNumber": 655,
+    "language_id": 1,
+    "id": 655
+  }, {
+    "description": "dhṛityā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ\nyogenāvyabhichāriṇyā dhṛitiḥ sā pārtha sāttvikī\n",
+    "lang": "english",
+    "verseNumber": 656,
+    "language_id": 1,
+    "id": 656
+  }, {
+    "description": "yayā tu dharma-kāmārthān dhṛityā dhārayate ‘rjuna\nprasaṅgena phalākāṅkṣhī dhṛitiḥ sā pārtha rājasī\n",
+    "lang": "english",
+    "verseNumber": 657,
+    "language_id": 1,
+    "id": 657
+  }, {
+    "description": "yayā svapnaṁ bhayaṁ śhokaṁ viṣhādaṁ madam eva cha\nna vimuñchati durmedhā dhṛitiḥ sā pārtha tāmasī\n",
+    "lang": "english",
+    "verseNumber": 658,
+    "language_id": 1,
+    "id": 658
+  }, {
+    "description": "sukhaṁ tv idānīṁ tri-vidhaṁ śhṛiṇu me bharatarṣhabha\nabhyāsād ramate yatra duḥkhāntaṁ cha nigachchhati\n",
+    "lang": "english",
+    "verseNumber": 659,
+    "language_id": 1,
+    "id": 659
+  }, {
+    "description": "yat  tad agre    viṣam   iva pariṇāme    'mṛtopamam tat sukhaṁ sāttvikaṁ proktam ātma - buddhi - prasāda - jam ",
+    "lang": "english",
+    "verseNumber": 660,
+    "language_id": 1,
+    "id": 660
+  }, {
+    "description": "viṣhayendriya-sanyogād yat tad agre ’mṛitopamam\npariṇāme viṣham iva tat sukhaṁ rājasaṁ smṛitam\n",
+    "lang": "english",
+    "verseNumber": 661,
+    "language_id": 1,
+    "id": 661
+  }, {
+    "description": "yad agre chānubandhe cha sukhaṁ mohanam ātmanaḥ\nnidrālasya-pramādotthaṁ tat tāmasam udāhṛitam\n",
+    "lang": "english",
+    "verseNumber": 662,
+    "language_id": 1,
+    "id": 662
+  }, {
+    "description": "na tad asti pṛithivyāṁ vā divi deveṣhu vā punaḥ\nsattvaṁ prakṛiti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ\n",
+    "lang": "english",
+    "verseNumber": 663,
+    "language_id": 1,
+    "id": 663
+  }, {
+    "description": "brāhmaṇa-kṣhatriya-viśhāṁ śhūdrāṇāṁ cha parantapa\nkarmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ\n",
+    "lang": "english",
+    "verseNumber": 664,
+    "language_id": 1,
+    "id": 664
+  }, {
+    "description": "śhamo damas tapaḥ śhauchaṁ kṣhāntir ārjavam eva cha\njñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam\n",
+    "lang": "english",
+    "verseNumber": 665,
+    "language_id": 1,
+    "id": 665
+  }, {
+    "description": "śhauryaṁ tejo dhṛitir dākṣhyaṁ yuddhe chāpy apalāyanam\ndānam īśhvara-bhāvaśh cha kṣhātraṁ karma svabhāva-jam\n",
+    "lang": "english",
+    "verseNumber": 666,
+    "language_id": 1,
+    "id": 666
+  }, {
+    "description": "kṛiṣhi-gau-rakṣhya-vāṇijyaṁ vaiśhya-karma svabhāva-jam\nparicharyātmakaṁ karma śhūdrasyāpi svabhāva-jam\n",
+    "lang": "english",
+    "verseNumber": 667,
+    "language_id": 1,
+    "id": 667
+  }, {
+    "description": "sve sve karmaṇy abhirataḥ sansiddhiṁ labhate naraḥ\nsva-karma-nirataḥ siddhiṁ yathā vindati tach chhṛiṇu\n",
+    "lang": "english",
+    "verseNumber": 668,
+    "language_id": 1,
+    "id": 668
+  }, {
+    "description": "yataḥ pravṛittir bhūtānāṁ yena sarvam idaṁ tatam\nsva-karmaṇā tam abhyarchya siddhiṁ vindati mānavaḥ\n",
+    "lang": "english",
+    "verseNumber": 669,
+    "language_id": 1,
+    "id": 669
+  }, {
+    "description": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt\nsvabhāva-niyataṁ karma kurvan nāpnoti kilbiṣham\n",
+    "lang": "english",
+    "verseNumber": 670,
+    "language_id": 1,
+    "id": 670
+  }, {
+    "description": "saha-jaṁ karma kaunteya sa-doṣham api na tyajet\nsarvārambhā hi doṣheṇa dhūmenāgnir ivāvṛitāḥ\n",
+    "lang": "english",
+    "verseNumber": 671,
+    "language_id": 1,
+    "id": 671
+  }, {
+    "description": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛihaḥ\nnaiṣhkarmya-siddhiṁ paramāṁ sannyāsenādhigachchhati\n",
+    "lang": "english",
+    "verseNumber": 672,
+    "language_id": 1,
+    "id": 672
+  }, {
+    "description": "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me\nsamāsenaiva kaunteya niṣhṭhā jñānasya yā parā\n",
+    "lang": "english",
+    "verseNumber": 673,
+    "language_id": 1,
+    "id": 673
+  }, {
+    "description": "buddhyā viśhuddhayā yukto dhṛityātmānaṁ niyamya cha\nśhabdādīn viṣhayāns tyaktvā rāga-dveṣhau vyudasya cha\n",
+    "lang": "english",
+    "verseNumber": 674,
+    "language_id": 1,
+    "id": 674
+  }, {
+    "description": "vivikta-sevī laghv-āśhī yata-vāk-kāya-mānasaḥ\ndhyāna-yoga-paro nityaṁ vairāgyaṁ samupāśhritaḥ\n",
+    "lang": "english",
+    "verseNumber": 675,
+    "language_id": 1,
+    "id": 675
+  }, {
+    "description": "ahankāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham\nvimuchya nirmamaḥ śhānto brahma-bhūyāya kalpate\n",
+    "lang": "english",
+    "verseNumber": 676,
+    "language_id": 1,
+    "id": 676
+  }, {
+    "description": "brahma-bhūtaḥ prasannātmā na śhochati na kāṅkṣhati\nsamaḥ sarveṣhu bhūteṣhu mad-bhaktiṁ labhate parām\n",
+    "lang": "english",
+    "verseNumber": 677,
+    "language_id": 1,
+    "id": 677
+  }, {
+    "description": "bhaktyā mām abhijānāti yāvān yaśh chāsmi tattvataḥ\ntato māṁ tattvato jñātvā viśhate tad-anantaram\n",
+    "lang": "english",
+    "verseNumber": 678,
+    "language_id": 1,
+    "id": 678
+  }, {
+    "description": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśhrayaḥ\nmat-prasādād avāpnoti śhāśhvataṁ padam avyayam\n",
+    "lang": "english",
+    "verseNumber": 679,
+    "language_id": 1,
+    "id": 679
+  }, {
+    "description": "chetasā sarva-karmāṇi mayi sannyasya mat-paraḥ\nbuddhi-yogam upāśhritya mach-chittaḥ satataṁ bhava\n",
+    "lang": "english",
+    "verseNumber": 680,
+    "language_id": 1,
+    "id": 680
+  }, {
+    "description": "mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi\natha chet tvam ahankārān na śhroṣhyasi vinaṅkṣhyasi\n",
+    "lang": "english",
+    "verseNumber": 681,
+    "language_id": 1,
+    "id": 681
+  }, {
+    "description": "yad ahankāram āśhritya na yotsya iti manyase\nmithyaiṣha vyavasāyas te prakṛitis tvāṁ niyokṣhyati\n",
+    "lang": "english",
+    "verseNumber": 682,
+    "language_id": 1,
+    "id": 682
+  }, {
+    "description": "swbhāva-jena kaunteya nibaddhaḥ svena karmaṇā\nkartuṁ nechchhasi yan mohāt kariṣhyasy avaśho ’pi tat\n",
+    "lang": "english",
+    "verseNumber": 683,
+    "language_id": 1,
+    "id": 683
+  }, {
+    "description": "īśhvaraḥ sarva-bhūtānāṁ hṛid-deśhe ‘rjuna tiṣhṭhati\nbhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā\n",
+    "lang": "english",
+    "verseNumber": 684,
+    "language_id": 1,
+    "id": 684
+  }, {
+    "description": "tam eva śharaṇaṁ gachchha sarva-bhāvena bhārata\ntat-prasādāt parāṁ śhāntiṁ sthānaṁ prāpsyasi śhāśhvatam\n",
+    "lang": "english",
+    "verseNumber": 685,
+    "language_id": 1,
+    "id": 685
+  }, {
+    "description": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru\n",
+    "lang": "english",
+    "verseNumber": 686,
+    "language_id": 1,
+    "id": 686
+  }, {
+    "description": "sarva-guhyatamaṁ bhūyaḥ śhṛiṇu me paramaṁ vachaḥ\niṣhṭo ‘si me dṛiḍham iti tato vakṣhyāmi te hitam\n",
+    "lang": "english",
+    "verseNumber": 687,
+    "language_id": 1,
+    "id": 687
+  }, {
+    "description": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi satyaṁ te pratijāne priyo ‘si me\n",
+    "lang": "english",
+    "verseNumber": 688,
+    "language_id": 1,
+    "id": 688
+  }, {
+    "description": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ\n",
+    "lang": "english",
+    "verseNumber": 689,
+    "language_id": 1,
+    "id": 689
+  }, {
+    "description": "idaṁ te nātapaskyāya nābhaktāya kadāchana\nna chāśhuśhruṣhave vāchyaṁ na cha māṁ yo ‘bhyasūtayi\n",
+    "lang": "english",
+    "verseNumber": 690,
+    "language_id": 1,
+    "id": 690
+  }, {
+    "description": "ya idaṁ paramaṁ guhyaṁ mad-bhakteṣhv abhidhāsyati\nbhaktiṁ mayi parāṁ kṛitvā mām evaiṣhyaty asanśhayaḥ\n",
+    "lang": "english",
+    "verseNumber": 691,
+    "language_id": 1,
+    "id": 691
+  }, {
+    "description": "na cha tasmān manuṣhyeṣhu kaśhchin me priya-kṛittamaḥ\nbhavitā na cha me tasmād anyaḥ priyataro bhuvi\n",
+    "lang": "english",
+    "verseNumber": 692,
+    "language_id": 1,
+    "id": 692
+  }, {
+    "description": "adhyeṣhyate cha ya imaṁ dharmyaṁ saṁvādam āvayoḥ\njñāna-yajñena tenāham iṣhṭaḥ syām iti me matiḥ\n",
+    "lang": "english",
+    "verseNumber": 693,
+    "language_id": 1,
+    "id": 693
+  }, {
+    "description": "śhraddhāvān anasūyaśh cha śhṛiṇuyād api yo naraḥ\nso ‘pi muktaḥ śhubhāl lokān prāpnuyāt puṇya-karmaṇām\n",
+    "lang": "english",
+    "verseNumber": 694,
+    "language_id": 1,
+    "id": 694
+  }, {
+    "description": "kachchid etach chhrutaṁ pārtha tvayaikāgreṇa chetasā\nkachchid ajñāna-sammohaḥ pranaṣhṭas te dhanañjaya\n",
+    "lang": "english",
+    "verseNumber": 695,
+    "language_id": 1,
+    "id": 695
+  }, {
+    "description": "arjuna uvācha\nnaṣhṭo mohaḥ smṛitir labdhā tvat-prasādān mayāchyuta\nsthito ‘smi gata-sandehaḥ kariṣhye vachanaṁ tava\n",
+    "lang": "english",
+    "verseNumber": 696,
+    "language_id": 1,
+    "id": 696
+  }, {
+    "description": "sañjaya uvācha\nity ahaṁ vāsudevasya pārthasya cha mahātmanaḥ\nsaṁvādam imam aśhrauṣham adbhutaṁ roma-harṣhaṇam\n",
+    "lang": "english",
+    "verseNumber": 697,
+    "language_id": 1,
+    "id": 697
+  }, {
+    "description": "vyāsa-prasādāch chhrutavān etad guhyam ahaṁ param\nyogaṁ yogeśhvarāt kṛiṣhṇāt sākṣhāt kathayataḥ svayam\n",
+    "lang": "english",
+    "verseNumber": 698,
+    "language_id": 1,
+    "id": 698
+  }, {
+    "description": "rājan sansmṛitya sansmṛitya saṁvādam imam adbhutam\nkeśhavārjunayoḥ puṇyaṁ hṛiṣhyāmi cha muhur muhuḥ\n",
+    "lang": "english",
+    "verseNumber": 699,
+    "language_id": 1,
+    "id": 699
+  }, {
+    "description": "tach cha sansmṛitya saṁsmṛitya rūpam aty-adbhutaṁ hareḥ\nvismayo ye mahān rājan hṛiṣhyāmi cha punaḥ punaḥ\n",
+    "lang": "english",
+    "verseNumber": 700,
+    "language_id": 1,
+    "id": 700
+  }, {
+    "description": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama\n",
+    "lang": "english",
+    "verseNumber": 701,
+    "language_id": 1,
+    "id": 701
+  }]
+}
