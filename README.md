@@ -33,6 +33,10 @@ https://github.com/jb-jaydeep/Bhagvat_Geeta_flutter_app/assets/114164037/9de2ab4
 
 
 
+https://github.com/jb-jaydeep/Bhagvat_Geeta_flutter_app/assets/114164037/e7690a69-a184-4cb9-80de-a0c04c50df2d
+
+
+
 
 
 
