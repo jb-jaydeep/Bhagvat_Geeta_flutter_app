@@ -38,6 +38,7 @@ dependencies:
   introduction_screen:
   shared_preferences:
   provider:
+  share_plus: ^7.0.2
 
 dev_dependencies:
   flutter_test:

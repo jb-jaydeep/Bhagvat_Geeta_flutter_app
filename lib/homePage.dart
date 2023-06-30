@@ -1,9 +1,12 @@
 import 'dart:convert';
+import 'package:bhagvad_geeta_flutter_app/Views/LikePage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'Model/JsonData.dart';
 import 'Provider/ThemeProvider.dart';
+import 'Views/GujaratiLikePage.dart';
+import 'Views/HindilikedPage.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -35,6 +38,48 @@ class _HomePageState extends State<HomePage> {
               },
             ),
           ),
+          PopupMenuButton(
+            onSelected: (val) {
+              if (val == "hin") {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) =>
+                        HindilikedPage(likeVerses: likeVerses),
+                  ),
+                );
+              } else if (val == "guj") {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => GujaratilikedPage(like: like),
+                  ),
+                );
+              } else {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) =>
+                        LikedVersesPage(likedVerses: likedVerses),
+                  ),
+                );
+              }
+            },
+            itemBuilder: (BuildContext context) => [
+              const PopupMenuItem(
+                value: 'hin',
+                child: Text("Hindi liked verse"),
+              ),
+              const PopupMenuItem(
+                value: 'guj',
+                child: Text("Gujarati liked verse"),
+              ),
+              const PopupMenuItem(
+                value: 'eng',
+                child: Text("English liked verse"),
+              ),
+            ],
+          ),
         ],
       ),
       body: FutureBuilder(
@@ -49,7 +94,7 @@ class _HomePageState extends State<HomePage> {
                 myData.map((e) => JsonData.formMap(Data: e)).toList();
             return GridView.builder(
                 itemCount: PostData.length,
-                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                     crossAxisCount: 1),
                 itemBuilder: (context, i) {
                   return Padding(
@@ -92,9 +137,9 @@ class _HomePageState extends State<HomePage> {
                   );
                 });
           } else if (snapshot.hasError) {
-            Text("Error");
+            const Text("Error");
           }
-          return Center(
+          return const Center(
             child: CircularProgressIndicator(),
           );
         },

@@ -1,3 +1,5 @@
+String? popmenuvalue;
+
 class JsonData {
   final int verses_count;
   final int id;
@@ -145,3 +147,7 @@ class EnglishshlokData {
     );
   }
 }
+
+List<shlokData> likedVerses = [];
+List<shlokData> likeVerses = [];
+List<GujaratishlokData>like = [];

@@ -1,3 +1,4 @@
+import 'package:bhagvad_geeta_flutter_app/Model/JsonData.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -5,6 +6,9 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'Model/ThemeModel.dart';
 import 'Provider/ThemeProvider.dart';
+import 'Views/GujaratiLikePage.dart';
+import 'Views/HindilikedPage.dart';
+import 'Views/LikePage.dart';
 import 'Views/ShlokPage.dart';
 import 'Views/detailPage.dart';
 import 'Views/introScreen.dart';
@@ -42,6 +46,15 @@ void main() async {
               'hp': (context) => const HomePage(),
               'DetailPage': (context) => const DetailPage(),
               'ShlokPage': (context) => const ShlokPage(),
+              'Gujaratiliked': (context) => GujaratilikedPage(
+                    like: like,
+                  ),
+              'Hindiliked': (context) => HindilikedPage(
+                    likeVerses: likeVerses,
+                  ),
+              'Like': (context) => LikedVersesPage(
+                    likedVerses: likedVerses,
+                  ),
             },
           );
         },

@@ -5,6 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../Model/JsonData.dart';
+import 'GujaratiLikePage.dart';
+import 'HindilikedPage.dart';
+import 'LikePage.dart';
 
 class DetailPage extends StatefulWidget {
   const DetailPage({super.key});
@@ -27,10 +30,54 @@ class _DetailPageState extends State<DetailPage> {
             : (Lang == "Hindi")
                 ? Text("अध्याय - ${Post.id}", textAlign: TextAlign.justify)
                 : Text(
-                    style: TextStyle(fontSize: 15),
+                    style: const TextStyle(fontSize: 15),
                     textAlign: TextAlign.justify,
                     "Chapter - ${Post.id}"),
         centerTitle: true,
+        actions: [
+          PopupMenuButton(
+            onSelected: (val) {
+              if (val == "hin") {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) =>
+                        HindilikedPage(likeVerses: likeVerses),
+                  ),
+                );
+              } else if (val == "guj") {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => GujaratilikedPage(like: like),
+                  ),
+                );
+              } else {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) =>
+                        LikedVersesPage(likedVerses: likedVerses),
+                  ),
+                );
+              }
+            },
+            itemBuilder: (BuildContext context) => [
+              PopupMenuItem(
+                value: 'hin',
+                child: Text("Hindi liked verse"),
+              ),
+              PopupMenuItem(
+                value: 'guj',
+                child: Text("Gujarati liked verse"),
+              ),
+              const PopupMenuItem(
+                value: 'eng',
+                child: Text("English liked verse"),
+              ),
+            ],
+          ),
+        ],
       ),
       body: Padding(
         padding: const EdgeInsets.all(20),
@@ -40,7 +87,7 @@ class _DetailPageState extends State<DetailPage> {
             (Lang == "Gujarati")
                 ? Text(
                     Post.GujName,
-                    style: TextStyle(
+                    style: const TextStyle(
                       fontWeight: FontWeight.bold,
                     ),
                   )
@@ -48,7 +95,7 @@ class _DetailPageState extends State<DetailPage> {
                     ? Text(
                         Post.Hindiname,
                         textAlign: TextAlign.justify,
-                        style: TextStyle(
+                        style: const TextStyle(
                           fontWeight: FontWeight.bold,
                         ),
                       )
@@ -80,7 +127,7 @@ class _DetailPageState extends State<DetailPage> {
                       ? Colors.black87
                       : Colors.white,
             ),
-            Container(
+            SizedBox(
               height: h * 0.25,
               child: SingleChildScrollView(
                 child: (Lang == "Gujarati")
@@ -99,6 +146,14 @@ class _DetailPageState extends State<DetailPage> {
               onPressed: () {
                 Navigator.of(context).pushNamed("ShlokPage", arguments: Post);
               },
+              style: ButtonStyle(
+                backgroundColor:
+                    (Provider.of<ThemeProvider>(context, listen: false)
+                                .isdark ==
+                            false)
+                        ? const MaterialStatePropertyAll(Colors.black87)
+                        : const MaterialStatePropertyAll(CupertinoColors.white),
+              ),
               child: (Lang == "Gujarati")
                   ? Text(
                       "સંપૂર્ણ પ્રકરણ જોવા માટે ટેપ કરોે",
@@ -138,18 +193,10 @@ class _DetailPageState extends State<DetailPage> {
                               fontSize: h * 0.02),
                           textAlign: TextAlign.justify,
                           "Tap For view full chapter"),
-              style: ButtonStyle(
-                backgroundColor:
-                    (Provider.of<ThemeProvider>(context, listen: false)
-                                .isdark ==
-                            false)
-                        ? MaterialStatePropertyAll(Colors.black87)
-                        : MaterialStatePropertyAll(CupertinoColors.white),
-              ),
             ),
             RadioListTile(
                 value: "Gujarati",
-                title: Text("Gujarati"),
+                title: const Text("Gujarati"),
                 groupValue: Lang,
                 onChanged: (val) {
                   setState(() {
@@ -158,7 +205,7 @@ class _DetailPageState extends State<DetailPage> {
                 }),
             RadioListTile(
                 value: "Hindi",
-                title: Text("Hindi"),
+                title: const Text("Hindi"),
                 groupValue: Lang,
                 onChanged: (val) {
                   setState(() {
@@ -167,7 +214,7 @@ class _DetailPageState extends State<DetailPage> {
                 }),
             RadioListTile(
                 value: "English",
-                title: Text("English"),
+                title: const Text("English"),
                 groupValue: Lang,
                 onChanged: (val) {
                   setState(() {
